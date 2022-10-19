@@ -13,15 +13,15 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
+        - title: GOVCASH
+          description: ""
+          url: /govcash/
+        - title: COL SPECIAL PAYMENT
+          description: ""
+          url: ""
         - title: SMS ADVISORY
           description: ""
           url: /sms-advisory/
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
