@@ -13,3 +13,5 @@ You are eligible for the COL Special Payment, if:
 
 * You do not own more than one property.
 
+![](/images/COLSpecialPayment-table.png)
+
