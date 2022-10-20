@@ -7,7 +7,7 @@ links:
   - title: Am I Elgible?
     url: /am-i-eligible
     sublinks:
-      - title: Assurance Package Cash/COL SP
+      - title: Assurance Package Cash
         url: /ap-cash
       - title: Assurance Package MediSave
         url: /ap-medisave
