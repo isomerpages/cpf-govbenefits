@@ -1,13 +1,53 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
-  - title: Contact Us
+  - title: Home
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About Assurance Package
+    url: /about-assurancepackage
+  - title: Am I Elgible?
+    url: /am-i-eligible
+    sublinks:
+      - title: AP Cash
+        url: /ap-cash
+      - title: AP MediSave
+        url: /ap-medisave
+      - title: Additional GSTV – U-Save
+        url: /additional-gstv-u-save
+      - title: CDC Vouchers
+        url: /permalink
+      - title: COL Special Payment
+        url: /permalink
+      - title: GSTV – Cash (Seniors' Bonus)
+        url: /gstv-cash-seniorsbonus
+  - title: When will I be paid?
+    url: /when-will-i-be-paid
+    sublinks:
+      - title: AP Cash
+        url: /permalink
+      - title: GSTV – Cash (Seniors' Bonus)
+        url: /permalink
+      - title: AP MediSave
+        url: /permalink
+      - title: "Additional GSTV – U –Save "
+        url: /permalink
+      - title: CDC Vouchers
+        url: /permalink
+      - title: COL Special Payment
+        url: /permalink
+  - title: FAQs
+    url: /permalink
+    sublinks:
+      - title: Additional GSTV – U-Save
+        url: /permalink
+      - title: AP Cash
+        url: /permalink
+      - title: AP MediSave
+        url: /permalink
+      - title: COL Special Payment
+        url: /permalink
+      - title: CDC Vouchers
+        url: /permalink
+      - title: GSTV – Cash (Seniors' Bonus)
+        url: /permalink
+  - title: Login
+    url: /permalink
