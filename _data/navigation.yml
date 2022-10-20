@@ -7,32 +7,32 @@ links:
   - title: Am I Elgible?
     url: /am-i-eligible
     sublinks:
-      - title: AP Cash
-        url: /ap-cash
-      - title: AP MediSave
-        url: /ap-medisave
       - title: Additional GSTV – U-Save
         url: /additional-gstv-u-save
+      - title: Assurance Package Cash
+        url: /ap-cash
+      - title: Assurance Package MediSave
+        url: /ap-medisave
       - title: CDC Vouchers
         url: /permalink
-      - title: COL Special Payment
+      - title: Cost of Living Special Payment
         url: /permalink
       - title: GSTV – Cash (Seniors' Bonus)
         url: /gstv-cash-seniorsbonus
   - title: When will I be paid?
     url: /when-will-i-be-paid
     sublinks:
-      - title: AP Cash
+      - title: Assurance Package Cash
+        url: /permalink
+      - title: Cost of Living Special Payment
         url: /permalink
       - title: GSTV – Cash (Seniors' Bonus)
         url: /permalink
-      - title: AP MediSave
+      - title: Assurance Package MediSave
         url: /permalink
       - title: "Additional GSTV – U –Save "
         url: /permalink
       - title: CDC Vouchers
-        url: /permalink
-      - title: COL Special Payment
         url: /permalink
   - title: FAQs
     url: /permalink
