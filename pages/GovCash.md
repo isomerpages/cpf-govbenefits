@@ -74,8 +74,7 @@ c)	Beneficiary’s GovCash Payment Reference Number (PRN) which is indicated in 
 d) 	Proxy’s original NRIC<br><br>
 
 Proxy’s Action:<br>
-Bring the required documents and visit a NEW ATM located at selected OCBC branches during the branch operating hours. Digital Ambassadors will be available to render assistance. 
-<br></details></li>    
+Bring the required documents and visit a NEW ATM located at selected OCBC branches during the branch operating hours. Digital Ambassadors will be available to render assistance. <br></details</li> 
 			</ol>
     </div>
 	</li>  
