@@ -17,7 +17,8 @@ You are eligible for the COL Special Payment, if:
 
 &nbsp; <table>
 
-<thead><tr><th style="text-align:center; vertical-align:middle" rowspan="3"><br><br> Assessable Income (AI) for Year of Assessment 2022 (YA2022)</th><th style="text-align:center; vertical-align:middle" colspan="4"> Do not own more than one property</th></tr><tr><th style="text-align:center; vertical-align:middle" colspan="1"> AI &lt; $22,000</th>
+<thead><tr><th style="text-align:center; vertical-align:middle" rowspan="3"><br><br> Assessable Income (AI) for Year of Assessment 2022 (YA2022)</th><th style="text-align:center; vertical-align:middle" colspan="4"> Do not own more than one property</th><th style="text-align:center; vertical-align:middle" rowspan="3"><br><br> Own more than one property</th>
+	</tr><tr><th style="text-align:center; vertical-align:middle" colspan="1"> AI &lt; $22,000</th>
 
 <th style="text-align:center; vertical-align:middle" colspan="1">$22,000 &lt; AI ≤ $34,000</th>
 
@@ -33,13 +34,13 @@ You are eligible for the COL Special Payment, if:
 
 <td style="text-align:center; vertical-align:middle">$300</td>
 
-<td style="text-align:center; vertical-align:middle">-</td></tr><tr><td style="text-align:center; vertical-align:middle"> AP Cash <br></td>
+<td style="text-align:center; vertical-align:middle">-</td><td style="text-align:center; vertical-align:middle">-</td></tr><tr><td style="text-align:center; vertical-align:middle"> AP Cash <br></td>
 
 <th style="text-align:center; vertical-align:middle" colspan="2">$200
 
 </th><td style="text-align:center; vertical-align:middle">$150</td>
 
-<td style="text-align:center; vertical-align:middle">$100</td></tr>
+<td style="text-align:center; vertical-align:middle">$100</td><td style="text-align:center; vertical-align:middle">$100</td></tr>
 	
 
 </tbody>
