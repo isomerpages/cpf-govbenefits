@@ -3,6 +3,7 @@ title: Cost of Living Special Payment
 permalink: /costofliving-special-payment/
 description: ""
 ---
+
 On 14 October 2022, DPM and Minister for Finance announced a $1.5 billion support package to provide further cost-of-living relief for all Singaporean households, with more support for lower- to middle-income groups. This includes a one-off Cost of Living (COL) Special Payment of up to $500 for 2.5 million adult Singaporeans. The COL Special Payment will be disbursed in December 2022, together with AP Cash payouts.
 
 You are eligible for the COL Special Payment, if:
@@ -13,9 +14,9 @@ You are eligible for the COL Special Payment, if:
 
 * You do not own more than one property.
 
-<style>
-table, th, td { border:1px solid black; } </style> <body> <table style="width:100%"> <tr> 
+<table>
 
+	
 <thead><tr><th style="text-align:center; vertical-align:top" rowspan="3"><br><br> Assessable Income (AI) for Year of Assessment 2022 (YA2022)</th><th style="text-align:center; vertical-align:middle" colspan="4"> Do not own more than one property</th><th style="text-align:center; vertical-align:top" rowspan="3"><br><br> Own more than one property</th>
 	</tr><tr><th style="text-align:center; vertical-align:middle" colspan="1"> AI &lt; $22,000</th>
 
@@ -43,5 +44,7 @@ table, th, td { border:1px solid black; } </style> <body> <table style="width:10
 	
 
 </tbody>
-	t
+
+
+
 </table>
