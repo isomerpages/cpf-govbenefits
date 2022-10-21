@@ -75,10 +75,10 @@ d) 	Proxy’s original NRIC<br><br>
 
 Proxy’s Action:<br>
 Bring the required documents and visit a NEW ATM located at selected OCBC branches during the branch operating hours. Digital Ambassadors will be available to render assistance. 
-<br><br>
-</details></li>
-	
-     
+<br></details></li>    
+			</ol>
+    </div>
+	</li>  
   <li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3">What should I do if I do not want to receive my payouts via GovCash?</label>
