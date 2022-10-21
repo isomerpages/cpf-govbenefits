@@ -15,41 +15,6 @@ You are eligible for the COL Special Payment, if:
 
 ![](/images/COLSpecialPayment-table.png)
 
-       
-
-
-&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-		
-		
-
-&nbsp; 
-
-&nbsp; 
-		
-		
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp; 
-
-&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-
-
-
 &nbsp; <table>
 
 <thead><tr><th style="text-align:center; vertical-align:middle" rowspan="3"><br><br> Assessable Income (AI) for Year of Assessment 2022 (YA2022)</th><th style="text-align:center; vertical-align:middle" colspan="4"> Do not own more than one property</th></tr><tr><th style="text-align:center; vertical-align:middle" colspan="1"> AI &lt; $22,000</th>
@@ -82,9 +47,3 @@ You are eligible for the COL Special Payment, if:
 
 
 </table>
-
-
-
-
-
-
