@@ -49,31 +49,31 @@ You do not need to have an OCBC bank account to use this service. <br><br>
 </details></li>
 				  <li class="Numbering" style="font-size:17px"><details><summary><b>How can I withdraw my GovCash if I cannot personally perform the ATM withdrawal?</b></summary><br>
 						
-**Option 1: Use LifeSG to transfer to PayNow-NRIC linked bank account**<br>
-If the beneficiary has an existing bank account, he can link his account for PayNow-NRIC with his bank. Thereafter, login to LifeSG mobile app (LifeSG) using his Singpass to transfer his GovCash to his PayNow-NRIC linked bank        account. The beneficiary will be able to receive his future Government payouts more quickly into his PayNow-linked bank account.
+<b>Option 1: Use LifeSG to transfer to PayNow-NRIC linked bank account</b><br>
+If the beneficiary has an existing bank account, he can link his account for PayNow-NRIC with his bank. Thereafter, login to LifeSG mobile app (LifeSG) using his Singpass to transfer his GovCash to his PayNow-NRIC linked bank account. The beneficiary will be able to receive his future Government payouts more quickly into his PayNow-linked bank account.
 
-**Option 2: Use LifeSG  for Scan & Pay**<br>
+<b>Option 2: Use LifeSG  for Scan & Pay</b><br>
 The beneficiary can use LifeSG to scan participating merchant’s QR code for purchases or scan his friend/family’s QR code to transfer his GovCash to them.
 
-**Option 3: Appoint a proxy to perform ATM withdrawal on his behalf**<br>
+<b>Option 3: Appoint a proxy to perform ATM withdrawal on his behalf</b><br>
 The beneficiary can appoint a proxy or if he is no longer able to appoint a proxy due to his medical condition, his official representative can act as his proxy to perform the ATM withdrawal on his/her behalf. To do so, the following conditions must be met:
 
 The proxy must be:<br>
 Aged 21 years and above; and
-Is a next-of-kin or caregiver or appointed donee under the Lasting Power of Attorney (LPA) of the beneficiary
+Is a next-of-kin or caregiver or appointed donee under the Lasting Power of Attorney (LPA) of the beneficiary<br>
 
 Required Documents:<br>
-a) 	Memo or medical report signed-off by a medical doctor, which certifies the beneficiary’s medical condition that   disallows him/her to personally perform the ATM withdrawal
+a) 	Memo or medical report signed-off by a medical doctor, which certifies the beneficiary’s medical condition that   disallows him/her to personally perform the ATM withdrawal<br>
 
-Note:	If the condition is non-permanent, the medical documentation must be dated within 1 year from the date of transaction by proxy. However, if the condition is known to be permanent (e.g. bedridden, immobile, physically incapacitated, disabled, intellectually disabled, autism, down syndrome, cerebral palsy, etc), the medical          documentation can be dated any time, and be used for future transactions.
+Note:	If the condition is non-permanent, the medical documentation must be dated within 1 year from the date of transaction by proxy. However, if the condition is known to be permanent (e.g. bedridden, immobile, physically incapacitated, disabled, intellectually disabled, autism, down syndrome, cerebral palsy, etc), the medical          documentation can be dated any time, and be used for future transactions.<br>
 
-b)	Photocopy of beneficiary’s NRIC
+b)	Photocopy of beneficiary’s NRIC<br>
 
-c)	Beneficiary’s GovCash Payment Reference Number (PRN) which is indicated in the payment notification to beneficiary
+c)	Beneficiary’s GovCash Payment Reference Number (PRN) which is indicated in the payment notification to beneficiary<br>
 
-d) 	Proxy’s original NRIC
+d) 	Proxy’s original NRIC<br>
 
-Proxy’s Action:
+Proxy’s Action:<br>
 Bring the required documents and visit a NEW ATM located at selected OCBC branches during the branch operating hours. Digital Ambassadors will be available to render assistance. 
 <br><br>
 </details></li>
