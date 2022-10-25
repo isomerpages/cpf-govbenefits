@@ -4,21 +4,8 @@ links:
     url: /contact-us/
   - title: About Assurance Package
     url: /about-assurancepackage
-  - title: Am I Elgible?
-    url: /am-i-eligible
-    sublinks:
-      - title: Assurance Package Cash
-        url: /ap-cash
-      - title: Assurance Package MediSave
-        url: /ap-medisave
-      - title: Cost of Living Special Payment
-        url: /permalink
-      - title: GSTV – Cash (Seniors' Bonus)
-        url: /gstv-cash-seniorsbonus
-      - title: Additional GSTV – U-Save
-        url: /additional-gstv-u-save
-      - title: CDC Vouchers
-        url: /permalink
+  - title: Am I eligible?
+    collection: am-i-eligible
   - title: When will I be paid?
     url: /when-will-i-be-paid
     sublinks:
@@ -51,5 +38,3 @@ links:
         url: /permalink
   - title: Login
     url: /permalink
-  - title: Ami eligible
-    collection: am-i-eligible
