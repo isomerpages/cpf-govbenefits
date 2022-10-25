@@ -1,0 +1,4 @@
+collections:
+  am-i-eligible:
+    output: true
+    order: []
