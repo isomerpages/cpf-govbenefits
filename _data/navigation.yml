@@ -6,21 +6,6 @@ links:
     url: /about-assurancepackage
   - title: Am I eligible?
     collection: am-i-eligible
-  - title: When will I be paid?
-    url: /when-will-i-be-paid
-    sublinks:
-      - title: Assurance Package Cash
-        url: /permalink
-      - title: Cost of Living Special Payment
-        url: /permalink
-      - title: GSTV – Cash (Seniors' Bonus)
-        url: /permalink
-      - title: Assurance Package MediSave
-        url: /permalink
-      - title: "Additional GSTV – U –Save "
-        url: /permalink
-      - title: CDC Vouchers
-        url: /permalink
   - title: When willi be paid
     collection: am-i-eligible
   - title: FAQs
