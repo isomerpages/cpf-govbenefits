@@ -14,7 +14,7 @@ ii. You do not own more than one property.<br>
 <br><br>
 You may login to the <a href="https://www.govpayouts.gov.sg/cds/gstv/login" class="hyperlink">e-services</a> to view your eligibility for the COL Special Payment. <br><br><br>
 <br><br>
-<b>Common terms related to the AP Cash Payouts’ eligibility criteria</b><br><br>
+<b>Common terms related to the COL Special Payment's eligibility criteria</b><br><br>
 <table>
 <thead>
   <tr>
