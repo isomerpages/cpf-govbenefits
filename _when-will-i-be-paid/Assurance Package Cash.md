@@ -3,3 +3,23 @@ title: Assurance Package Cash
 permalink: /when-will-i-be-paid/ap-cash/
 description: ""
 ---
+### Assurance Package Cash ###
+If you are eligible for the AP Cash, you will receive the payments in December each year, from 2022 to 2026.  <br><br>
+Starting from 2022, we will no longer be issuing cheques. You are encouraged to link your NRIC to PayNow to receive your payouts earlier. If you do not have a PayNow-NRIC-linked bank account but have provided your bank account number to the Government previously, you will receive your payouts via bank transfer. If you do not have a bank account, the payouts will be credited to you via <a href="https://www.govpayouts.gov.sg/cds/gstv/login" class="hyperlink">GovCash</a>
+
+<table>
+	<thead>  
+		<tr>
+     <th style="text-align:center; vertical-align:middle">What you need to do to receive your <br>2022 AP Cash (if eligible) <br></th>
+		<th style="text-align:center; vertical-align:middle">Payment Date <br></th>
+  </tr>
+</thead>
+	<tbody>
+  <tr>
+    <td style="text-align:left; vertical-align:middle">No action required<br><br> If you wish to update your payment mode, please do so by XX December 2022</td>
+       <td style="text-align:left; vertical-align:middle">For PayNow: <br>XX December 2022<br><br>For Bank crediting: <br>XX December 2022<br><br>For GovCash:<br>XX December 2022</td>
+  </tr>
+		<tr>
+			</tr>
+</tbody>
+</table><br><br><br>
