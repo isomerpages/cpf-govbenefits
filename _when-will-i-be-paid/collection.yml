@@ -2,4 +2,5 @@ collections:
   when-will-i-be-paid:
     output: true
     order:
+      - Assurance Package MediSave.md
       - Assurance Package Cash.md
