@@ -1,4 +1,5 @@
 collections:
   am-i-eligible:
     output: true
-    order: []
+    order:
+      - AP Cash.md
