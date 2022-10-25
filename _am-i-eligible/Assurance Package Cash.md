@@ -3,6 +3,7 @@ title: Assurance Package Cash
 permalink: /am-i-eligible/ap-cash/
 description: ""
 ---
+### Assurance Package (AP) Cash Payouts ###
 Every Singaporean aged 21 years and above will receive cash payouts amounting to between $700 to $1,600, depending on his/her income and property ownership (see Table 1). The payouts will be disbursed over five years, from 2022 to 2026. 
 <br><br>
 To receive the <b>AP Cash Payouts</b> , you must fulfil the following criteria:<br><br>
