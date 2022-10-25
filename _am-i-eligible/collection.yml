@@ -2,5 +2,5 @@ collections:
   am-i-eligible:
     output: true
     order:
-      - Assurance Package MediSave.md
       - Assurance Package Cash.md
+      - Assurance Package MediSave.md
