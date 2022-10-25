@@ -21,6 +21,8 @@ links:
         url: /permalink
       - title: CDC Vouchers
         url: /permalink
+  - title: When willi be paid
+    collection: am-i-eligible
   - title: FAQs
     url: /permalink
     sublinks:
