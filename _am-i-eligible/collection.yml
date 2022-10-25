@@ -2,4 +2,4 @@ collections:
   am-i-eligible:
     output: true
     order:
-      - AP Cash.md
+      - Assurance Package Cash.md
