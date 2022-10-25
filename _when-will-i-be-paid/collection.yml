@@ -1,0 +1,4 @@
+collections:
+  when-will-i-be-paid:
+    output: true
+    order: []
