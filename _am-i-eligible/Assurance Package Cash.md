@@ -9,6 +9,8 @@ To receive the <b>AP Cash Payouts</b> , you must fulfil the following criteria:<
 i. You must be a Singapore citizen, residing in Singapore;<br>
 ii. You must be aged 21 and above in the reference year (see Table 1).<br>
 <br><br>
+You may login to the <a href="https://www.govpayouts.gov.sg/cds/gstv/login" class="hyperlink">e-services</a> to view your eligibility for the upcoming AP Cash Payout. <br><br><br>
+<br><br>
 <b>Common terms related to the AP Cash Payouts’ eligibility criteria</b><br><br>
 <table>
 <thead>
