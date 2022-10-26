@@ -4,7 +4,8 @@ permalink: /am-i-eligible/ap-medisave/
 description: ""
 ---
 ### Assurance Package (AP) MediSave ###
-Every Singaporean aged (i) 20 years and below, or (ii) 55 years and above, will receive a MediSave top-up of $450 over 2023 to 2025 (see Table 1). 
+
+<font style="font-size:17px"> Every Singaporean aged (i) 20 years and below, or (ii) 55 years and above, will receive a MediSave top-up of $450 over 2023 to 2025 (see Table 1). 
 <br><br>
 <table>
 <thead>
@@ -13,7 +14,7 @@ Every Singaporean aged (i) 20 years and below, or (ii) 55 years and above, will 
 		<th style="text-align:center; vertical-align:middle" rowspan="2">20 years and below</th>
   </tr>
   <tr>
-    <th style="text-align:center; vertical-align:middle"rowspan="2">55 years and above<br></th>
+    <th style="text-align:center; vertical-align:middle">55 years and above<br></th>
   </tr>
 </thead>
 <tbody>
