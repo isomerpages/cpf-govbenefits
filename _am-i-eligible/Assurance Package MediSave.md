@@ -10,7 +10,7 @@ Every Singaporean aged (i) 20 years and below, or (ii) 55 years and above, will 
 <thead>
   <tr>
     <th style="text-align:center; vertical-align:middle" rowspan="2"><br><br>Age of Singaporen in Payout Year</th>
-		<th style="text-align:center; vertical-align:middle" rowspan="4">20 years and below</th>
+		<th style="text-align:center; vertical-align:middle" rowspan="2">20 years and below</th>
   </tr>
   <tr>
     <th style="text-align:center; vertical-align:middle">55 years and above<br></th>
@@ -19,24 +19,20 @@ Every Singaporean aged (i) 20 years and below, or (ii) 55 years and above, will 
 <tbody>
   <tr>
 		<td style="text-align:center; vertical-align:middle"><b>2023</b></td>
-    <td style="text-align:center; vertical-align:middle">$150</td>
-       <td style="text-align:center; vertical-align:middle">$150</td>
+    <td colspan="2" style="text-align:center; vertical-align:middle">$150</td>
   </tr>
 	  <tr>
     <td style="text-align:center; vertical-align:middle"><b>2024</b></td>
-    <td style="text-align:center; vertical-align:middle">1</td>
-       <td style="text-align:center; vertical-align:middle">0.5</td>
+     <td colspan="2" style="text-align:center; vertical-align:middle">$150</td>
   </tr>
 	  <tr>
     <td style="text-align:center; vertical-align:middle"><b>2025</b></td>
-    <td style="text-align:center; vertical-align:middle">0.5</td>
-       <td style="text-align:center; vertical-align:middle">0.5</td>
+    <td colspan="2" style="text-align:center; vertical-align:middle">$150</td>
   </tr>
 	  <tr>
     <td style="text-align:center; vertical-align:middle"><b>Total</b></td>
-    <td style="text-align:center; vertical-align:middle">0.5</td>
-       <td style="text-align:center; vertical-align:middle">0.5</td>
- </tr>
+    <td colspan="2" style="text-align:center; vertical-align:middle">$450</td> 
+ </tr>	  <tr> </tr>	
   </tbody>
 </table><br>
 To receive the <b>AP MediSave</b> , you must fulfil the following criteria:<br><br>
