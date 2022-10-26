@@ -2,9 +2,9 @@ collections:
   faqs:
     output: true
     order:
-      - CDC Vouchers.md
+      - Assurance Package Cash.md
       - Cost of Living Special Payment.md
       - GSTV – Cash (Seniors' Bonus).md
-      - Additional GSTV – U–Save.md
       - Assurance Package MediSave.md
-      - Assurance Package Cash.md
+      - Additional GSTV – U–Save.md
+      - CDC Vouchers.md
