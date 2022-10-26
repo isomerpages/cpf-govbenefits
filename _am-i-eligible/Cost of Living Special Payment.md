@@ -6,7 +6,11 @@ description: ""
 ### Cost of Living (COL) Special Payment ###
  <font style="font-size:17px"> On 14 October 2022, DPM and Minister for Finance announced a $1.5 billion support package to provide further cost-of-living relief for all Singaporean households, with more support for lower- to middle-income groups. This includes a one-off Cost of Living (COL) Special Payment of up to $500 for 2.5 million adult Singaporeans. The COL Special Payment will be disbursed in December 2022, together with AP Cash payouts. 
 <br><br>
- <table style="width:100%"> <tr> 
+To receive the <b>COL Special Payment</b> , you must fulfil the following criteria:<br><br>
+i. You must be a Singapore citizen, residing in Singapore;<br>
+ii. You must be aged 21 and above in 2023;<br>
+iii. Your Assessable Income (AI) for Year of Assessment (YA) 2022 is $100,000; and<br>
+ii. You do not own more than one property.<br> <table style="width:100%"> <tr> 
 <thead><tr><th style="text-align:center; vertical-align:top" rowspan="3"><br><br> Assessable Income (AI) for Year of Assessment 2022 (YA2022)</th><th style="text-align:center; vertical-align:middle" colspan="4"> Do not own more than one property</th><th style="text-align:center; vertical-align:top" rowspan="3"><br><br> Own more than one property</th>
 	</tr><tr><th style="text-align:center; vertical-align:middle" colspan="1"> AI &lt; $22,000</th>
 <th style="text-align:center; vertical-align:middle" colspan="1">$22,000 &lt; AI ≤ $34,000</th>
@@ -21,12 +25,6 @@ description: ""
 </th><td style="text-align:center; vertical-align:middle">$150</td>
 <td style="text-align:center; vertical-align:middle">$100</td><td style="text-align:center; vertical-align:middle">$100</td></tr>
 	</tbody>
-	 <br><br>
-To receive the <b>COL Special Payment</b> , you must fulfil the following criteria:<br><br>
-i. You must be a Singapore citizen, residing in Singapore;<br>
-ii. You must be aged 21 and above in 2023;<br>
-iii. Your Assessable Income (AI) for Year of Assessment (YA) 2022 is $100,000; and<br>
-ii. You do not own more than one property.<br>
 <br><br>
 You may login to the <a href="https://www.govpayouts.gov.sg/cds/gstv/login" class="hyperlink">e-services</a> to view your eligibility for the COL Special Payment. <br><br><br>
 <br><br>
@@ -56,3 +54,5 @@ Singpass > Notices/Letters > Individual, select Year of Assessment] to view your
   </tr>
 </tbody>
 </table>
+	
+	
