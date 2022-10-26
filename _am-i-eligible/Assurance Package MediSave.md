@@ -13,7 +13,7 @@ Every Singaporean aged (i) 20 years and below, or (ii) 55 years and above, will 
 		<th style="text-align:center; vertical-align:middle" rowspan="2">20 years and below</th>
   </tr>
   <tr>
-    <th style="text-align:center; vertical-align:middle">55 years and above<br></th>
+    <th style="text-align:center; vertical-align:middle"rowspan="2">55 years and above<br></th>
   </tr>
 </thead>
 <tbody>
