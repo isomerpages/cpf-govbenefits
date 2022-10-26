@@ -8,10 +8,19 @@ Lower-income Singaporean seniors will receive additional cash payouts of $600 to
 
 <table>
 <thead>
-  <tr>
-    <th rowspan="3" style="text-align:center; vertical-align:middle"><br><br>Age of Singaporean in Payout Year</th>
-    <th colspan="2" style="text-align:center; vertical-align:middle">AV ≤ $13,000</th>
+	<tr>
+    <th style="text-align:center; vertical-align:middle"><br><br>Property Ownership</th><th colspan="4" style="text-align:center; vertical-align:middle">Owns 0-1 property</th>
+		  </tr>
+	<tr>
+    <th style="text-align:center; vertical-align:middle"><br><br>Assessable Income (AI) </th><th colspan="4" style="text-align:center; vertical-align:middle">AI ≤ $34,000</th>
+		  </tr>
+	<tr>
+    <th style="text-align:center; vertical-align:middle"><br><br>Annual Value (AV) of Home </th><th colspan="2" style="text-align:center; vertical-align:middle">AV ≤ $13,000</th>
 		<th colspan="2" style="text-align:center; vertical-align:middle">$13,000< AV ≤ $21,000</th>
+  </tr>
+  <tr>
+    <th rowspan="2" style="text-align:center; vertical-align:middle"><br><br>Age of Singaporean in Payout Year</th>
+    
   </tr>
   <tr>
     <th colspan="1" style="text-align:center; vertical-align:middle"> 55 to 64 years</th>
