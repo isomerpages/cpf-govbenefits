@@ -9,7 +9,7 @@ Every Singaporean aged (i) 20 years and below, or (ii) 55 years and above, will 
 <table>
 <thead>
   <tr>
-    <th style="text-align:center; vertical-align:middle" rowspan="2"><br><br>Age of Singaporen in Payout Year</th>
+    <th style="text-align:center; vertical-align:middle" rowspan="2"><br><br>Age of Singaporean in <br>Payout Year</th>
 		<th style="text-align:center; vertical-align:middle" rowspan="2">20 years and below</th>
   </tr>
   <tr>
