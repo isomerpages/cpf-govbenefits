@@ -56,6 +56,9 @@ Lower-income Singaporean seniors will receive additional cash payouts of $600 to
 </tbody>
 </table>  
 <br><br>
+  <u>Note</u><br>
+          1. Individuals who own more than one property are not eligible for GSTV – Cash (Seniors’ Bonus). <br><br>
+					
 <font style="font-size:17px">
 	To receive the <b>GSTV – Cash (Seniors' Bonus) </b>, you must fulfil the following criteria:<br><br>
 i. You must be a Singapore citizen, residing in Singapore;<br>
