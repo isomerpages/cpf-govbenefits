@@ -3,10 +3,50 @@ title: GSTV – Cash (Seniors' Bonus)
 permalink: /am-i-eligible/gstv-cash-seniorsbonus/
 description: ""
 ---
-
 ### GSTV – Cash (Seniors' Bonus) ###
 Lower-income Singaporean seniors will receive additional cash payouts of $600 to $900 through the GSTV – Cash (Seniors’ Bonus). The payouts will be disbursed over three years, from 2023 to 2025 (see Table 1). 
 
+<table>
+<thead>
+  <tr>
+    <th rowspan="3" style="text-align:center; vertical-align:middle"><br><br>Age of Singaporean in Payout Year</th>
+    <th colspan="2" style="text-align:center; vertical-align:middle">AV ≤ $13,000</th>
+		<th colspan="2" style="text-align:center; vertical-align:middle">$13,000< AV ≤ $21,000</th>
+  </tr>
+  <tr>
+    <th colspan="1" style="text-align:center; vertical-align:middle"> 55 to 64 years</th>
+    <th colspan="1" style="text-align:center; vertical-align:middle">65 years and above</th><th colspan="1" style="text-align:center; vertical-align:middle"> 55 to 64 years</th>
+    <th colspan="1" style="text-align:center; vertical-align:middle">65 years and above</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="text-align:center; vertical-align:middle">2023<br></td>
+    <td style="text-align:center; vertical-align:middle">$250</td>
+    <td style="text-align:center; vertical-align:middle">$300</td>    
+		<td colspan="2" style="text-align:center; vertical-align:middle">$200</td>
+	</tr>
+	<tr>
+    <td style="text-align:center; vertical-align:middle">2024<br></td>
+    <td style="text-align:center; vertical-align:middle">$250</td>
+    <td style="text-align:center; vertical-align:middle">$300</td>    
+		<td colspan="2" style="text-align:center; vertical-align:middle">$200</td>
+		</tr>
+	  <tr>
+    <td style="text-align:center; vertical-align:middle">2024<br></td>
+    <td style="text-align:center; vertical-align:middle">$250</td>
+    <td style="text-align:center; vertical-align:middle">$300</td>    
+		<td colspan="2" style="text-align:center; vertical-align:middle">$200</td>
+ </tr>
+		  <tr>
+				<td style="text-align:center; vertical-align:middle"><b>Total</b><br></td>
+				<td style="text-align:center; vertical-align:middle"><b>$750</b></td>
+    <td style="text-align:center; vertical-align:middle"><b>$950</b></td>    
+		<td colspan="2" style="text-align:center; vertical-align:middle"><b>$950</b></td>
+	</tr> <tr></tr>
+</tbody>
+</table>  
+<br><br>
 <font style="font-size:17px">
 	To receive the <b>GSTV – Cash (Seniors' Bonus) </b>, you must fulfil the following criteria:<br><br>
 i. You must be a Singapore citizen, residing in Singapore;<br>
