@@ -8,20 +8,7 @@ links:
     collection: am-i-eligible
   - title: When willi be paid
     collection: am-i-eligible
-  - title: FAQs
-    url: /permalink
-    sublinks:
-      - title: Additional GSTV – U-Save
-        url: /permalink
-      - title: AP Cash and COL SP
-        url: /permalink
-      - title: Assurance Package MediSave
-        url: /permalink
-      - title: Cost of Living Special Payment
-        url: /permalink
-      - title: CDC Vouchers
-        url: /permalink
-      - title: GSTV – Cash (Seniors' Bonus)
-        url: /permalink
   - title: Login
     url: /permalink
+  - title: FAQs
+    collection: am-i-eligible
