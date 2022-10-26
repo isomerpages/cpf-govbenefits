@@ -2,6 +2,7 @@ collections:
   faqs:
     output: true
     order:
+      - CDC Vouchers.md
       - Cost of Living Special Payment.md
       - GSTV – Cash (Seniors' Bonus).md
       - Additional GSTV – U–Save.md
