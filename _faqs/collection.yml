@@ -2,6 +2,7 @@ collections:
   faqs:
     output: true
     order:
+      - GSTV – Cash (Seniors' Bonus).md
       - Additional GSTV – U–Save.md
       - Assurance Package MediSave.md
       - Assurance Package Cash.md
