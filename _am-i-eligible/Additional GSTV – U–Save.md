@@ -3,11 +3,10 @@ title: Additional GSTV – U–Save
 permalink: /am-i-eligible/additional-gstv-u-save/
 description: ""
 ---
-
 ### Additional GSTV – U-Save 
 
 <font style="font-size:17px">
-Eligible HDB households will receive additional GST Voucher (GSTV) – U-Save rebates under the Assurance Package from 2023-2026 (see Table 1).To receive the additional GSTV – U-Save in 2022, you must fulfil the following criteria:<br><br>
+Eligible HDB households will receive additional GST Voucher (GSTV) – U-Save rebates under the Assurance Package from 2023-2026. To receive the additional GSTV – U-Save in 2022, you must fulfil the following criteria:<br><br>
 					i. If your flat is <u>not rented out,</u> there must be at least <u>one</u> Singapore citizen owner or occupier; or<br>
 					ii. If you <u>rent an entire flat,</u> there must be at least <u>one</u> Singapore citizen tenant; <br>
 					<br><b><u>AND</u></b>
