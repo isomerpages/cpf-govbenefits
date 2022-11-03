@@ -10,11 +10,11 @@ description: ""
 <table>
 <thead>
   <tr>
-    <th style="text-align:center; vertical-align:middle" rowspan="2"><br><br>Age in <br>Payout Year</th>
-		<th style="text-align:center; vertical-align:middle" rowspan="2">20 years and below</th>
+    <th style="text-align:center; vertical-align:middle">Age in <br>Payout Year</th>
+		<th style="text-align:center; vertical-align:middle" rowspan="2">20 years and below</th><th style="text-align:center; vertical-align:middle">55 years and above</th>
   </tr>
   <tr>
-    <th style="text-align:center; vertical-align:middle">55 years and above<br></th>
+    
   </tr>
 </thead>
 <tbody>
