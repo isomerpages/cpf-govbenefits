@@ -5,7 +5,7 @@ description: ""
 ---
 ### Assurance Package (AP) MediSave ###
 
-<font style="font-size:17px"> Every Singaporean aged (i) 20 years and below, or (ii) 55 years and above, will receive a MediSave top-up of $450 over 2023 to 2025 (see Table 1). 
+<font style="font-size:17px"> Every Singaporean aged (i) 20 years and below, or (ii) 55 years and above, will receive a MediSave top-up of $450 over 2023 to 2025. 
 <br><br>
 <table>
 <thead>
@@ -53,7 +53,7 @@ You may login to the <a href="https://www.govpayouts.gov.sg/cds/gstv/login" clas
 <tbody>
   <tr>
 		<td><b>Singapore Citizen</b></td>
-    <td>Those who hold foreign citizenship will not be eligible for the AP Cash Payouts, regardless of whether they simultaneously hold Singapore citizenship. Please approach the Immigration and Checkpoints Authority (ICA) to resolve your citizenship issues.</td>
+    <td>Those who hold foreign citizenship will not be eligible regardless of whether they simultaneously hold Singapore citizenship. Please approach the Immigration and Checkpoints Authority (ICA) to resolve your citizenship issues.</td>
   </tr>
 </tbody>
 </table>
