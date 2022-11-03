@@ -38,9 +38,9 @@ description: ""
 </table><br>
 To receive the <b>AP MediSave</b> , you must fulfil the following criteria:<br><br>
 i. You must be a Singapore citizen, residing in Singapore;<br>
-ii. You must be aged 20 and below, or 55 and above in the payout year (see Table 1).<br>
+ii. You must be aged 20 and below, or 55 and above in the payout year.<br>
 <br><br>
-You may login to the <a href="https://www.govpayouts.gov.sg/cds/gstv/login" class="hyperlink">e-services</a> to view your eligibility for the upcoming AP MediSave. (remove liner)<br><br><br>
+You may login to the <a href="https://www.govpayouts.gov.sg/cds/gstv/login" class="hyperlink">e-services</a> to view your eligibility for the AP MediSave.<br><br><br>
 <br><br>
 <b>Common terms related to the AP MediSave's eligibility criteria</b><br><br>
 <table>
