@@ -4,13 +4,13 @@ permalink: /am-i-eligible/ap-cash/
 description: ""
 ---
 ### Assurance Package (AP) Cash Payouts ###
-<font style="font-size:17px"> Every Singaporean aged 21 years and above will receive cash payouts amounting to between $700 to $1,600, depending on his/her income and property ownership (see Table 1). The payouts will be disbursed over five years, from 2022 to 2026. 
+<font style="font-size:17px"> Every Singaporean aged 21 years and above will receive cash payouts of $700 to $1,600, depending on his/her income and property ownership. The payouts will be disbursed over five years, from 2022 to 2026. 
 <br><br>
-To receive the <b>AP Cash Payouts</b> , you must fulfil the following criteria:<br><br>
+To receive the <b>AP Cash Payouts</b> , you must fulfill the following criteria:<br><br>
 i. You must be a Singapore citizen, residing in Singapore;<br>
 ii. You must be aged 21 and above in the reference year (see Table 1).<br>
 <br><br>
-You may login to the <a href="https://www.govpayouts.gov.sg/cds/gstv/login" class="hyperlink">e-services</a> to view your eligibility for the upcoming AP Cash Payout. <br><br><br>
+You may login to the <a href="https://www.govpayouts.gov.sg/cds/gstv/login" class="hyperlink">e-services</a> to view your eligibility for the AP Cash Payout. <br><br><br>
 <br><br> 
 
 <b>Common terms related to the AP Cash Payouts’ eligibility criteria</b><br><br>
@@ -43,7 +43,7 @@ to check the AV of your residence.</td>
   </tr>
   <tr>
 		<td><b>Singapore Citizen</b></td>
-    <td>Those who hold foreign citizenship will not be eligible for the AP Cash Payouts, regardless of whether they simultaneously hold Singapore citizenship. Please approach the Immigration and Checkpoints Authority (ICA) to resolve your citizenship issues.</td>
+    <td>Those who hold foreign citizenship will not be eligible regardless of whether they simultaneously hold Singapore citizenship. Please approach the Immigration and Checkpoints Authority (ICA) to resolve your citizenship issues.</td>
   </tr>
 </tbody>
 </table>
