@@ -18,10 +18,11 @@ Starting from 2022, we will no longer be issuing cheques. You are encouraged to 
 </thead>
 	<tbody>
   <tr>
-    <td style="text-align:left; vertical-align:middle">No action required<br><br> If you wish to update your payment mode, please do so by XX January 2023</td>
+    <td style="text-align:left; vertical-align:middle"> If you wish to update your payment mode, please do so by January 2023 (date will be released later).</td>
        <td style="text-align:left; vertical-align:middle">For PayNow: <br>XX January 2023<br><br>For Bank crediting: <br>XX January 2023<br><br>For GovCash:<br>XX January 2023</td>
   </tr>
 		<tr>
 			</tr>
 </tbody>
 </table><br><br><br>
+If your eligibility has been reassessed recently, you will receive your Assurance Package by end of the following month. 
