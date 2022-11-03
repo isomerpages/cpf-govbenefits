@@ -9,7 +9,7 @@ description: ""
 <table>
 	<thead>  
 		<tr>
-     <th style="text-align:center; vertical-align:middle">What you need to do to receive your <br>2023 AP MediSave (if eligible) <br></th>
+     <th style="text-align:center; vertical-align:middle">What you need to do to receive your 2023 AP MediSave (if eligible)</th>
 		<th style="text-align:center; vertical-align:middle">Payment Date <br></th>
   </tr>
 </thead>
