@@ -16,7 +16,7 @@ Thank you for visiting the Assurance Package Website (hereinafter the "Website")
 
 #### **Privacy Policy**
 
-7. [Click here](/privacy-statement/) to review this Website's Privacy Policy. 
+7. [Click here](/privacy/) to review this Website's Privacy Policy. 
 
 #### **Restrictions on Use of Information and Materials**
 
