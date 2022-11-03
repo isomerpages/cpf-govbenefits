@@ -16,58 +16,36 @@ v. You must not own more than one property <br><br>
 <br>
 	You may login to the <a href="https://www.govpayouts.gov.sg/cds/gstv/login" class="hyperlink">e-services</a> to view your eligibility for the upcoming GSTV – Cash (Seniors' Bonus). <br><br><br>
 <br><br>
-<table>
+	<table>
 <thead>
-	<tr>
-    <th style="text-align:center; vertical-align:middle"><br><br>Property Ownership</th><th colspan="4" style="text-align:center; vertical-align:middle">Owns 0-1 property</th>
-		  </tr>
-	<tr>
-    <th style="text-align:center; vertical-align:middle"><br><br>Assessable Income (AI) </th><th colspan="4" style="text-align:center; vertical-align:middle">AI ≤ $34,000</th>
-		  </tr>
-	<tr>
-    <th style="text-align:center; vertical-align:middle"><br><br>Annual Value (AV) of Home </th><th colspan="2" style="text-align:center; vertical-align:middle">AV ≤ $13,000</th>
-		<th colspan="2" style="text-align:center; vertical-align:middle">$13,000< AV ≤ $21,000</th>
-  </tr>
   <tr>
-    <th rowspan="2" style="text-align:center; vertical-align:middle"><br><br>Age of Singaporean in Payout Year</th>
-    
-  </tr>
-  <tr>
-    <th colspan="1" style="text-align:center; vertical-align:middle"> 55 to 64 years</th>
-    <th colspan="1" style="text-align:center; vertical-align:middle">65 years and above</th><th colspan="1" style="text-align:center; vertical-align:middle"> 55 to 64 years</th>
-    <th colspan="1" style="text-align:center; vertical-align:middle">65 years and above</th>
+   <th style="text-align:center; vertical-align:middle">2023 payout</th>
+		<th colspan="2" style="text-align:center; vertical-align:middle"> Annual Value of Home as at 31 July 2022</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td style="text-align:center; vertical-align:middle">2023<br></td>
-    <td style="text-align:center; vertical-align:middle">$250</td>
-    <td style="text-align:center; vertical-align:middle">$300</td>    
-		<td colspan="2" style="text-align:center; vertical-align:middle">$200</td>
+    <td style="text-align:center; vertical-align:middle">Age in 2023<br></td>
+    <td style="text-align:center; vertical-align:middle">AV ≤ $13,000</td>
+    <td style="text-align:center; vertical-align:middle">$13,000< AV ≤ $21,000</td>    
 	</tr>
 	<tr>
-    <td style="text-align:center; vertical-align:middle">2024<br></td>
+    <td style="text-align:center; vertical-align:middle">55 to 64 years<br></td>
     <td style="text-align:center; vertical-align:middle">$250</td>
-    <td style="text-align:center; vertical-align:middle">$300</td>    
-		<td colspan="2" style="text-align:center; vertical-align:middle">$200</td>
+    <td style="text-align:center; vertical-align:middle">$200</td>
 		</tr>
 	  <tr>
-    <td style="text-align:center; vertical-align:middle">2024<br></td>
-    <td style="text-align:center; vertical-align:middle">$250</td>
-    <td style="text-align:center; vertical-align:middle">$300</td>    
-		<td colspan="2" style="text-align:center; vertical-align:middle">$200</td>
- </tr>
-		  <tr>
-				<td style="text-align:center; vertical-align:middle"><b>Total</b><br></td>
-				<td style="text-align:center; vertical-align:middle"><b>$750</b></td>
-    <td style="text-align:center; vertical-align:middle"><b>$950</b></td>    
-		<td colspan="2" style="text-align:center; vertical-align:middle"><b>$950</b></td>
-	</tr> <tr></tr>
+    <td style="text-align:center; vertical-align:middle">65 years and above<br></td>
+    <td style="text-align:center; vertical-align:middle">$300</td>
+    <td style="text-align:center; vertical-align:middle">$200</td>
+ </tr><tr></tr>
 </tbody>
 </table>  
 <br><br>
   <u>Note</u><br>
-          1. Individuals who own more than one property are not eligible for GSTV – Cash (Seniors’ Bonus). <br><br>
+          1. Your Income Earned in 2021 (Assessable Income for the Year of Assessment 2022) must not exceed $34,000;
+	<br>2. You must not own more than one property. <br><br>
+
 					
 
 <b>Common terms related to the GSTV – Cash (Seniors' Bonus)'s eligibility criteria</b><br><br>
