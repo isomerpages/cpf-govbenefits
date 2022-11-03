@@ -5,7 +5,17 @@ description: ""
 ---
 ### GSTV – Cash (Seniors' Bonus) ###
 <font style="font-size:17px">Lower-income Singaporean seniors will receive additional cash payouts of $600 to $900 through the GSTV – Cash (Seniors’ Bonus). The payouts will be disbursed over three years, from 2023 to 2025. <br><br>
-**Table 1: GSTV – Cash (Seniors’ Bonus)**
+<font style="font-size:17px">
+	To receive the <b>GSTV – Cash (Seniors' Bonus) </b>, you must fulfil the following criteria:<br><br>
+i. You must be a Singapore citizen, residing in Singapore;<br>
+ii. You must be aged 55 and above;<br>
+iii. Your Income Earned must not exceed $34,000; <br>
+iv. The Annual Value of your home (as indicated on your NRIC) 
+	must not exceed $21,000; and <br>
+v. You must not own more than one property <br><br>
+<br>
+	You may login to the <a href="https://www.govpayouts.gov.sg/cds/gstv/login" class="hyperlink">e-services</a> to view your eligibility for the upcoming GSTV – Cash (Seniors' Bonus). <br><br><br>
+<br><br>
 <table>
 <thead>
 	<tr>
@@ -59,16 +69,7 @@ description: ""
   <u>Note</u><br>
           1. Individuals who own more than one property are not eligible for GSTV – Cash (Seniors’ Bonus). <br><br>
 					
-<font style="font-size:17px">
-	To receive the <b>GSTV – Cash (Seniors' Bonus) </b>, you must fulfil the following criteria:<br><br>
-i. You must be a Singapore citizen, residing in Singapore;<br>
-ii. You must be aged 55 and above in the payout year (see Table 1)<br>
-iii. Your Income Earned in (Payout Year – 2) as assessed by IRAS (Assessable Income (AI) for the Year of Assessment (YA) of Payout Year – 1) must not exceed $34,000 [1]; <br>
-iv. The Annual Value (AV) of your home (as indicated on your NRIC) as at 31 July of the year preceding the Payout Year must not exceed $21,000; and <br>
-v. You must not own more than one property <br><br>
-[1] For the first payout in 2023, this refers to Income Earned in 2021 as assessed by IRAS (AI for YA 2022) must not exceed $34,000.  <br><br>
-	You may login to the <a href="https://www.govpayouts.gov.sg/cds/gstv/login" class="hyperlink">e-services</a> to view your eligibility for the upcoming GSTV – Cash (Seniors' Bonus). <br><br><br>
-<br><br>
+
 <b>Common terms related to the GSTV – Cash (Seniors' Bonus)'s eligibility criteria</b><br><br>
 <table>
 <thead>
