@@ -44,8 +44,64 @@ v. You must not own more than one property <br><br>
   <u>Note</u><br>
           1. Your Income Earned in 2021 (Assessable Income for the Year of Assessment 2022) must not exceed $34,000;
 	<br>2. You must not own more than one property. <br><br>
-
-					
+<table>
+<thead>
+  <tr>
+   <th style="text-align:center; vertical-align:middle">2024 payout</th>
+		<th colspan="2" style="text-align:center; vertical-align:middle"> Annual Value of Home as at 31 July 2023</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="text-align:center; vertical-align:middle">Age in 2024<br></td>
+    <td style="text-align:center; vertical-align:middle">AV ≤ $13,000</td>
+    <td style="text-align:center; vertical-align:middle">$13,000< AV ≤ $21,000</td>    
+	</tr>
+	<tr>
+    <td style="text-align:center; vertical-align:middle">55 to 64 years<br></td>
+    <td style="text-align:center; vertical-align:middle">$250</td>
+    <td style="text-align:center; vertical-align:middle">$200</td>
+		</tr>
+	  <tr>
+    <td style="text-align:center; vertical-align:middle">65 years and above<br></td>
+    <td style="text-align:center; vertical-align:middle">$300</td>
+    <td style="text-align:center; vertical-align:middle">$200</td>
+ </tr><tr></tr>
+</tbody>
+</table>  
+<br><br>
+  <u>Note</u><br>
+          1. Your Income Earned in 2022 (Assessable Income for the Year of Assessment 2023) must not exceed $34,000;
+	<br>2. You must not own more than one property. <br><br>
+<table>
+<thead>
+  <tr>
+   <th style="text-align:center; vertical-align:middle">2025 payout</th>
+		<th colspan="2" style="text-align:center; vertical-align:middle"> Annual Value of Home as at 31 July 2024</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="text-align:center; vertical-align:middle">Age in 2025<br></td>
+    <td style="text-align:center; vertical-align:middle">AV ≤ $13,000</td>
+    <td style="text-align:center; vertical-align:middle">$13,000< AV ≤ $21,000</td>    
+	</tr>
+	<tr>
+    <td style="text-align:center; vertical-align:middle">55 to 64 years<br></td>
+    <td style="text-align:center; vertical-align:middle">$250</td>
+    <td style="text-align:center; vertical-align:middle">$200</td>
+		</tr>
+	  <tr>
+    <td style="text-align:center; vertical-align:middle">65 years and above<br></td>
+    <td style="text-align:center; vertical-align:middle">$300</td>
+    <td style="text-align:center; vertical-align:middle">$200</td>
+ </tr><tr></tr>
+</tbody>
+</table>  
+<br><br>
+  <u>Note</u><br>
+          1. Your Income Earned in 2023 (Assessable Income for the Year of Assessment 2024) must not exceed $34,000;
+	<br>2. You must not own more than one property. <br><br>					
 
 <b>Common terms related to the GSTV – Cash (Seniors' Bonus)'s eligibility criteria</b><br><br>
 <table>
