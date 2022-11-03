@@ -4,7 +4,7 @@ permalink: /am-i-eligible/gstv-cash-seniorsbonus/
 description: ""
 ---
 ### GSTV – Cash (Seniors' Bonus) ###
-<font style="font-size:17px">Lower-income Singaporean seniors will receive additional cash payouts of $600 to $900 through the GSTV – Cash (Seniors’ Bonus). The payouts will be disbursed over three years, from 2023 to 2025 (see Table 1). <br><br>
+<font style="font-size:17px">Lower-income Singaporean seniors will receive additional cash payouts of $600 to $900 through the GSTV – Cash (Seniors’ Bonus). The payouts will be disbursed over three years, from 2023 to 2025. <br><br>
 **Table 1: GSTV – Cash (Seniors’ Bonus)**
 <table>
 <thead>
@@ -99,7 +99,7 @@ to check the AV of your residence.</td>
   </tr>
   <tr>
 		<td><b>Singapore Citizen</b></td>
-    <td>Those who hold foreign citizenship will not be eligible for the AP Cash Payouts, regardless of whether they simultaneously hold Singapore citizenship. Please approach the Immigration and Checkpoints Authority (ICA) to resolve your citizenship issues.</td>
+    <td>Those who hold foreign citizenship will not be eligible regardless of whether they simultaneously hold Singapore citizenship. Please approach the Immigration and Checkpoints Authority (ICA) to resolve your citizenship issues.</td>
   </tr>
 </tbody>
 </table>
