@@ -10,7 +10,7 @@ description: ""
 <table>
 <thead>
   <tr>
-    <th style="text-align:center; vertical-align:middle" rowspan="2"><br><br>Age of Singaporean in <br>Payout Year</th>
+    <th style="text-align:center; vertical-align:middle" rowspan="2"><br><br>Age in <br>Payout Year</th>
 		<th style="text-align:center; vertical-align:middle" rowspan="2">20 years and below</th>
   </tr>
   <tr>
