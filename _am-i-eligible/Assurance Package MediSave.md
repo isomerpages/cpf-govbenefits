@@ -54,6 +54,6 @@ You may login to the <a href="https://www.govpayouts.gov.sg/cds/gstv/login" clas
   <tr>
 		<td><b>Singapore Citizen</b></td>
     <td>Those who hold foreign citizenship will not be eligible regardless of whether they simultaneously hold Singapore citizenship. Please approach the Immigration and Checkpoints Authority (ICA) to resolve your citizenship issues.</td>
-  </tr>
+	</tr><tr></tr>
 </tbody>
 </table>
