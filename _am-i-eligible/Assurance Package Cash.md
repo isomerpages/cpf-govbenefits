@@ -14,11 +14,12 @@ ii. You must be aged 21 and above in the reference year.<br>
   <tr>
 		<th style="text-align:center; vertical-align:top" rowspan="4"><br><br> Singaporeans aged 21 years and above in reference year</th>		
 		<th style="text-align:center; vertical-align:top" rowspan="4"><br><br> Payout Period</th>
-		<th style="text-align:center; vertical-align:middle" colspan="4"> Owns 0 to 1 property</th>
-		<th style="text-align:center; vertical-align:top" rowspan="4"><br><br> Own more than one property</th>
-  </tr>
+		<tr>
+		<th style="text-align:center; vertical-align:middle" colspan="3"> Assessable Income (AI)</th>
+					<th style="text-align:center; vertical-align:top" rowspan="4"><br><br> Own more than one property</th>
+			  </tr>
 	<tr>
-		<th style="text-align:center; vertical-align:middle" colspan="4"> Assessable Income (AI)</th>
+		<th style="text-align:center; vertical-align:middle" colspan="3"> Owns 0 to 1 property</th>
   </tr>
 	<tr><th style="text-align:center; vertical-align:middle" colspan="1"> AI ≤ $34,000</th>
 <th style="text-align:center; vertical-align:middle" colspan="1">$34,000 &lt; AI ≤ $100,000</th>
@@ -31,6 +32,7 @@ ii. You must be aged 21 and above in the reference year.<br>
 		  <td style="text-align:center; vertical-align:middle">$200</td>
 			<td style="text-align:center; vertical-align:middle">$150</td>
 			<td style="text-align:center; vertical-align:middle">$100</td>
+			<td style="text-align:center; vertical-align:middle">$100</td>
   </tr>
 	  <tr>
     <td style="text-align:center; vertical-align:middle"><b>2024</b></td>
@@ -38,12 +40,14 @@ ii. You must be aged 21 and above in the reference year.<br>
 		  <td style="text-align:center; vertical-align:middle">$400</td>
 			<td style="text-align:center; vertical-align:middle">$250</td>
 			<td style="text-align:center; vertical-align:middle">$200</td>
+						<td style="text-align:center; vertical-align:middle">$200</td>
   </tr>
 	  <tr>
     <td style="text-align:center; vertical-align:middle"><b>2025</b></td>
 <td style="text-align:center; vertical-align:middle">Dec 2024</td>
 		  <td style="text-align:center; vertical-align:middle">$400</td>
 			<td style="text-align:center; vertical-align:middle">$250</td>
+			<td style="text-align:center; vertical-align:middle">$200</td>
 			<td style="text-align:center; vertical-align:middle">$200</td>
   </tr>
 	<tr>
@@ -52,6 +56,7 @@ ii. You must be aged 21 and above in the reference year.<br>
 		  <td style="text-align:center; vertical-align:middle">$400</td>
 			<td style="text-align:center; vertical-align:middle">$250</td>
 			<td style="text-align:center; vertical-align:middle">$100</td>
+			<td style="text-align:center; vertical-align:middle">$100</td>
   </tr>
 	<tr>
     <td style="text-align:center; vertical-align:middle"><b>2027</b></td>
@@ -59,12 +64,14 @@ ii. You must be aged 21 and above in the reference year.<br>
 		  <td style="text-align:center; vertical-align:middle">$200</td>
 			<td style="text-align:center; vertical-align:middle">$150</td>
 			<td style="text-align:center; vertical-align:middle">$100</td>
+			<td style="text-align:center; vertical-align:middle">$100</td>
   </tr>
 	  <tr>
     <td colspan="2"style="text-align:right; vertical-align:middle"><b>Total</b></td>
-    <td style="text-align:center; vertical-align:middle">$1,600</td> 
-			<td style="text-align:center; vertical-align:middle">$1,050</td> 
-			<td style="text-align:center; vertical-align:middle">$700</td> 
+			<td style="text-align:center; vertical-align:middle"><b>$1,600</b></td> 
+			<td style="text-align:center; vertical-align:middle"><b>$1,050</b></td> 
+			<td style="text-align:center; vertical-align:middle"><b>$700</b></td> 
+			<td style="text-align:center; vertical-align:middle"><b>$700</b></td>
  </tr>	  <tr> </tr>	
   </tbody>
 </table><br>
@@ -102,6 +109,6 @@ to check the AV of your residence.</td>
   <tr>
 		<td><b>Singapore Citizen</b></td>
     <td>Those who hold foreign citizenship will not be eligible regardless of whether they simultaneously hold Singapore citizenship. Please approach the Immigration and Checkpoints Authority (ICA) to resolve your citizenship issues.</td>
-  </tr>
+	</tr><tr></tr>
 </tbody>
 </table>
