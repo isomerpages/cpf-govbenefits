@@ -77,7 +77,7 @@ ii. You must be aged 21 and above in the reference year.<br>
   </tbody>
 </table><br>
 <br><br>
-You may login to the <a href="https://www.govpayouts.gov.sg/cds/gstv/login" class="hyperlink">e-services</a> to view your eligibility for the AP Cash Payout. <br><br>
+You may login to the <a href="https://www.govpayouts.gov.sg/cds/ap/login" class="hyperlink">e-services</a> to view your eligibility for the AP Cash Payout. <br><br>
 
 <b>Common terms related to the AP Cash Payout's eligibility criteria</b><br><br>
 <table>
