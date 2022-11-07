@@ -67,7 +67,8 @@ ii. You must be aged 21 and above in the reference year.<br>
 			<td style="text-align:center; vertical-align:middle">$100</td>
   </tr>
 	  <tr>
-    <td colspan="2"style="text-align:center; vertical-align:middle"><b>Total</b></td>
+    <td style="text-align:center; vertical-align:middle"> </td>
+			   <td style="text-align:center; vertical-align:middle"><b>Total</b></td>
 			<td style="text-align:center; vertical-align:middle"><b>$1,600</b></td> 
 			<td style="text-align:center; vertical-align:middle"><b>$1,050</b></td> 
 			<td style="text-align:center; vertical-align:middle"><b>$700</b></td> 
