@@ -41,7 +41,7 @@ ii. You do not own more than one property.<br>
 <td style="text-align:center; vertical-align:middle">$150</td>
 <td style="text-align:center; vertical-align:middle">$100</td>
 <td style="text-align:center; vertical-align:middle">$100</td>
-</tr>
+	</tr><tr></tr>
 	</tbody></table>
 <br><br>
 	You may login to the <a href="https://www.govpayouts.gov.sg/cds/ap/login" class="hyperlink">e-services</a> to view your eligibility for the COL Special Payment. <br><br>
