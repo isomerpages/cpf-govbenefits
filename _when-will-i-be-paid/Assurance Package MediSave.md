@@ -16,7 +16,7 @@ description: ""
 	<tbody>
   <tr>
     <td style="text-align:left; vertical-align:middle">No action required<br><br></td>
-       <td style="text-align:left; vertical-align:middle">Credit to CPF MediSave Account: <br>XX February 2023<br></td>
+       <td style="text-align:left; vertical-align:middle">Credit to CPF MediSave Account: <br>9 February 2023<br></td>
   </tr>
 		<tr>
 			</tr>
