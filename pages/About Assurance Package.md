@@ -12,4 +12,4 @@ The AP comprises cash payouts for all adult Singaporeans, additional cash for lo
 
 To account for higher-than-expected inflation, the Government is reviewing the size and components of the AP. More details will be provided at Budget 2023. 
 
-The Assurance Package is on top of the permanent GST Voucher (GSTV) scheme introduced by the Government in Budget 2012 to help lower- and middle-income Singaporean households defray their GST expenses, i.e. what they pay in GST. For more details on the GSTV scheme, please visit the <a class="hyperlink" href="www.gstvoucher.gov.sg"> GSTV website</a>.
+The Assurance Package is on top of the permanent GST Voucher (GSTV) scheme introduced by the Government in Budget 2012 to help lower- and middle-income Singaporean households defray their GST expenses, i.e. what they pay in GST. For more details on the GSTV scheme, please visit the <a class="hyperlink" href="https://www.gstvoucher.gov.sg"> GSTV website</a>.
