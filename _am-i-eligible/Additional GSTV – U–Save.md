@@ -17,92 +17,74 @@ Eligible HDB households will receive additional GST Voucher (GSTV) – U-Save re
 <thead>
   <tr>
     <th rowspan="3" style="text-align:center; vertical-align:middle"><br><br>HDB Flat Type</th>
-    <th colspan="9" style="text-align:center; vertical-align:middle">Payout Month & Quantum of U-Save in FY2022</th>
   </tr>
   <tr>
-    <th colspan="2" style="text-align:center; vertical-align:middle">April 2022</th>
-    <th colspan="2" style="text-align:center; vertical-align:middle">July 2022</th>
-		<th colspan="2" style="text-align:center; vertical-align:middle">October 2022</th>
-		<th colspan="2" style="text-align:center; vertical-align:middle">January 2023</th>
-		<th rowspan="3" style="text-align:center; vertical-align:middle">Total GSTV – U-Save for FY2022</th>
-  </tr>
-  <tr>
-    <th style="text-align:center; vertical-align:middle">Regular U-Save<br></th>
-    <th style="text-align:center; vertical-align:middle">HSP U-Save<br></th>
-    <th style="text-align:center; vertical-align:middle">Regular U-Save<br></th>
-    <th style="text-align:center; vertical-align:middle">HSP U-Save<br></th>
-		<th style="text-align:center; vertical-align:middle">Regular U-Save<br></th>
-    <th style="text-align:center; vertical-align:middle">HSP U-Save<br></th>
-		<th style="text-align:center; vertical-align:middle">Regular U-Save<br></th>
-    <th style="text-align:center; vertical-align:middle">AP U-Save<br></th>
+    <th style="text-align:center; vertical-align:middle">1- and 2- room<br></th>
+    <th style="text-align:center; vertical-align:middle">3-room<br></th>
+    <th style="text-align:center; vertical-align:middle">4-room<br></th>
+    <th style="text-align:center; vertical-align:middle">5-room<br></th>
+		<th style="text-align:center; vertical-align:middle">Executive/Multi-Generation<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td style="text-align:center; vertical-align:middle">1- and 2-room</td>
+    <td style="text-align:center; vertical-align:middle">2023</td>
     <td style="text-align:center; vertical-align:middle">$95</td>
-       <td style="text-align:center; vertical-align:middle">$95</td>
-    <td style="text-align:center; vertical-align:middle">$95</td>
-    <td style="text-align:center; vertical-align:middle">$95</td>
-		<td style="text-align:center; vertical-align:middle">$95</td>
-    <td style="text-align:center; vertical-align:middle">$95</td>
-		   <td style="text-align:center; vertical-align:middle">$95</td>
-    <td style="text-align:center; vertical-align:middle">$95</td>
-		<td style="text-align:center; vertical-align:middle"><b>$760</b></td>
-  </tr>
-	  <tr>
-    <td style="text-align:center; vertical-align:middle">3-room</td>
-    <td style="text-align:center; vertical-align:middle">$85</td>
        <td style="text-align:center; vertical-align:middle">$85</td>
-    <td style="text-align:center; vertical-align:middle">$85</td>
-    <td style="text-align:center; vertical-align:middle">$85</td>
-		<td style="text-align:center; vertical-align:middle">$85</td>
-    <td style="text-align:center; vertical-align:middle">$85</td>
-		   <td style="text-align:center; vertical-align:middle">$85</td>
-    <td style="text-align:center; vertical-align:middle">$85</td>
-			<td style="text-align:center; vertical-align:middle"><b>$680</b></td>
+    <td style="text-align:center; vertical-align:middle">$75</td>
+    <td style="text-align:center; vertical-align:middle">$65</td>
+		<td style="text-align:center; vertical-align:middle">$55</td>
+  </td>
   </tr>
 	  <tr>
-    <td style="text-align:center; vertical-align:middle">4-room</td>
-    <td style="text-align:center; vertical-align:middle">$75</td>
-       <td style="text-align:center; vertical-align:middle">$75</td>
-    <td style="text-align:center; vertical-align:middle">$75</td>
-    <td style="text-align:center; vertical-align:middle">$75</td>
-		<td style="text-align:center; vertical-align:middle">$75</td>
-    <td style="text-align:center; vertical-align:middle">$75</td>
-		   <td style="text-align:center; vertical-align:middle">$75</td>
-    <td style="text-align:center; vertical-align:middle">$75</td>
-			<td style="text-align:center; vertical-align:middle"><b>$600</b></td>
+    <td style="text-align:center; vertical-align:middle">2024</td>
+    <td style="text-align:center; vertical-align:middle">$190</td>
+       <td style="text-align:center; vertical-align:middle">$170</td>
+    <td style="text-align:center; vertical-align:middle">$150</td>
+    <td style="text-align:center; vertical-align:middle">$130</td>
+		<td style="text-align:center; vertical-align:middle">$110</td>
+    </td>
+  </tr>
+	  <tr>
+    <td style="text-align:center; vertical-align:middle">2025</td>
+    <td style="text-align:center; vertical-align:middle">$190</td>
+       <td style="text-align:center; vertical-align:middle">$170</td>
+    <td style="text-align:center; vertical-align:middle">$150</td>
+    <td style="text-align:center; vertical-align:middle">$130</td>
+		<td style="text-align:center; vertical-align:middle">$110</td>
+ </td>
   </tr>
 		  <tr>
-    <td style="text-align:center; vertical-align:middle">5-room</td>
+    <td style="text-align:center; vertical-align:middle">2026</td>
+    <td style="text-align:center; vertical-align:middle">$95</td>
+       <td style="text-align:center; vertical-align:middle">$85</td>
+    <td style="text-align:center; vertical-align:middle">$75</td>
     <td style="text-align:center; vertical-align:middle">$65</td>
-       <td style="text-align:center; vertical-align:middle">$65</td>
-    <td style="text-align:center; vertical-align:middle">$65</td>
-    <td style="text-align:center; vertical-align:middle">$65</td>
-		<td style="text-align:center; vertical-align:middle">$65</td>
-    <td style="text-align:center; vertical-align:middle">$65</td>
-		   <td style="text-align:center; vertical-align:middle">$65</td>
-    <td style="text-align:center; vertical-align:middle">$65</td>
-				<td style="text-align:center; vertical-align:middle"><b>$520</b></td>
+		<td style="text-align:center; vertical-align:middle">$55</td>
+</td>
   </tr>
 	  <tr>
-    <td style="text-align:center; vertical-align:middle">Executive / Multi-Generation</td>
-    <td style="text-align:center; vertical-align:middle">$55</td>
-       <td style="text-align:center; vertical-align:middle">$55</td>
-    <td style="text-align:center; vertical-align:middle">$55</td>
-    <td style="text-align:center; vertical-align:middle">$55</td>
-		<td style="text-align:center; vertical-align:middle">$55</td>
-    <td style="text-align:center; vertical-align:middle">$55</td>
-		   <td style="text-align:center; vertical-align:middle">$55</td>
-    <td style="text-align:center; vertical-align:middle">$55</td>
-			<td style="text-align:center; vertical-align:middle"><b>$440</b></td>
+	<td style="text-align:center; vertical-align:middle"><b>Total</b></td>
+	<td style="text-align:center; vertical-align:middle"><b>$570</b></td>
+       <td style="text-align:center; vertical-align:middle"><b>$510</b></td>
+    <td style="text-align:center; vertical-align:middle"><b>$450</b></td>
+    <td style="text-align:center; vertical-align:middle"><b>$390</b></td>
+		<td style="text-align:center; vertical-align:middle"><b>$330</b></td>
+</td>
+  </tr>
+	  <tr>
+    <td style="text-align:center; vertical-align:middle"><b>For Reference: Regular GSTV – U-Save per year</b></td>
+    <td style="text-align:center; vertical-align:middle"><b>$380</b></td>
+       <td style="text-align:center; vertical-align:middle"><b>$340</b></td>
+    <td style="text-align:center; vertical-align:middle"><b>$300</b></td>
+    <td style="text-align:center; vertical-align:middle"><b>$260</b></td>
+		<td style="text-align:center; vertical-align:middle"><b>$220</b></td>
+   </td>
  </tr>
 	 <tr></tr>
   </tbody>
 </table><br>
 					<u>Notes</u><br>
 					1. Households whose members own more than one property are not eligible for GSTV – U-Save.<br>
-					2. Additonal rebates will be credited to eligible households at the same time as their regular GSTV  – U-Save in the usual four quarters (April 2022, July 2022, October 2022, and January 2023).<br>
-					3. The AP U-Save will be provided quarterly starting from January 2023 and ending in January 2026. 
+					2. Eligible households will receive their regular GSTV  – U-Save over four quarters in April, July, October, and January.<br>
 <br><br>For more information on the GSTV – U-Save, you can email <a href="mailto:customersupport@spgroup.com.sg" class="hyperlink">customersupport@spgroup.com.sg</a> or call 6671 7117 (Mon-Fri: 8.30am–5.30pm).
