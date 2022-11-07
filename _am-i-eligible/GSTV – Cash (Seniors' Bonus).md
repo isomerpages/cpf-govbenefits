@@ -14,7 +14,7 @@ iv. The Annual Value of your home (as indicated on your NRIC)
 	must not exceed $21,000; and <br>
 v. You must not own more than one property <br><br>
 <br>
-	You may login to the <a href="https://www.govpayouts.gov.sg/cds/gstv/login" class="hyperlink">e-services</a> to view your eligibility for the upcoming GSTV – Cash (Seniors' Bonus). <br><br>
+	You may login to the <a href="https://www.govpayouts.gov.sg/cds/ap/login" class="hyperlink">e-services</a> to view your eligibility for the upcoming GSTV – Cash (Seniors' Bonus). <br><br>
 	<table>
 <thead>
   <tr>
