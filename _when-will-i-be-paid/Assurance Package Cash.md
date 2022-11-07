@@ -23,3 +23,5 @@ Starting from 2022, we will no longer be issuing cheques. You are encouraged to 
 </tbody>
 </table><br><br><br>
 If your eligibility has been reassessed recently, you will receive your Assurance Package by end of the following month.
+
+<style>	font-size: 18px</style>
