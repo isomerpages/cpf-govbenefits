@@ -67,7 +67,7 @@ ii. You must be aged 21 and above in the reference year.<br>
 			<td style="text-align:center; vertical-align:middle">$100</td>
   </tr>
 	  <tr>
-    <td colspan="2"style="text-align:right; vertical-align:middle"><b>Total</b></td>
+    <td colspan="2"style="text-align:center; vertical-align:middle"><b>Total</b></td>
 			<td style="text-align:center; vertical-align:middle"><b>$1,600</b></td> 
 			<td style="text-align:center; vertical-align:middle"><b>$1,050</b></td> 
 			<td style="text-align:center; vertical-align:middle"><b>$700</b></td> 
@@ -77,5 +77,3 @@ ii. You must be aged 21 and above in the reference year.<br>
 </table><br>
 <br><br>
 You may login to the <a href="https://www.govpayouts.gov.sg/cds/gstv/login" class="hyperlink">e-services</a> to view your eligibility for the AP Cash Payout. <br><br><br>
-	
-	
