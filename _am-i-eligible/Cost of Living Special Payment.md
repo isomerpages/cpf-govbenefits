@@ -11,9 +11,7 @@ i. You must be a Singapore citizen, residing in Singapore;<br>
 ii. You must be aged 21 and above in 2023;<br>
 iii. Your Assessable Income (AI) for Year of Assessment (YA) 2022 is $100,000; and<br>
 ii. You do not own more than one property.<br> 
-<br><br>
-You may login to the <a href="https://www.govpayouts.gov.sg/cds/ap/login" class="hyperlink">e-services</a> to view your eligibility for the COL Special Payment. <br><br><br>
-<br><br>
+<br>
 	<table>
 <thead>
 <tr>
@@ -45,6 +43,8 @@ You may login to the <a href="https://www.govpayouts.gov.sg/cds/ap/login" class=
 <td style="text-align:center; vertical-align:middle">$100</td>
 </tr>
 	</tbody></table>
+<br><br>
+	You may login to the <a href="https://www.govpayouts.gov.sg/cds/ap/login" class="hyperlink">e-services</a> to view your eligibility for the COL Special Payment. <br><br>
 <br><br>
 <b>Common terms related to the COL Special Payment's eligibility criteria</b><br><br>
 <table>
