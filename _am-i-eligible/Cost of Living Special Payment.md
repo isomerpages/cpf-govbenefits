@@ -14,6 +14,38 @@ ii. You do not own more than one property.<br>
 <br><br>
 You may login to the <a href="https://www.govpayouts.gov.sg/cds/ap/login" class="hyperlink">e-services</a> to view your eligibility for the COL Special Payment. <br><br><br>
 <br><br>
+	<table>
+<thead>
+<tr>
+<th style="text-align:center; vertical-align:top" rowspan="3"><br><br> Assessable Income (AI) for Year of Assessment 2022 (YA2022)</th>
+<th style="text-align:center; vertical-align:middle" colspan="4"> Do not own more than one property</th>
+<th style="text-align:center; vertical-align:top" rowspan="3"><br><br> Own more than one property</th>
+	</tr>
+<tr>
+<th style="text-align:center; vertical-align:middle" colspan="1"> AI &lt; $22,000</th>
+<th style="text-align:center; vertical-align:middle" colspan="1">$22,000 &lt; AI ≤ $34,000</th>
+<th style="text-align:center; vertical-align:middle" colspan="1">$34,000 &lt; AI ≤ $100,000</th>
+<th style="text-align:center; vertical-align:middle" colspan="1"> AI &gt; $100,000</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center; vertical-align:middle"> COL Special Payment <br></td>
+<td style="text-align:center; vertical-align:middle">$500</td>
+<td style="text-align:center; vertical-align:middle">$400</td>
+<td style="text-align:center; vertical-align:middle">$300</td>
+<td style="text-align:center; vertical-align:middle">-</td>
+<td style="text-align:center; vertical-align:middle">-</td>
+</tr>
+<tr>
+<td style="text-align:center; vertical-align:middle"> AP Cash <br></td>
+<th style="text-align:center; vertical-align:middle" colspan="2">$200</th>
+<td style="text-align:center; vertical-align:middle">$150</td>
+<td style="text-align:center; vertical-align:middle">$100</td>
+<td style="text-align:center; vertical-align:middle">$100</td>
+</tr>
+	</tbody></table>
+<br><br>
 <b>Common terms related to the COL Special Payment's eligibility criteria</b><br><br>
 <table>
 <thead>
@@ -33,7 +65,6 @@ that you receive each year if you are required to pay taxes.<br><br>
 You may visit <a href="https://www.iras.gov.sg/" class="hyperlink">iras.gov.sg</a> [log in to myTax Portal using your
 Singpass > Notices/Letters > Individual, select Year of Assessment] to view your Notice of Assessment.<br></td>
   </tr>
- 
   <tr>
 		<td><b>Singapore Citizen</b></td>
     <td>Those who hold foreign citizenship will not be eligible regardless of whether they simultaneously hold Singapore citizenship. Please approach the Immigration and Checkpoints Authority (ICA) to resolve your citizenship issues.</td>
