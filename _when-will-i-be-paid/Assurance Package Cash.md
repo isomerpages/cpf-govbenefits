@@ -10,7 +10,7 @@ Starting from 2022, we will no longer be issuing cheques. You are encouraged to 
 <table>
 	<thead>  
 		<tr>
-     <th style="text-align:center; vertical-align:middle">What you need to do to receive your <br>2022 AP Cash (if eligible) <br></th>
+     <th style="width=60%; text-align:center; vertical-align:middle">What you need to do to receive your <br>2022 AP Cash (if eligible) <br></th>
 		<th style="text-align:center; vertical-align:middle">Payment Date <br></th>
   </tr>
 </thead>
@@ -23,4 +23,4 @@ Starting from 2022, we will no longer be issuing cheques. You are encouraged to 
 			</tr>
 </tbody>
 </table><br><br><br>
-If your eligibility has been reassessed recently, you will receive your Assurance Package by end of the following month. 
+If your eligibility has been reassessed recently, you will receive your Assurance Package by end of the following month.
