@@ -12,7 +12,6 @@ Eligible HDB households will receive additional GST Voucher (GSTV) – U-Save re
 					<br><b><u>AND</u></b>
 	<br><br>iii If your flat is <u>not rented out</u>, all owners and essential occupiers must not own or have any interest in more than one property; or<br>
 	iv. If you <u>rent an entire flat</u>, all tenants must not own or have any interest in more than one property<br><br>
-<br><br>
 <table>
 <thead>
   <tr>
