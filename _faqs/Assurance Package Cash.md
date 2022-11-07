@@ -10,12 +10,12 @@ description: ""
     <div>
        <ol>
         <li class="Numbering" style="font-size:17px"><details>
-		<summary><b>How will I be notified on the GST Voucher (GSTV) – Cash and/or  GSTV – MediSave?</b></summary><br>You will receive a message in the inbox of your Singpass app after payment has been made in August. Please turn on your notifications for the app so that you will not miss any alerts and messages. <br><br>
+		<summary><b>How will I be notified of the AP Cash Payouts, GSTV – Cash (Seniors’ Bonus) and/or AP MediSave?</b></summary><br>You will receive a message in the inbox of your Singpass app after payment has been made in December for AP Cash Payouts and in February for GSTV – Cash (Seniors’ Bonus) and AP MediSave.  Please turn on your notifications for the app so that you will not miss any alerts and messages. <br><br>
 If you do not have the Singpass app, an SMS will be sent to your Singpass-registered mobile number.<br><br>
-E-notification is a faster and more convenient mode of communication to notify eligible Singapore citizens on their GSTV eligibility.
+For AP MediSave, individuals aged 20 years old and below who may not have their own Singpass account will be notified via letters sent to their parent’s/guardian’s residential address. 
 <br><br>
 			 </details></li>
-				<li class="Numbering" style="font-size:17px"><details><summary><b>How do I update my mobile number to receive SMS for GSTV?</b></summary><br>To update your mobile number to receive SMS for GSTV, please log in to your Singpass account at the <a class="hyperlink" href="https://www.singpass.gov.sg/"> Singpass website</a>.<br><br>
+				<li class="Numbering" style="font-size:17px"><details><summary><b>How do I update my mobile number to receive SMS for AP Cash Payouts, GSTV – Cash (Seniors’ Bonus) and/or AP MediSave? </b></summary><br>To update your mobile number to receive SMS for AP Cash Payouts, GSTV – Cash (Seniors’ Bonus) and/or AP MediSave, please log in to your Singpass account at the <a class="hyperlink" href="https://www.singpass.gov.sg/"> Singpass website</a>.<br><br>For AP MediSave, eligible children without SingPass will be notified via letters sent to their parent's/guardian's residential address.<br><br>
 			</details></li>
 				 <li class="Numbering" style="font-size:17px"><details><summary><b>How do I download and set up my Singpass mobile app?</b></summary><br>You can download the Singpass app at the <a class="hyperlink" href="https://www.singpass.gov.sg/"> Singpass website</a>.<br></details></li>	 </ol>
     </div>
@@ -27,8 +27,7 @@ E-notification is a faster and more convenient mode of communication to notify e
     <div>
        <ol>
         <li class="Numbering" style="font-size:17px"><details>
-		<summary><b>Do I need to sign up for and/or how do I check if I have signed up for my 2022 GSTV – Cash and/or GSTV – MediSave if I am eligible?</b></summary><br>If you have signed up for a previous government payout (e.g. 2021 GSTV), you do not need to sign up again. You will automatically receive your GSTV – Cash and/or GSTV – Medisave if you are eligible. No action is required on your part.<br><br>If you have not signed up previously, you may log in to the <a href="https://www.govpayouts.gov.sg/cds/gstv/login" class="hyperlink">e-services</a> with your Singpass to sign up online or to check if you have signed up previously.<br><br>The deadline to sign up for the 2022 GST Voucher is 30 April 2023.
-<br><br>
+		<summary><b>Do I need to sign up for AP Cash Payouts, GSTV – Cash (Seniors’ Bonus) and/or AP MediSave?</b></summary><br>You will automatically receive your AP Cash Payouts, GSTV – Cash (Seniors’ Bonus) and/or AP MediSave if you are eligible. No action is required on your part.<br><br>
 				</details></li>  
       </ol>
     </div>
