@@ -37,7 +37,7 @@ ii. You do not own more than one property.<br>
 </tr>
 <tr>
 <td style="text-align:center; vertical-align:middle"> AP Cash <br></td>
-<th style="text-align:center; vertical-align:middle" colspan="2">$200</th>
+<td style="text-align:center; vertical-align:middle" colspan="2"> $200</td>
 <td style="text-align:center; vertical-align:middle">$150</td>
 <td style="text-align:center; vertical-align:middle">$100</td>
 <td style="text-align:center; vertical-align:middle">$100</td>
