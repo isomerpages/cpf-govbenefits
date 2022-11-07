@@ -20,8 +20,7 @@ description: ""
   </li>
   <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">3. I have other queries on GSTV – U-Save. Who can I ask?</label>
+    <label for="accordion3">3. I have other queries on GSTV – U-Save. Who can I ask?</label>	</li>
     <div>
      <p>More information on the GST Voucher scheme can be found at www.gstvoucher.gov.sg/pages/u-save. Alternatively you may contact SP services at customersupport@spgroup.com.sg or 6671 7117.    </div>
-	</li>
   </ul>
