@@ -8,17 +8,19 @@ description: ""
 <br><br>
 To receive the <b>AP Cash Payouts</b> , you must fulfill the following criteria:<br><br>
 i. You must be a Singapore citizen, residing in Singapore;<br>
-ii. You must be aged 21 and above in the reference year (see Table 1).<br>
+ii. You must be aged 21 and above in the reference year.<br>
 	<table>
 <thead>
   <tr>
 		<th style="text-align:center; vertical-align:top" rowspan="4"><br><br> Singaporeans aged 21 years and above in reference year</th>		
 		<th style="text-align:center; vertical-align:top" rowspan="4"><br><br> Payout Period</th>
 		<th style="text-align:center; vertical-align:middle" colspan="4"> Owns 0 to 1 property</th>
-				<th style="text-align:center; vertical-align:middle" colspan="4"> Assessable Income</th>
 		<th style="text-align:center; vertical-align:top" rowspan="4"><br><br> Own more than one property</th>
   </tr>
-  <tr>><tr><th style="text-align:center; vertical-align:middle" colspan="1"> AI ≤ $34,000</th>
+	<tr>
+		<th style="text-align:center; vertical-align:middle" colspan="4"> Assessable Income (AI)</th>
+  </tr>
+	<tr><th style="text-align:center; vertical-align:middle" colspan="1"> AI ≤ $34,000</th>
 <th style="text-align:center; vertical-align:middle" colspan="1">$34,000 &lt; AI ≤ $100,000</th>
 <th style="text-align:center; vertical-align:middle" colspan="1"> AI &gt; $100,000</th></tr>
 </thead>
