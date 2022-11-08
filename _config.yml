@@ -44,5 +44,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://cpf-assurancepackage-staging.netlify.app
-prod: https://cpf-assurancepackage-prod.netlify.app
+staging: https://cpf-govbenefits-staging.netlify.app
+prod: https://cpf-govbenefits-prod.netlify.app
