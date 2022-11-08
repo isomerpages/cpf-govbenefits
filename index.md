@@ -14,7 +14,7 @@ notification: ""
 sections:
   - hero:
       title: "Assurance Package "
-      background: /images/banner2.png
+      background: /images/banner3.png
       button: Login to e-services
       url: https://www.govpayouts.gov.sg/cds/ap/login
       key_highlights:
