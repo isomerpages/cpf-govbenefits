@@ -11,8 +11,7 @@ You are eligible for the COL Special Payment, if:
 
 * Your Assessable Income (AI) for Year of Assessment (YA) 2022 is $100,000 or below; and
 
-* You do not own more than one property.
-
+* You do not own more than one property.<br>
 <br>
 	<table>
 <thead>
