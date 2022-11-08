@@ -13,13 +13,13 @@ You are eligible for the COL Special Payment, if:
 
 * You do not own more than one property.<br>
 <br>
-	<table>
+<table>
 <thead>
 <tr>
 <th style="text-align:center; vertical-align:top" rowspan="3"><br><br> Assessable Income (AI) for Year of Assessment 2022 (YA2022)</th>
 <th style="text-align:center; vertical-align:middle" colspan="4"> Do not own more than one property</th>
 <th style="text-align:center; vertical-align:top" rowspan="3"><br><br> Own more than one property</th>
-	</tr>
+</tr>
 <tr>
 <th style="text-align:center; vertical-align:middle" colspan="1"> AI &lt; $22,000</th>
 <th style="text-align:center; vertical-align:middle" colspan="1">$22,000 &lt; AI ≤ $34,000</th>
