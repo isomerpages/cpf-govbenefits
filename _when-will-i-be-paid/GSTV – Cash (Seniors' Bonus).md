@@ -7,7 +7,7 @@ description: ""
 
 
 If you are eligible for the GSTV – Cash (Seniors’ Bonus), you will receive the payments in February each year, from 2023 to 2025.   <br><br>
-Starting from 2022, we will no longer be issuing cheques. You are encouraged to link your NRIC to PayNow to receive your payouts earlier. If you do not have a PayNow-NRIC-linked bank account but have provided your bank account number to the Government previously, you will receive your payouts via bank transfer. If you do not have a bank account, the payouts will be credited to you via <a href="https://www.govpayouts.gov.sg/cds/gstv/login" class="hyperlink">GovCash.</a>
+Starting from 2022, we will no longer be issuing cheques. You are encouraged to link your NRIC to PayNow to receive your payouts earlier. If you do not have a PayNow-NRIC-linked bank account but have provided your bank account number to the Government previously, you will receive your payouts via bank transfer. If you do not have a bank account, the payouts will be credited to you via <a href="https://www.govbenefits.gov.sg/govcash" class="hyperlink">GovCash.</a>
 
 <table>
 	<thead>  
@@ -19,10 +19,10 @@ Starting from 2022, we will no longer be issuing cheques. You are encouraged to 
 	<tbody>
   <tr>
     <td style="text-align:left; vertical-align:middle"> If you wish to update your payment mode, please do so by January 2023 (date will be released later).</td>
-       <td style="text-align:left; vertical-align:middle">For PayNow: <br>XX January 2023<br><br>For Bank crediting: <br>XX January 2023<br><br>For GovCash:<br>XX January 2023</td>
+       <td style="text-align:left; vertical-align:middle">Payment dates will be released later</td>
   </tr>
 		<tr>
 			</tr>
 </tbody>
-</table><br><br><br>
-If your eligibility has been reassessed recently, you will receive your Assurance Package by end of the following month. 
+</table><br><br>
+If your eligibility has been reassessed recently, you will receive your Assurance Package by end of the following month.
