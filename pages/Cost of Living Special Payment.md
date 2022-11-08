@@ -45,6 +45,7 @@ You are eligible for the COL Special Payment, if:
 	</tr><tr></tr>
 	</tbody></table>
 <br><br>
+# **FAQs**
 
 <ul class="jekyllcodex_accordion">
   <li>
