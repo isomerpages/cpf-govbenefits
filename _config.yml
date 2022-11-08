@@ -6,15 +6,15 @@ colors:
   secondary-color: "#f5f5f5"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#9b9b9b"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#8b572a"
     - title: media-color-three
-      color: "#00838f"
+      color: "#d3ad6e"
     - title: media-color-four
-      color: "#00838f"
+      color: "#dfd0b7"
     - title: media-color-five
-      color: "#00838f"
+      color: "#e2995b"
 description: >-
   At Budget 2020, the Government announced a $6 billion Assurance Package (AP)
   for GST to cushion the impact of the planned GST increase for all
