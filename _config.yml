@@ -1,6 +1,6 @@
 title: Assurance Package Scheme
 url: https://govbenefits.gov.sg
-favicon: /images/ap_logo.png
+favicon: /images/ap_logo1.png
 colors:
   primary-color: "#6031b6"
   secondary-color: "#4372d6"
@@ -57,7 +57,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://cpf-govbenefits-staging.netlify.app
 prod: https://cpf-govbenefits-prod.netlify.app
-shareicon: /images/ap_logo.png
+shareicon: /images/ap_logo1.png
 is_government: true
 facebook-pixel: ""
 google_analytics: ""
