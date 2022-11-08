@@ -13,115 +13,113 @@ You are eligible for the COL Special Payment, if:
 
 * You do not own more than one property.
 
+<br>
+	<table>
+<thead>
+<tr>
+<th style="text-align:center; vertical-align:top" rowspan="3"><br><br> Assessable Income (AI) for Year of Assessment 2022 (YA2022)</th>
+<th style="text-align:center; vertical-align:middle" colspan="4"> Do not own more than one property</th>
+<th style="text-align:center; vertical-align:top" rowspan="3"><br><br> Own more than one property</th>
+	</tr>
+<tr>
+<th style="text-align:center; vertical-align:middle" colspan="1"> AI &lt; $22,000</th>
+<th style="text-align:center; vertical-align:middle" colspan="1">$22,000 &lt; AI ≤ $34,000</th>
+<th style="text-align:center; vertical-align:middle" colspan="1">$34,000 &lt; AI ≤ $100,000</th>
+<th style="text-align:center; vertical-align:middle" colspan="1"> AI &gt; $100,000</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center; vertical-align:middle"> COL Special Payment <br></td>
+<td style="text-align:center; vertical-align:middle">$500</td>
+<td style="text-align:center; vertical-align:middle">$400</td>
+<td style="text-align:center; vertical-align:middle">$300</td>
+<td style="text-align:center; vertical-align:middle">-</td>
+<td style="text-align:center; vertical-align:middle">-</td>
+</tr>
+<tr>
+<td style="text-align:center; vertical-align:middle"> AP Cash <br></td>
+<td style="text-align:center; vertical-align:middle" colspan="2"> $200</td>
+<td style="text-align:center; vertical-align:middle">$150</td>
+<td style="text-align:center; vertical-align:middle">$100</td>
+<td style="text-align:center; vertical-align:middle">$100</td>
+	</tr><tr></tr>
+	</tbody></table>
+<br><br>
 
-<style>
-table, th, td { border:1px solid black; } </style>  <ul class="jekyllcodex_accordion">
+<ul class="jekyllcodex_accordion">
   <li>
-    <input id="accordion1" type="checkbox">
+    <input type="checkbox" id="accordion1">
     <label for="accordion1">Notification</label>
     <div>
        <ol>
-        <li style="font-size:17px" class="Numbering"><details>
+        <li class="Numbering" style="font-size:17px"><details>
 		<summary><b>How will I be notified of the COL Special Payment?</b></summary><br>You will receive a message in the inbox of your Singpass app after payment has been made in December. Please turn on your notifications for the Singpass app so that you will not miss any alerts and messages.
 
 If you do not have the Singpass app, an SMS will be sent to your Singpass-registered mobile number.
 <br><br>
-					<br><br>
-</details></li>
-<li style="font-size:17px" class="Numbering"><details><summary><b>How do I update my mobile number to receive SMS for COL Special Payment?</b></summary><br>
-To update your mobile number to receive SMS for COL Special Payment, please log in to your Singpass account at the Singpass website <br></details></li>    
-
-<li style="font-size:17px" class="Numbering"><details><summary><b>How do I download and set up my Singpass mobile app?</b></summary><br>
-You can download the Singpass app at the Singpass website.<br></details></li>    
-			</ol>
+			 </details></li>
+				<li class="Numbering" style="font-size:17px"><details><summary><b>How do I update my mobile number to receive SMS for COL Special Payment? </b></summary><br>To update your mobile number to receive SMS for COL Special Payment, please log in to your Singpass account at the <a class="hyperlink" href="https://www.singpass.gov.sg/"> Singpass website</a>.<br><br>For AP MediSave, eligible children without SingPass will be notified via letters sent to their parent's/guardian's residential address.<br><br>
+			</details></li>
+				 <li class="Numbering" style="font-size:17px"><details><summary><b>How do I download and set up my Singpass mobile app?</b></summary><br>You can download the Singpass app at the <a class="hyperlink" href="https://www.singpass.gov.sg/"> Singpass website</a>.<br></details></li>	 </ol>
     </div>
-	</li>  
+					</li>  
+
   <li>
-    <input id="accordion2" type="checkbox">
+    <input type="checkbox" id="accordion2">
     <label for="accordion2">Sign Up</label>
     <div>
        <ol>
-				  <li style="font-size:17px" class="Numbering"><details><summary><b>Do I need to sign up for and/or how do I check if I have signed up for the COL Special Payment?</b></summary><br>You will automatically receive your COL Special Payment if you are eligible. No action is required on your part. 
-<br><br>
-<br></details></li>    
-			</ol>
+        <li class="Numbering" style="font-size:17px"><details>
+		<summary><b>Do I need to sign up for and/or how do I check if I have signed up for the COL Special Payment?</b></summary><br>You will automatically receive your COL Special Payment if you are eligible. No action is required on your part.<br><br>
+				</details></li>  
+      </ol>
     </div>
-	</li>  
   <li>
-    <input id="accordion2" type="checkbox">
-    <label for="accordion2">Payment</label>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">Payment</label>
     <div>
-       <ol>
-				  <li style="font-size:17px" class="Numbering"><details><summary><b>How will I receive my COL Special Payment?</b></summary><br>You will receive your COL Special Payment via your PayNow-NRIC linked bank account. 
-
-If you do not have a PayNow-NRIC-linked bank account but have previously provided your DBS/POSB, OCBC or UOB bank account number to the Government for past payouts, you will receive your COL Special Payment via bank transfer to these accounts. You may wish to check and update your bank account details registered with us by logging into our e-services  with your Singpass.
-
-Otherwise, the cash payout will be credited to you via GovCash. GovCash is a new payment mode that allows Singaporeans to receive their payouts from Government agencies more quickly and conveniently. Please see   for more details on GovCash.
-
-You are encouraged to link your NRIC to PayNow to receive your payouts earlier.
- 
+      <ol>
+        <li class="Numbering" style="font-size:17px"><details><summary><b>How will I receive my COL Special Payment? </b></summary><br>You will receive your COL Special Payment via your PayNow-NRIC linked bank account. <br><br>If you do not have a PayNow-NRIC-linked bank account but have provided your DBS/POSB, OCBC or UOB bank account number to the Government previously, you will receive your COL Special Payment via bank transfer. You can check and update your bank account details registered with us by logging in to our <a class="hyperlink" href="https://www.govpayouts.gov.sg/cds/ap/login" >e-services</a> with your Singpass.<br><br> Otherwise, the cash payout will be credited to you via <a class="hyperlink" href="/files/GC insert.pdf">GovCash</a>. You are therefore encouraged to link your NRIC to PayNow to receive your payouts earlier. <br><br>
 </details></li>
-				  <li style="font-size:17px" class="Numbering"><details><summary><b>How can I update my mode of payment for COL Special Payment?</b></summary><br>    
-
-You are encouraged to register for PayNow-NRIC with your bank to receive your COL Special Payment earlier. Otherwise, you can update your bank account details by logging in to our e-services&nbsp; with your Singpass. Only bank account details received by XX November 2022 will be used for crediting by XX December 2022.
+				  <li class="Numbering" style="font-size:17px"><details><summary><b>How can I update my mode of payment for COL Special Payment?</b></summary><br>You are encouraged to register for PayNow-NRIC with your bank to receive your COL Special Payment earlier. Otherwise, you can update your bank account details by logging in to our <a class="hyperlink" href="https://www.govpayouts.gov.sg/cds/ap/login" >e-services</a> with your Singpass.  Only bank account details received by XX November 2022 will be used for crediting by XX December 2022.
 
 Payment instructions received from XX November 2022 will be used for future government payouts.
 <br><br>
-</details></li>
-				  <li style="font-size:17px" class="Numbering"><details><summary><b></b></summary><br>You can log into the <a class="hyperlink" href="https://www.govpayouts.gov.sg/cds/gstv/login">e-services</a> with your Singpass to view your PRN by selecting “GovCash PRN” that is found at the menu on the left. This will only be available after the payment has been made through GovCash.<br><br>
-</details></li>
-				  <li style="font-size:17px" class="Numbering"><details><summary><b>What should I do if my facial recognition at the ATM with GovCash functions is unsuccessful?</b></summary><br>Should the ATM be unable to verify your identity via Singpass Face Verification, please try again or request assistance from OCBC’s Digital Ambassadors at the OCBC Branches.<br><br>
-</details></li>
-				  <li style="font-size:17px" class="Numbering"><details><summary><b>I require help with my Govcash withdrawal, where can I go?</b></summary><br>Singaporeans who require assistance with their GovCash withdrawals can visit the ATMs located within OCBC's branches during operating hours, where OCBC Digital Ambassadors will be present to guide them.<br><br>
-</details></li>
-			<li style="font-size:17px" class="Numbering"><details><summary><b>Is there a specific time frame for me to withdraw/utilize my GovCash?</b></summary><br>There is no specific time frame for you to withdraw/utilize your GovCash. As the intent of the GSTV scheme is to provide a continuing offset for the GST expenses of lower- to middle-income Singaporean households, and most retiree households, eligible individuals are encouraged to withdraw/utilize their GovCash for daily expenses.<br><br>
-</details></li>
-				 <li style="font-size:17px" class="Numbering"><details><summary><b>How do I know if the merchants allow me make purchases using my GovCash?</b></summary><br>You can only make purchases at merchants that accept PayNow/NETS QR code using the LifeSG app. You can look out for the PayNow/NETS logo on the SG QR label that is displayed by the merchants.<br><br>
-</details></li>
-      </ol>
-    </div>
-  </li><li>
-    <input id="accordion3" type="checkbox">
-    <label for="accordion3">What should I do if I do not want to receive my payouts via GovCash?</label>
-    <div>
-      <ol>
-        <li style="font-size:17px" class="Numbering"><details><summary><b>What should I do if I do not want to receive my payouts via GovCash?</b></summary><br>	GovCash will replace GST Voucher (GSTV) cheques from 2022 onwards.<br><br>If you do not wish to receive your future GSTV payout via GovCash, we would encourage you to register for PayNow-NRIC-linked bank account with your preferred bank. You may contact your bank for specific details on how to register your NRIC on PayNow.<br><br>If you have linked your NRIC to PayNow, your future GSTV payouts (if any) will be automatically credited to your PayNow-NRIC-linked bank account. You may contact your bank to check if you are registered on PayNow-NRIC.<br><br>Alternatively, you can choose to receive your payouts via Direct Bank Crediting. To do so, you may login to the <a class="hyperlink" href="https://www.govpayouts.gov.sg/cds/gstv/login">e-services</a> using your Singpass, select “Update Your Payment Mode” and update your POSB/DBS, OCBC or UOB bank account details.
+</details></li> <li class="Numbering" style="font-size:17px"><details><summary><b>What is PayNow?</b></summary><br>PayNow is a secure funds transfer service that allows customers to receive money into their participating bank account via NRIC/FIN and/or mobile number. The 10 participating banks in Singapore are: Bank of China, Citibank Singapore Limited, DBS Bank/POSB, HSBC, Industrial and Commercial Bank of China, Maybank, OCBC Bank, Standard Chartered Bank, United Overseas Bank, and CIMB Bank Berhad.<br><br>With PayNow, the recipient's bank information will be kept private. The sender only needs to use the recipient's mobile number or NRIC/FIN to send money. This applies to individuals and organisations (i.e. private firms and government agencies).<br><br>
+</details></li> <li class="Numbering" style="font-size:17px"><details><summary><b>How do I link my NRIC to PayNow? </b></summary><br>You may follow the following steps:<br>
+1. Choose your preferred bank account to receive money.<br>
+2. Log in to your Internet banking or mobile banking app. <br>
+3. Register for PayNow-NRIC. <br><br>
+You may also refer to your respective bank's website for specific details on how to link your NRIC to PayNow. If you do not have internet or mobile banking, you can contact your bank directly to register for PayNow-NRIC.<br><br>
+</details></li><li class="Numbering" style="font-size:17px"><details><summary><b>My mobile number is already registered to my bank account on PayNow. Can the Government credit the AP Cash Payouts   to me via PayNow-Mobile instead?</b></summary><br>We can only credit your AP Cash Payouts to you via PayNow-NRIC. Mobile numbers are not unique to the individual and may be subject to change. To ensure that the money is credited to the correct recipient, only NRIC will be accepted as the proxy for government payments via PayNow.
 <br><br>
-</details></li>
+Eligible Singaporeans who have linked their NRIC to PayNow will receive the payouts in their PayNow-NRIC-linked bank account.<br><br>
+</details></li> <li class="Numbering" style="font-size:17px"><details>
+		<summary><b>What is GovCash?</b></summary><br>GovCash is a new payment mode that allows Singapore citizens to receive their payouts from Government agencies more quickly and conveniently. Singaporeans can withdraw their Government payouts in cash from over 500 OCBC ATMs located across Singapore. <br><br>
+Previously, cheque recipients would have to deposit the cheques or encash them over the bank counters. GovCash allows them to receive their payouts at the OCBC ATM immediately at any time of the day. They are no longer restricted by the bank's operating hours. Singaporeans who prefer to seek assistance with their GovCash withdrawals can visit the ATMs located within OCBC's branches during operating hours, where OCBC Digital Ambassadors will be present to guide them. In addition, GovCash also allows recipients to use the scan-and-pay function and PayNow transfer option through the LifeSG mobile app.<br><br>
+GovCash will replace GST Voucher cheques from 2022 onwards. <br><br>For enquiries related to withdrawal of GSTV payout via GovCash, please refer to the <a class="hyperlink" href="https://cpf-gstvoucher-staging.netlify.app/govcash"> GovCash FAQs</a>. <br><br>
+</details></li><li class="Numbering" style="font-size:17px"><details><summary><b>Why are cheques no longer issued for AP Cash Payouts and GSTV – Cash (Seniors’ Bonus)?</b></summary><br>GovCash will replace cheques from 2022 onwards to allow Singapore citizens to receive their payouts more quickly and conveniently.<br><br>Previously, cheque recipients would have to deposit the cheques or encash them over the bank counters. GovCash allows them to receive their payouts at the OCBC ATMs islandwide immediately at any time of the day. They are no longer restricted by the OCBC bank's operating hours. Singaporeans who prefer to seek assistance with their GovCash withdrawals can visit the ATMs located within OCBC's branches during operating hours, where OCBC Digital Ambassadors will be present to guide them. In addition, GovCash also allows recipients to use the scan-and-pay function and PayNow transfer option through the LifeSG mobile app.<br><br>
+</details>
+				</li>
 				</ol>
     </div>
   </li>
-
-
-	
-	
-	
-	</ul><table style="width:100%"> <tbody><tr> 
-
-</tr></tbody><thead><tr><th rowspan="3" style="text-align:center; vertical-align:top"><br><br> Assessable Income (AI) for Year of Assessment 2022 (YA2022)</th><th colspan="4" style="text-align:center; vertical-align:middle"> Do not own more than one property</th><th rowspan="3" style="text-align:center; vertical-align:top"><br><br> Own more than one property</th>
-	</tr><tr><th colspan="1" style="text-align:center; vertical-align:middle"> AI &lt; $22,000</th>
-
-<th colspan="1" style="text-align:center; vertical-align:middle">$22,000 &lt; AI ≤ $34,000</th>
-
-<th colspan="1" style="text-align:center; vertical-align:middle">$34,000 &lt; AI ≤ $100,000</th>
-
-<th colspan="1" style="text-align:center; vertical-align:middle"> AI &gt; $100,000</th></tr>
-
-</thead>
-
-<tbody><tr><td style="text-align:center; vertical-align:middle"> COL Special Payment <br></td><td style="text-align:center; vertical-align:middle">$500</td>
-
-<td style="text-align:center; vertical-align:middle">$400</td>
-
-<td style="text-align:center; vertical-align:middle">$300</td>
-
-<td style="text-align:center; vertical-align:middle">-</td><td style="text-align:center; vertical-align:middle">-</td></tr><tr><td style="text-align:center; vertical-align:middle"> AP Cash <br></td>
-
-<th colspan="2" style="text-align:center; vertical-align:middle">$200
-
-</th><td style="text-align:center; vertical-align:middle">$150</td>
-
-<td style="text-align:center; vertical-align:middle">$100</td><td style="text-align:center; vertical-align:middle">$100</td></tr>
-
-</tbody>
-</table>
+<li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">Other Enquiries</label>
+    <div>
+      <ol>
+        <li class="Numbering" style="font-size:17px"><details><summary><b>Do I qualify for the AP Cash Payouts and/or GSTV – Cash (Seniors’ Bonus) if my Assessable Income is unavailable, but I meet all other criteria? </b></summary><br>If your AI is unavailable because you have not yet filed your income tax returns, please call IRAS at 1800 356 8300. Once your AI for YA2021 has been finalised by IRAS, we will notify you if you are eligible for the 2022 GSTV.<br><br>
+</details></li><li class="Numbering" style="font-size:17px"><details><summary><b>One of the eligibility criteria for the 2023 GSTV – Cash (Seniors' Bonus) is that the Income Earned in 2021 (AI for the YA2022) must not exceed $34,000. Why is the AI for YA2022 (instead of YA2023) used?</b></summary><br>For Singaporeans to receive their 2023 GSTV – Cash (Seniors' Bonus) by February 2023, we assess the eligibility based on Income Earned for 2021 (AI for YA2022) which is the latest tax assessment available. <br><br>
+</details></li><li class="Numbering" style="font-size:17px"><details><summary><b>Why is AV used instead of flat type for GSTV – Cash (Seniors’ Bonus)??</b></summary><br>AV is currently used as a proxy for wealth and family support. While it is not a perfect measure, it remains a reasonable and best available proxy for the financial resources available to the individual, including from immediate family members that reside with this individual.<br><br>
+</details></li><li class="Numbering" style="font-size:17px"><details><summary><b>Why is AV used for GSTV – Cash (Seniors’ Bonus) but not for AP Cash Payouts?</b></summary><br>Our social support schemes are generally means-tested to ensure support is targeted. The approach of using both AI and AV allows us to better target the support to those who are in need of greater help.<br><br>For AP Cash, the payouts are meant for all adult Singaporeans to cushion the impact of the GST increase. Lower-income Singaporeans and those who do not own more than one property will receive higher cash payouts. <br><br>
+</details></li><li class="Numbering" style="font-size:17px"><details><summary><b>Do I qualify for the GSTV – Cash (Seniors' Bonus) if the AV of my residence is unavailable, but I meet all other criteria?</b></summary><br>The AV is based on IRAS’ property tax assessment. If you have not received your property tax notification for 2022, the AV of your residence may not have been available at the point of determining the allotment for the 2023 GSTV – Cash (Seniors' Bonus).<br><br>You may contact us at 1800 2222 888 or log in to the <a class="hyperlink" href="https://www.govpayouts.gov.sg/cds/gstv/login"> e-services </a> with your Singpass to update us when the AV of your residence is available.<br><br>
+</details></li><li class="Numbering" style="font-size:17px"><details><summary><b>How much will I get if I stay in a rented property?</b></summary><br>The amount of GSTV – Cash (Seniors' Bonus) you get depends on the AV of your place of residence as stated on your NRIC as at 31 December 2022, regardless of whether you own or rent the property.<br><br>
+				</details></li><li class="Numbering" style="font-size:17px"><details><summary><b>If I own several properties, which AV will be used?</b></summary><br>Those who own more than one property will be eligible for AP Cash Payouts but not the GSTV – Cash (Seniors’ Bonus).  Such properties may include shophouses, private residential properties or non-residential properties such as commercial or industrial properties.<br><br>
+				</details></li><li class="Numbering" style="font-size:17px"><details><summary><b>I own more than one property, but I earn a very low income and am in financial difficulty. Can I get a higher payout for AP Cash and be eligible for GSTV – Cash (Seniors’ Bonus)?</b></summary><br>We will consider such cases on a case-by-case basis. You may log in to the <a class="hyperlink" href="https://www.govpayouts.gov.sg/cds/ap/login"> e-services </a> with your Singpass and write in to us. <br><br>If you require further assistance, you may approach any Social Ser vice Office (SSO) within your vicinity who may be able to advise you on the available assistance based on your situation, and provide you with the necessary assistance. You may wish to visit <a class="hyperlink" href="https://www.msf.gov.sg/dfcs/sso/"> the website</a> to locate the nearest SSO to you.<br><br>
+				</details></li><li class="Numbering" style="font-size:17px"><details><summary><b>If the beneficiary passes away before the payment of the AP Cash Payouts and/or GSTV – Cash (Seniors’ Bonus) is made , will he/she still qualify?</b></summary><br>No. The GSTV – Cash and/or  GSTV – MediSave is only paid out to Singapore citizens who are alive.<br><br>
+</details></li>
+       </ol>
+    </div>
+  </li>
