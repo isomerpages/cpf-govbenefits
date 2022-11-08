@@ -5,7 +5,7 @@ description: ""
 ---
 ### Assurance Package Cash ###
 If you are eligible for the AP Cash, you will receive the payments in December each year, from 2022 to 2026.  <br><br>
-Starting from 2022, we will no longer be issuing cheques. You are encouraged to link your NRIC to PayNow to receive your payouts earlier. If you do not have a PayNow-NRIC-linked bank account but have provided your bank account number to the Government previously, you will receive your payouts via bank transfer. If you do not have a bank account, the payouts will be credited to you via <a href="https://www.govpayouts.gov.sg/cds/gstv/login" class="hyperlink">GovCash.</a>
+Starting from 2022, we will no longer be issuing cheques. You are encouraged to link your NRIC to PayNow to receive your payouts earlier. If you do not have a PayNow-NRIC-linked bank account but have provided your bank account number to the Government previously, you will receive your payouts via bank transfer. If you do not have a bank account, the payouts will be credited to you via <a href="https://www.govbenefits.gov.sg/govcash" class="hyperlink">GovCash.</a>
 
 <table>
 	<thead>  
