@@ -13,10 +13,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
+      title: Assurance Package Scheme
+      background: /images/banner1.png
+      button: Login
       url: /contact-us/
       key_highlights:
         - title: GOVCASH
@@ -29,5 +28,3 @@ sections:
           description: ""
           url: /sms-advisory/
 ---
-
-
