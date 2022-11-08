@@ -63,7 +63,7 @@ If you do not have the Singpass app, an SMS will be sent to your Singpass-regist
 			 </details></li>
 				<li class="Numbering" style="font-size:17px"><details><summary><b>How do I update my mobile number to receive SMS for COL Special Payment? </b></summary><br>To update your mobile number to receive SMS for COL Special Payment, please log in to your Singpass account at the <a class="hyperlink" href="https://www.singpass.gov.sg/"> Singpass website</a>.<br><br>For AP MediSave, eligible children without SingPass will be notified via letters sent to their parent's/guardian's residential address.<br><br>
 			</details></li>
-				 <li class="Numbering" style="font-size:17px"><details><summary><b>How do I download and set up my Singpass mobile app?</b></summary><br>You can download the Singpass app at the <a class="hyperlink" href="https://www.singpass.gov.sg/"> Singpass website</a>.<br></details></li>	 </ol>
+				 <li class="Numbering" style="font-size:17px"><details><summary><b>How do I download and set up my Singpass mobile app?</b></summary><br>You can download the Singpass app at the <a class="hyperlink" href="https://www.singpass.gov.sg/"> Singpass website</a>.<br><br></details></li>	 </ol>
     </div>
 					</li>  
 
