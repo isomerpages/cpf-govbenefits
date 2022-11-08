@@ -16,7 +16,7 @@ sections:
       title: Assurance Package Scheme
       background: /images/banner1.png
       button: Login
-      url: /contact-us/
+      url: https://www.govpayouts.gov.sg/cds/ap/login
       key_highlights:
         - title: GOVCASH
           description: ""
