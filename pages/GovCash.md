@@ -58,7 +58,7 @@ The beneficiary can use LifeSG to scan participating merchant’s QR code for pu
 <b>Option 3: Appoint a proxy to perform ATM withdrawal on his behalf</b><br>
 The beneficiary can appoint a proxy or if he is no longer able to appoint a proxy due to his medical condition, his official representative can act as his proxy to perform the ATM withdrawal on his/her behalf. To do so, the following conditions must be met:<br><br>
 
-The proxy must be:<br>
+The proxy must be:
 * Aged 21 years and above; and
 * Is a next-of-kin or caregiver or appointed donee under the Lasting Power of Attorney (LPA) of the beneficiary<br><br>
 
