@@ -60,7 +60,8 @@ The beneficiary can appoint a proxy or if he is no longer able to appoint a prox
 
 The proxy must be:
 
-* Aged 21 years and above; and								
+* Aged 21 years and above; and
+
 * Is a next-of-kin or caregiver or appointed donee under the Lasting Power of Attorney (LPA) of the beneficiary<br>
 <br>
 
