@@ -7,7 +7,9 @@ On 14 October 2022, DPM and Minister for Finance announced a $1.5 billion suppor
 
 You are eligible for the COL Special Payment, if:
 
-* You are a Singaporean aged 21 years old or above in 2023;
+* You must be a Singapore citizen, residing in Singapore;
+
+* You must aged 21 years old or above in 2023;
 
 * Your Assessable Income (AI) for Year of Assessment (YA) 2022 is $100,000 or below; and
 
