@@ -13,7 +13,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Assurance Package Scheme
+      title: "Assurance Package "
       background: /images/banner1.png
       button: Login
       url: https://www.govpayouts.gov.sg/cds/ap/login
