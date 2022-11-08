@@ -3,7 +3,7 @@ url: https://govbenefits.gov.sg
 favicon: /images/ap_logo1.png
 colors:
   primary-color: "#ab8d55"
-  secondary-color: "#f5f5f5"
+  secondary-color: "#9b9b9b"
   media-colors:
     - title: media-color-one
       color: "#9b9b9b"
