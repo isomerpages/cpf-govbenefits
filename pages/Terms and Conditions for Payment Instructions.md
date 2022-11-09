@@ -3,10 +3,9 @@ title: Terms and Conditions for Payment Instructions
 permalink: /terms-and-conditions-pi/
 description: ""
 ---
-
 1. You consent to the Government sharing your NRIC number and bank account information with other public sector agencies (including statutory boards) and authorised agents of the Government (collectively, the “Paying Agencies”), unless such sharing is prohibited by law.
 
-2. You consent to the Government and the Paying Agencies using your NRIC number and bank account information for any cash payments from the Government (including but not limited to GST Voucher, Silver Support, Workfare and CPF schemes) that you may be eligible for.
+2. You consent to the Government and the Paying Agencies using your NRIC number and bank account information for any cash payments from the Government (including but not limited to Assurance Package, GST Voucher, Silver Support, Workfare and CPF schemes) that you may be eligible for.
 
 3. You consent to the Government confirming/verifying information about you and your account ("Account") as stated in this application with the bank ("Bank") where the Account is maintained.
 
