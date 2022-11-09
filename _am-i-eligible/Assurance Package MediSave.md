@@ -10,40 +10,39 @@ description: ""
 	To receive the <b>AP MediSave</b> , you must fulfil the following criteria:<br><br>
 i. You must be a Singapore citizen, residing in Singapore;<br>
 ii. You must be aged 20 and below, or 55 and above in the payout year.<br>
-
+<br>
 <table>
 <thead>
   <tr>
-    <th>Payment Period</th>
-    <th>Age in Payment Year</th>
-    <th>20 years old and below</th>
-    <th>5 years old and above</th>
+    <th style="text-align:center; vertical-align:middle">Payment Period</th>
+    <th style="text-align:center; vertical-align:middle">Age in Payment Year</th>
+    <th style="text-align:center; vertical-align:middle">20 years old and below</th>
+    <th style="text-align:center; vertical-align:middle">5 years old and above</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Feb 2023</td>
-    <td>2023</td>
-    <td colspan="2">150</td>
+		<td style="text-align:center; vertical-align:middle"><b>Feb 2023</b></td>
+		<td style="text-align:center; vertical-align:middle"><b>2023</b></td>
+    <td style="text-align:center; vertical-align:middle" colspan="2">150</td>
   </tr>
   <tr>
-    <td>Feb 2024</td>
-    <td>2024</td>
-    <td colspan="2">150</td>
+		<td style="text-align:center; vertical-align:middle"><b>Feb 2024</b></td>
+		<td style="text-align:center; vertical-align:middle"><b>2024</b></td>
+    <td style="text-align:center; vertical-align:middle" colspan="2">150</td>
   </tr>
   <tr>
-    <td>Feb 2025</td>
-    <td>2025</td>
-    <td colspan="2">150</td>
+		<td style="text-align:center; vertical-align:middle"><b>Feb 2025</b></td>
+		<td style="text-align:center; vertical-align:middle"><b>2025</b></td>
+    <td style="text-align:center; vertical-align:middle" colspan="2">150</td>
   </tr>
   <tr>
     <td></td>
-    <td>Total</td>
-    <td colspan="2">450</td>
+		<td style="text-align:center; vertical-align:middle"><b>Total</b></td>
+    <td style="text-align:center; vertical-align:middle" colspan="2">450</td>
   </tr>
 </tbody>
 </table>
-	
 <br><br>You may login to the <a href="https://www.govpayouts.gov.sg/cds/ap/login" class="hyperlink">e-services</a> to view your eligibility for the AP MediSave.d<br><br><br>
 	<b>Common terms related to the AP MediSave's eligibility criteria</b><br><br>
 <table>
