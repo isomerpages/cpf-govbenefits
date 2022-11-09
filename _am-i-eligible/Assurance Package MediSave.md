@@ -36,4 +36,4 @@ ii. You must be aged 20 and below, or 55 and above in the payout year.<br><table
 	</tbody>
 		</table>
 	<br><br>
-You may login to the <a href="https://www.govpayouts.gov.sg/cds/ap/login" class="hyperlink">e-services</a> to view your eligibility for the AP MediSave.a<br><br><br>
+You may login to the <a href="https://www.govpayouts.gov.sg/cds/ap/login" class="hyperlink">e-services</a> to view your eligibility for the AP MediSave.b<br><br><br>
