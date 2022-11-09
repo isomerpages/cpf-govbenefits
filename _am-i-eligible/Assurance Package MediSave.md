@@ -12,10 +12,10 @@ i. You must be a Singapore citizen, residing in Singapore;<br>
 ii. You must be aged 20 and below, or 55 and above in the payout year.<br><br><br>
 	<table>
 <thead>
-  <tr>
+				<th style="text-align:center; vertical-align:middle">Payment Period</th>
 		<th style="text-align:center; vertical-align:middle">Age in Payment Year</th>
-		<th style="text-align:center; vertical-align:middle" rowspan="2">20 years and below</th><th style="text-align:center; vertical-align:middle">55 years and above</th>
-  </tr>
+		<th style="text-align:center; vertical-align:middle" rowspan="2">20 years and below</th>
+		<th style="text-align:center; vertical-align:middle">55 years and above</th>
 </thead>
 <tbody>
   <tr>
