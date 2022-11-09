@@ -25,4 +25,4 @@ Starting from 2022, we will no longer be issuing cheques. You are encouraged to 
 			</tr>
 </tbody>
 </table><br><br>
-If your eligibility has been reassessed recently, you will receive your Assurance Package by end of the following month.
+If your eligibility has been reassessed recently, you will receive your GSTV – Cash (Seniors’ Bonus) by end of the following month, starting from March 2023.
