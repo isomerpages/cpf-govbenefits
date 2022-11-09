@@ -6,14 +6,14 @@ description: ""
 <table>
 <thead>
   <tr>
-    <th rowspan="3" style="text-align:center; vertical-align:middle"><br><br>HDB Flat Type</th>
+    <th rowspan="3" style="width: 16%; text-align:center; vertical-align:middle"><br><br>HDB Flat Type</th>
   </tr>
   <tr>
-    <th style="width: 15%; text-align:center; vertical-align:middle">1- and 2- room<br></th>
-    <th style="width: 15%; text-align:center; vertical-align:middle">3-room<br></th>
-    <th style="width: 15% text-align:center; vertical-align:middle">4-room<br></th>
-    <th style="width: 15% text-align:center; vertical-align:middle">5-room<br></th>
-		<th style="text-align:center; vertical-align:middle">Executive/Multi-Generation<br></th>
+    <th style="width: 16%; text-align:center; vertical-align:middle">1- and 2- room<br></th>
+    <th style="width: 16%; text-align:center; vertical-align:middle">3-room<br></th>
+    <th style="width: 16%; text-align:center; vertical-align:middle">4-room<br></th>
+    <th style="width: 17%; text-align:center; vertical-align:middle">5-room<br></th>
+		<th style="width: 17%; text-align:center; vertical-align:middle">Executive/Multi-Generation<br></th>
   </tr>
 </thead>
 <tbody>
