@@ -17,7 +17,7 @@ ii. You must be aged 20 and below, or 55 and above in the payout year.<br>
     <th style="text-align:center; vertical-align:middle">Payment Period</th>
     <th style="text-align:center; vertical-align:middle">Age in Payment Year</th>
     <th style="text-align:center; vertical-align:middle">20 years old and below</th>
-    <th style="text-align:center; vertical-align:middle">5 years old and above</th>
+    <th style="text-align:center; vertical-align:middle">55 years old and above</th>
   </tr>
 </thead>
 <tbody>
