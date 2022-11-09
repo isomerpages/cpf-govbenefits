@@ -52,7 +52,7 @@ You may login to the <a href="https://www.govpayouts.gov.sg/cds/ap/login" class=
 <tbody>
   <tr>
 		<td><b>Singapore Citizen</b></td>
-    <td>Those who hold foreign citizenship will not be eligible regardless of whether they simultaneously hold Singapore citizenship. Please approach the Immigration and Checkpoints Authority (ICA) to resolve your citizenship issues.</td>
+    <td>Those who hold foreign citizenship will not be eligible regardless of whether they simultaneously hold Singapore citizenship. Please approach the Immigration and Checkpoints Authority (ICA) to resolve your citizenship issues.a</td>
 	</tr><tr></tr>
 </tbody>
 </table>
