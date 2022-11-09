@@ -13,7 +13,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: "Assurance Package "
+      title: Assurance Package for GST
       background: /images/for AP website.jpeg
       button: Login to e-services
       url: https://www.govpayouts.gov.sg/cds/ap/login
