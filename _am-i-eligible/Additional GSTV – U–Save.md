@@ -68,11 +68,11 @@ Eligible HDB households will receive additional GST Voucher (GSTV) – U-Save re
   </tr>
 	  <tr>
     <td style="text-align:center; vertical-align:middle"><em><b>For Reference: Regular <br> GSTV – U-Save per year</b></em></td>
-			<td style="text-align:center; vertical-align:middle"><em><b>$380</b></em></td>
-			<td style="text-align:center; vertical-align:middle"><em><b>$340</b></em></td>
-			<td style="text-align:center; vertical-align:middle"><em><b>$300</b></em></td>
-			<td style="text-align:center; vertical-align:middle"><em><b>$260</b></em></td>
-			<td style="text-align:center; vertical-align:middle"><em><b>$220</b></em></td>
+			<td style="text-align:center; vertical-align:middle"><b>$380</b></td>
+			<td style="text-align:center; vertical-align:middle"><b>$340</b></td>
+			<td style="text-align:center; vertical-align:middle"><b>$300</b></td>
+			<td style="text-align:center; vertical-align:middle"><b>$260</b></td>
+			<td style="text-align:center; vertical-align:middle"><b>$220</b></td>
  </tr>
 	 <tr></tr>
   </tbody>
