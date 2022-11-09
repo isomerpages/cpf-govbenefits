@@ -11,32 +11,26 @@ i. You must be a Singapore citizen, residing in Singapore;<br>
 ii. You must be aged 20 and below, or 55 and above in the payout year.<br>
 	<table>
 <thead>
-	<tr>
-		<th style="text-align:center; vertical-align:middle">Payment Period</th>
+	<tr><th style="text-align:center; vertical-align:middle">Payment Period</th>
 		<th style="text-align:center; vertical-align:middle">Age in Payment Year</th>
 		<th style="text-align:center; vertical-align:middle">20 years and below</th>
-				<th style="text-align:center; vertical-align:middle">55 years and above</th>
-	</tr>
+				<th style="text-align:center; vertical-align:middle">55 years and above</th></tr>
 		</thead>
 		<tbody>
-			<tr>
-			<td style="text-align:center; vertical-align:middle"><b>Feb 2023</b>
+			<tr><td style="text-align:center; vertical-align:middle"><b>Feb 2023</b>
 		</td><td style="text-align:center; vertical-align:middle"><b>2023</b></td>
     <td colspan="2" style="text-align:center; vertical-align:middle">$150</td>
 	</tr>
 	  <tr>
     <td style="text-align:center; vertical-align:middle"><b>Feb 2024</b><td style="text-align:center; vertical-align:middle"><b>2024</b></td>
-    <td colspan="2" style="text-align:center; vertical-align:middle">$150</td>
-  </tr>
+    <td colspan="2" style="text-align:center; vertical-align:middle">$150</td></tr>
 	<tr>
     <td style="text-align:center; vertical-align:middle"><b>Feb 2025</b>
 			<td style="text-align:center; vertical-align:middle"><b>2025</b></td>
-		<td colspan="2" style="text-align:center; vertical-align:middle">$150</td>
-	</tr>
+		<td colspan="2" style="text-align:center; vertical-align:middle">$150</td></tr>
 			<tr>
     <td style="text-align:center; vertical-align:middle"><b> </b>
 			<td style="text-align:center; vertical-align:middle"><b>Total</b></td>
-    <td colspan="2" style="text-align:center; vertical-align:middle">$450</td> 
-			</tr>
+    <td colspan="2" style="text-align:center; vertical-align:middle">$450</td></tr>
 		</tbody>
 	</table>
