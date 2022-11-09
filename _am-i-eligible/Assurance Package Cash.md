@@ -3,10 +3,10 @@ title: Assurance Package Cash
 permalink: /am-i-eligible/ap-cash/
 description: ""
 ---
-### Assurance Package (AP) Cash Payouts ###
-<font style="font-size:17px"> Every Singaporean aged 21 years and above will receive cash payouts of $700 to $1,600, depending on his/her income and property ownership. The payouts will be disbursed over five years, from 2022 to 2026. 
+### Assurance Package (AP) Cash ###
+<font style="font-size:17px"> Every Singaporean aged 21 years and above will receive cash payment of $700 to $1,600, depending on his/her income and property ownership. The payment will be disbursed over five years, from 2022 to 2026. 
 <br><br>
-To receive the <b>AP Cash Payouts</b> , you must fulfill the following criteria:<br><br>
+To receive the <b>AP Cash</b> , you must fulfill the following criteria:<br><br>
 i. You must be a Singapore citizen, residing in Singapore;<br>
 ii. You must be aged 21 and above in the reference year.<br>
 	<table>
@@ -77,9 +77,9 @@ ii. You must be aged 21 and above in the reference year.<br>
   </tbody>
 </table><br>
 <br><br>
-You may login to the <a href="https://www.govpayouts.gov.sg/cds/ap/login" class="hyperlink">e-services</a> to view your eligibility for the AP Cash Payout. <br><br>
+You may login to the <a href="https://www.govpayouts.gov.sg/cds/ap/login" class="hyperlink">e-services</a> to view your eligibility for the AP Cash. <br><br>
 
-<b>Common terms related to the AP Cash Payout's eligibility criteria</b><br><br>
+<b>Common terms related to the AP Cash eligibility criteria</b><br><br>
 <table>
 <thead>
   <tr>
