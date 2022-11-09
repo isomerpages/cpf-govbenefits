@@ -12,10 +12,12 @@ i. You must be a Singapore citizen, residing in Singapore;<br>
 ii. You must be aged 20 and below, or 55 and above in the payout year.<br><br><br>
 	<table>
 <thead>
-				<th style="text-align:center; vertical-align:middle">Payment Period</th>
+		<tr>
+			<th style="text-align:center; vertical-align:middle">Payment Period</th>
 		<th style="text-align:center; vertical-align:middle">Age in Payment Year</th>
 		<th style="text-align:center; vertical-align:middle" rowspan="2">20 years and below</th>
 		<th style="text-align:center; vertical-align:middle">55 years and above</th>
+	</tr>
 </thead>
 <tbody>
   <tr>
@@ -51,7 +53,7 @@ You may login to the <a href="https://www.govpayouts.gov.sg/cds/ap/login" class=
 <tbody>
   <tr>
 		<td><b>Singapore Citizen</b></td>
-    <td>Those who hold foreign citizenship will not be eligible regardless of whether they simultaneously hold Singapore citizenship. Please approach the Immigration and Checkpoints Authority (ICA) to resolve your citizenship issues.b</td>
-	</tr><tr></tr>
+    <td>Those who hold foreign citizenship will not be eligible regardless of whether they simultaneously hold Singapore citizenship. Please approach the Immigration and Checkpoints Authority (ICA) to resolve your citizenship issues.c</td>
+	</tr>
 </tbody>
 </table>
