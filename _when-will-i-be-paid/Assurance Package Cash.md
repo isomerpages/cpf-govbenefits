@@ -16,11 +16,11 @@ Starting from 2022, we will no longer be issuing cheques. You are encouraged to 
 </thead>
 	<tbody>
   <tr>
-    <td style="text-align:left; vertical-align:middle">Contact your bank to link your NRIC to PayNow by 20 November 2022.<br><br> Otherwise your can also update your bank account details with us through our e-services by 3 December 2022. </td>
+    <td style="text-align:left; vertical-align:middle">No action is required. <br><Br>Contact your bank to link your NRIC to PayNow by 20 November 2022, if you have not done so.<br><br> Otherwise your can also update your bank account details with us through our e-services by 3 December 2022. </td>
        <td style="text-align:left; vertical-align:middle">For PayNow: <br>5 December 2022<br><br>For Bank crediting: <br>12 December 2022<br><br>For GovCash:<br>14 December 2022</td>
   </tr><tr></tr>
 </tbody>
 </table><br><br>
-If your eligibility has been reassessed recently, you will receive your Assurance Package by end of the following month.
+If your eligibility has been reassessed recently, you will receive your AP Cash by end of the following month.
 
 <style>	font-size: 17px</style>
