@@ -2,6 +2,7 @@ collections:
   am-i-eligible:
     output: true
     order:
+      - AP MTS.md
       - Assurance Package Cash.md
       - Assurance Package MediSave.md
       - GSTV – Cash (Seniors' Bonus).md
