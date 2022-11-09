@@ -3,10 +3,6 @@ title: Assurance Package Cash, MediSave and GSTV – Cash (Seniors' Bonus)
 permalink: /faqs/ap-cash/
 description: ""
 ---
-
-
-
-
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
