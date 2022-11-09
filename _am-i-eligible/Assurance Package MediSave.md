@@ -9,8 +9,7 @@ description: ""
 <br><br>
 	To receive the <b>AP MediSave</b> , you must fulfil the following criteria:<br><br>
 i. You must be a Singapore citizen, residing in Singapore;<br>
-ii. You must be aged 20 and below, or 55 and above in the payout year.<br><br><br>
-	<table>
+ii. You must be aged 20 and below, or 55 and above in the payout year.<br><table>
 <thead>
 		<tr>
 			<th style="text-align:center; vertical-align:middle">Payment Period</th>
