@@ -13,9 +13,6 @@ description: ""
       <th style="text-align:center; vertical-align:middle">Payment Period</th><th style="text-align:center; vertical-align:middle">Age in Payment Year</th>
 		<th style="text-align:center; vertical-align:middle" rowspan="2">20 years and below</th><th style="text-align:center; vertical-align:middle">55 years and above</th>
   </tr>
-  <tr>
-    
-  </tr>
 </thead>
 <tbody>
   <tr>
