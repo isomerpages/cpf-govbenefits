@@ -38,3 +38,5 @@ ii. You must be aged 20 and below, or 55 and above in the payout year.<br>
 			<td style="text-align:center; vertical-align:middle"><b>Total</b></td>
     <td colspan="2" style="text-align:center; vertical-align:middle">$450</td> 
 			</tr>
+		</tbody>
+	</table>
