@@ -5,7 +5,7 @@ description: ""
 ---
 #### Additional GSTV – U-Save
 
-<b>1. How will I know if I qualify for the additional GSTV – U-Save?</b><br><br>No sign-up is required. The additional GSTV – U-Save will be Eligible households will be will be credited automatically to the utilities account of the household, together with the regular U-Save. Each eligible HDB flat will only receive one GSTV – U-Save benefit, depending on the HDB flat type.
+<b>1. How will I know if I qualify for the additional GSTV – U-Save?</b><br><br>No sign-up is required. The additional GSTV – U-Save will be credited automatically to the utilities account of the household, together with the regular U-Save. Each eligible HDB flat will only receive one GSTV – U-Save benefit, depending on the HDB flat type. 
 <br><br>
 <b>2. Can unused GSTV – U-Save benefits be encashed?</b>
  <br><br> No. The GSTV – U-Save rebates is only meant to directly offset a household’s utilities expense and not other expenses. Any unused GSTV – U-Save rebate will be rolled over to help offset your household’s utilities bills for the following months.
