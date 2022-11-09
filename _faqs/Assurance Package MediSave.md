@@ -3,33 +3,7 @@ title: Assurance Package MediSave
 permalink: /faqs/ap-medisave/
 description: ""
 ---
-<ul id="accordion1" class="jekyllcodex_accordian:>
-		<li>
-		<input type=">
-		<label for="accordian1"> Notification</label>
-		<div>
-			<ol>
-	<li class="Numbering style">
-			<details>
-																							 <summary><b>How will I be notified on ....</b></summary><br>You will receive a message in the inbox of your Singpass app.... eligibility</details></li>
-	<li class="Numbering style">
-			<details>
-																							 <summary><b>How will I be notified on ....</b></summary><br>You will receive a message in the inbox of your Singpass app.... eligibility</details></li>
-			</ol></div>
-																							 <li>
-		<input type="checkbox" id="accordian2">
-		<label for="accordian2"> Sign-up</label>
-		<div>
-			<ol>
-	<li class="Numbering style">
-			<details>
-																							 <summary><b>sign-up How will I be notified on ....</b></summary><br>You will receive a message in the inbox of your Singpass app.... eligibility</details></li>
-	<li class="Numbering style">
-			<details>
-																							 <summary><b>sign-up How will I be notified on ....</b></summary><br>You will receive a message in the inbox of your Singpass app.... eligibility</details></li>		
-																							 </ol></div></li></ul>
-														 
-														 <ul class="jekyllcodex_accordion">
+<ul class="jekyllcodex_accordion">
   <li>
     <input id="accordion1" type="checkbox">
     <label for="accordion1">Simple</label>
