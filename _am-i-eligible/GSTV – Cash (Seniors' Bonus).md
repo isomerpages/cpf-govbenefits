@@ -4,7 +4,7 @@ permalink: /am-i-eligible/gstv-cash-seniorsbonus/
 description: ""
 ---
 ### GSTV – Cash (Seniors' Bonus) ###
-<font style="font-size:17px">Lower-income Singaporean seniors will receive additional cash payouts of $600 to $900 through the GSTV – Cash (Seniors’ Bonus). The payouts will be disbursed over three years, from 2023 to 2025. <br><br>
+<font style="font-size:17px">Lower-income Singaporean seniors will receive additional cash payments of $600 to $900 through the GSTV – Cash (Seniors’ Bonus). The payments will be disbursed over three years, from 2023 to 2025. <br><br>
 <font style="font-size:17px">
 	To receive the <b>GSTV – Cash (Seniors' Bonus) </b>, you must fulfil the following criteria:<br><br>
 i. You must be a Singapore citizen, residing in Singapore;<br>
