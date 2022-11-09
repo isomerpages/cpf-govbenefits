@@ -8,7 +8,7 @@ description: ""
 <br><br>
 To receive the <b>AP Cash</b> , you must fulfill the following criteria:<br><br>
 i. You must be a Singapore citizen, residing in Singapore;<br>
-ii. You must be aged 21 and above in the reference year.<br>
+ii. You must be aged 21 and above in the reference year.<br><br>
 	<table>
 <thead>
   <tr>
@@ -97,15 +97,6 @@ Your AI can be found on your tax bill (or Notice of Assessment)
 that you receive each year if you are required to pay taxes.<br><br>
 You may visit <a href="https://www.iras.gov.sg/" class="hyperlink">iras.gov.sg</a> [log in to myTax Portal using your
 Singpass > Notices/Letters > Individual, select Year of Assessment] to view your Notice of Assessment.<br></td>
-  </tr>
-  <tr>
-		<td><b>Annual Value (AV)</b></td>
-    <td>The AV is the estimated gross annual rent of the property if it were to be rented out. It is used to calculate the property tax of your
-home. The AV can be found on the property tax bill that the
-property owner receives each year. <br><br>
-You may visit <a href="https://www.iras.gov.sg/" class="hyperlink">iras.gov.sg</a> [log in to myTax Portal using your
-Singpass > Notices/Letters > Property, select the property address]
-to check the AV of your residence.</td>
   </tr>
   <tr>
 		<td><b>Singapore Citizen</b></td>
