@@ -14,7 +14,7 @@ iv. The Annual Value of your home (as indicated on your NRIC)
 	must not exceed $21,000; and <br>
 v. You must not own more than one property <br><br>
 <br>
-	You may login to the <a href="https://www.govpayouts.gov.sg/cds/ap/login" class="hyperlink">e-services</a> to view your eligibility for the upcoming GSTV – Cash (Seniors' Bonus). <br><br>
+	You may login to the <a href="https://www.govpayouts.gov.sg/cds/ap/login" class="hyperlink">e-services</a> to view your eligibility for the GSTV – Cash (Seniors' Bonus). <br><br>
 	<table>
 <thead>
   <tr>
@@ -44,6 +44,8 @@ v. You must not own more than one property <br><br>
   <u>Note</u><br>
           1. Your Income Earned in 2021 (Assessable Income for the Year of Assessment 2022) must not exceed $34,000;
 	<br>2. You must not own more than one property. <br><br>
+	<hr> From 2024 onwards: <br>
+	
 <table>
 <thead>
   <tr>
