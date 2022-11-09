@@ -43,7 +43,7 @@ v. You must not own more than one property <br><br>
   <u>Note</u><br>
           1. Your Income Earned in 2021 (Assessable Income for the Year of Assessment 2022) must not exceed $34,000;
 	<br>2. You must not own more than one property. <br><br>
-		You may login to the <a href="https://www.govpayouts.gov.sg/cds/ap/login" class="hyperlink">e-services</a> from mid-January 2023 onwards to view your eligibility for the GSTV – Cash (Seniors' Bonus). <br><br>
+		You may login to the <a href="https://www.govpayouts.gov.sg/cds/ap/login" class="hyperlink">e-services</a> from mid-January 2023 onwards to view your eligibility for the GSTV – Cash (Seniors' Bonus). <br>
 	<hr> <b>From 2024</b><br>
 	<br>
 <table>
