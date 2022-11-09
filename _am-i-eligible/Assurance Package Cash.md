@@ -19,7 +19,7 @@ ii. You must be aged 21 and above in the reference year.<br><br>
 					<th style="text-align:center; vertical-align:top" rowspan="4"><br><br> Owns >1 property</th>
 			  </tr>
 	<tr>
-		<th style="text-align:center; vertical-align:middle" colspan="3"> Assessable Income (AI)</th>
+		<th style="text-align:center; vertical-align:middle" colspan="3"> Assessable Income (AI) for Year of Assessment 2022</th>
   </tr>
 	<tr><th style="text-align:center; vertical-align:middle" colspan="1"> AI ≤ $34,000</th>
 <th style="text-align:center; vertical-align:middle" colspan="1">$34,000 &lt; AI ≤ $100,000</th>
