@@ -24,22 +24,22 @@ ii. You must be aged 20 and below, or 55 and above in the payout year.<br>
   <tr>
 		<td style="text-align:center; vertical-align:middle"><b>Feb 2023</b></td>
 		<td style="text-align:center; vertical-align:middle"><b>2023</b></td>
-    <td style="text-align:center; vertical-align:middle" colspan="2">150</td>
+    <td style="text-align:center; vertical-align:middle" colspan="2">$150</td>
   </tr>
   <tr>
 		<td style="text-align:center; vertical-align:middle"><b>Feb 2024</b></td>
 		<td style="text-align:center; vertical-align:middle"><b>2024</b></td>
-    <td style="text-align:center; vertical-align:middle" colspan="2">150</td>
+    <td style="text-align:center; vertical-align:middle" colspan="2">$150</td>
   </tr>
   <tr>
 		<td style="text-align:center; vertical-align:middle"><b>Feb 2025</b></td>
 		<td style="text-align:center; vertical-align:middle"><b>2025</b></td>
-    <td style="text-align:center; vertical-align:middle" colspan="2">150</td>
+    <td style="text-align:center; vertical-align:middle" colspan="2">$150</td>
   </tr>
   <tr>
     <td></td>
 		<td style="text-align:center; vertical-align:middle"><b>Total</b></td>
-    <td style="text-align:center; vertical-align:middle" colspan="2">450</td>
+    <td style="text-align:center; vertical-align:middle" colspan="2">$450</td>
   </tr>
 </tbody>
 </table>
