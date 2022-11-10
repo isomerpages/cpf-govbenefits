@@ -22,4 +22,4 @@ description: ""
 			</tr>
 </tbody>
 </table><br><br>
-	If your eligibility has been reassessed recently, you will receive your AP MediSave by end of the following month, starting from March 2023.
+	If your eligibility has been reassessed recently, you will receive your AP MediSave by end of the following month, starting from March 2023.</font>
