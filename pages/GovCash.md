@@ -50,13 +50,13 @@ You do not need to have an OCBC bank account to use this service. <br><br>
 				  <li class="Numbering" style="font-size:17px"><details><summary><b>How can I withdraw my GovCash if I cannot personally perform the ATM withdrawal?</b></summary><br>
 						
 <b>Option 1: Use LifeSG to transfer to PayNow-NRIC linked bank account</b><br>
-If the beneficiary has an existing bank account, he can link his account for PayNow-NRIC with his bank. Thereafter, login to LifeSG mobile app (LifeSG) using his Singpass to transfer his GovCash to his PayNow-NRIC linked bank account. The beneficiary will be able to receive his future Government payments more quickly into his PayNow-linked bank account.<br><br>
+If you have an existing bank account, you can link your account to PayNow-NRIC with your bank. Thereafter, login to LifeSG mobile app (LifeSG) using your Singpass to transfer your GovCash to your PayNow-NRIC linked bank account. You will be able to receive future Government payments more quickly into your PayNow-linked bank account.<br><br>
 
 <b>Option 2: Use LifeSG  for Scan & Pay</b><br>
-The beneficiary can use LifeSG to scan participating merchant’s QR code for purchases or scan his friend/family’s QR code to transfer his GovCash to them.<br><br>
+You can use LifeSG to scan participating merchant’s QR code for purchases or scan your friend/family’s QR code to transfer your GovCash to them.<br><br>
 
-<b>Option 3: Appoint a proxy to perform ATM withdrawal on his behalf</b><br>
-The beneficiary can appoint a proxy or if he is no longer able to appoint a proxy due to his medical condition, his official representative can act as his proxy to perform the ATM withdrawal on his/her behalf. To do so, the following conditions must be met:<br><br>
+<b>Option 3: Appoint a proxy to perform ATM withdrawal on your behalf</b><br>
+You can appoint a proxy or if you are no longer able to appoint a proxy due to medical condition, your official representative can act as your proxy to perform the ATM withdrawal on your behalf. To do so, the following conditions must be met:<br><br>
 
 The proxy must be:
 
