@@ -102,7 +102,7 @@ v. You must not own more than one property <br><br>
  </tr><tr></tr>
 </tbody>
 </table>  
-<br><br>
+<br>
   <u>Note</u><br>
           1. Your Income Earned in 2023 (Assessable Income for the Year of Assessment 2024) must not exceed $34,000;
 	<br>2. You must not own more than one property. <br><br>					
