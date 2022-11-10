@@ -47,16 +47,3 @@ description: ""
 	</tr>
 </table>
 
-<h1>CDC Voucher</h1>
-
-<table>
-	<tr>
-		<th style="width:8%"> </th>
-		<th style="width:92%"> </th>
-	</tr>
-	<tr>
-		<td><img src="/images/email_icon.png"></td>
-		<td>You may visit <a href="https://www.hdb.gov.sg" class="hyperlink">HDB InfoWEB</a> [log in to My HDBPage with your Singpass > My Flat > Purchased Flat/Rental Flat > S&CC Rebate] to check your household’s eligibility.<br><br>For specific queries regarding S&CC, please contact your respective Town Councils. Contact information can be found on <a href="https://www.hdb.gov.sg/" class="hyperlink">HDB InfoWEB</a>  [Contact Us > Living in HDB flats > Maintenance-related requests for common areas]. </td>
-	</tr>
-	
-</table>
