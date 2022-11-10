@@ -39,7 +39,7 @@ v. You must not own more than one property <br><br>
  </tr><tr></tr>
 </tbody>
 </table>  
-<br><br>
+<br>
   <u>Note</u><br>
           1. Your Income Earned in 2021 (Assessable Income for the Year of Assessment 2022) must not exceed $34,000;
 	<br>2. You must not own more than one property. <br><br>
@@ -75,6 +75,8 @@ v. You must not own more than one property <br><br>
   <u>Note</u><br>
           1. Your Income Earned in 2022 (Assessable Income for the Year of Assessment 2023) must not exceed $34,000;
 	<br>2. You must not own more than one property. <br><br>
+		<hr> <b>From 2025</b>
+	<br><br>
 <table>
 <thead>
   <tr>
