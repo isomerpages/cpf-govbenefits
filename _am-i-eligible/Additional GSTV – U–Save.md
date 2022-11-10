@@ -18,7 +18,7 @@ Eligible HDB households will receive additional GST Voucher (GSTV) – U-Save re
     <th rowspan="3" style="text-align:center; vertical-align:middle; width:16%;"><br><br>HDB Flat Type</th>
   </tr>
   <tr>
-    <th style="text-align:center; vertical-align:middle; width:100%;">1- and 2- room<br></th>
+    <th style="text-align:center; vertical-align:middle; width:16%;">1- and 2- room<br></th>
     <th style="text-align:center; vertical-align:middle; width:16%;">3-room<br></th>
     <th style="text-align:center; vertical-align:middle; width:16%;">4-room<br></th>
     <th style="text-align:center; vertical-align:middle; width:16%;">5-room<br></th>
