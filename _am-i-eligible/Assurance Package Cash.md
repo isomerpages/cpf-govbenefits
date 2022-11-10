@@ -77,7 +77,7 @@ ii. You must be aged 21 and above in the reference year.<br><br>
 	<tr> </tr>
   </tbody>
 </table>
-	*As part of the $1.5billion support package announced in Oct 2022 to provide further cost-of-living (COL) relief, eligible citizens will receive a one-off COL Special Payment of up to $500 to be paid in Dec 2022, together with AP Cash. More details are found <a href="https://www.govpayouts.gov.sg/cds/ap/login" class="hyperlink">here.</a>
+	*As part of the $1.5billion support package announced in Oct 2022 to provide further cost-of-living (COL) relief, eligible citizens will receive a one-off COL Special Payment of up to $500 to be paid in Dec 2022, together with AP Cash. More details are found in our <a href="https://www.govbenefits.gov.sg/costofliving-special-payment/" class="hyperlink">FAQs.</a>
 <br><br>
 You may login to the <a href="https://www.govpayouts.gov.sg/cds/ap/login" class="hyperlink">e-services</a> to view your eligibility for the AP Cash. <br><br>
 
