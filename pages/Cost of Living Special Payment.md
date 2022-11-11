@@ -46,7 +46,6 @@ You are eligible for the COL Special Payment, if:
 	</tr><tr></tr>
 	</tbody></table>
 <br><br>
-
 <hr>
 ### Frequently Asked Questions (FAQs)<br>
 
