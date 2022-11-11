@@ -13,7 +13,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Assurance Package
       background: /images/forweb.jpeg
       button: Login to e-services
       url: https://www.govpayouts.gov.sg/cds/ap/login
