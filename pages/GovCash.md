@@ -3,8 +3,8 @@ title: GovCash
 permalink: /govcash/
 description: ""
 ---
-**General information on GovCash**
-<br><br><b>1. What is GovCash?</b><br><br>GovCash is a payment mode that allows Singapore citizens to receive their payments from Government agencies more quickly and conveniently. Singaporeans can withdraw their Government payments in cash from over 500 OCBC ATMS located across Singapore. <br><br>
+#### General information on GovCash
+<br><b>1. What is GovCash?</b><br>GovCash is a payment mode that allows Singapore citizens to receive their payments from Government agencies more quickly and conveniently. Singaporeans can withdraw their Government payments in cash from over 500 OCBC ATMS located across Singapore. <br><br>
 Previously, cheque recipients would have to deposit the cheques or encash them over the bank counters. GovCash allows them to receive their payments at the OCBC ATM immediately at any time of the day. They are no longer restricted by the bank's operating hours. Singaporeans who prefer to seek assistance with their GovCash withdrawals can visit the ATMs located within OCBC's branches during operating hours, where OCBC Digital Ambassadors will be present to guide them. In addition, GovCash also allows recipients to use the scan-and-pay function and PayNow transfer option through the LifeSG mobile app.<br><br>
 <b>2. Is GovCash safe?</b><br><br>GovCash is as secure as receiving payments via cheque. It adopts the Singpass facial verification technology to authenticate users, including a liveness-detection capability that blocks the use of photographs, videos or masks during the verification process. Users are also required to key in their unique 8-digit Payment Reference Number (PRN) during the withdrawal of the Government payment at the OCBC ATMs. <br><br>
 **Withdrawal via GovCash**<br><br>
