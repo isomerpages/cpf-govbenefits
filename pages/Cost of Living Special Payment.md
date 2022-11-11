@@ -50,7 +50,7 @@ You are eligible for the COL Special Payment, if:
 ### Frequently Asked Questions (FAQs)<br>
 
 **Notification**<br><BR>
-<b>1. How will I be notified of the COL Special Payment?</b></summary><br>You will receive a message in the inbox of your Singpass app after payment has been made in December. Please turn on your notifications for the Singpass app so that you will not miss any alerts and messages.
+<b>1. How will I be notified of the COL Special Payment?</b><br>You will receive a message in the inbox of your Singpass app after payment has been made in December. Please turn on your notifications for the Singpass app so that you will not miss any alerts and messages.
 
 If you do not have the Singpass app, an SMS will be sent to your Singpass-registered mobile number.
 <br><br>
