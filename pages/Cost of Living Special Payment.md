@@ -48,7 +48,7 @@ You are eligible for the COL Special Payment, if:
 <br><br>
 
 <hr>
-### Cost of Living (COL) Special Payment<br>
+### Frequently Asked Questions (FAQs)<br>
 
 **Notification**<br><BR>
 <b>1. How will I be notified of the COL Special Payment?</b></summary><br>You will receive a message in the inbox of your Singpass app after payment has been made in December. Please turn on your notifications for the Singpass app so that you will not miss any alerts and messages.
@@ -64,12 +64,11 @@ If you do not have the Singpass app, an SMS will be sent to your Singpass-regist
 <b>2. How can I update my mode of payment for COL Special Payment?</b></summary><br>You are encouraged to register for PayNow-NRIC with your bank to receive your COL Special Payment earlier. Otherwise, you can update your bank account details by logging in to our <a class="hyperlink" href="https://www.govpayouts.gov.sg/cds/ap/login" >e-services</a> with your Singpass.  Only bank account details received by 3 December 2022 will be used for crediting by 12 December 2022.<br><br> Payment instructions received from 4 December 2022 will be used for future government payouts.
 <br><br>
 <b>3. What is PayNow?</b><br>PayNow is a secure funds transfer service that allows customers to receive money into their participating bank account via NRIC/FIN and/or mobile number. The 10 participating banks in Singapore are: Bank of China, Citibank Singapore Limited, DBS Bank/POSB, HSBC, Industrial and Commercial Bank of China, Maybank, OCBC Bank, Standard Chartered Bank, United Overseas Bank, and CIMB Bank Berhad.<br><br>With PayNow, the recipient's bank information will be kept private. The sender only needs to use the recipient's mobile number or NRIC/FIN to send money. This applies to individuals and organisations (i.e. private firms and government agencies).<br><br>
-<b>4. How do I link my NRIC to PayNow?</B><br>
-You may follow the following steps:<br><BR>1. Choose the preferred bank account to receive money.  <br>
+<b>4. How do I link my NRIC to PayNow?</b><br>
+You may follow the following steps:<br><br>1. Choose the preferred bank account to receive money.  <br>
 2. Log in to your Internet banking or mobile banking app. <br>
 3. Register for PayNow-NRIC. <br><br>
-You may also refer to your respective bank's website for specific details on how to link your NRIC to PayNow. If you do not have internet or mobile banking, you can contact your bank directly to register for PayNow-NRIC.<br><br>
-<b>5. My mobile number is already registered to my bank account on PayNow. Can the Government credit the COL Special Payment to me via PayNow-Mobile instead?</b><br>We can only credit your COL Special Payment to you via PayNow-NRIC. Mobile numbers are not unique to the individual and may be subject to change. To ensure that the money is credited to the correct recipient, only NRIC will be accepted as the proxy for government payments via PayNow.
+You may also refer to your respective bank's website for specific details on how to link your NRIC to PayNow. If you do not have internet or mobile banking, you can contact your bank directly to register for PayNow-NRIC.<br><br><b>5. My mobile number is already registered to my bank account on PayNow. Can the Government credit the COL Special Payment to me via PayNow-Mobile instead?</b><br>We can only credit your COL Special Payment to you via PayNow-NRIC. Mobile numbers are not unique to the individual and may be subject to change. To ensure that the money is credited to the correct recipient, only NRIC will be accepted as the proxy for government payments via PayNow.
 <br><br>
 Eligible Singaporeans who have linked their NRIC to PayNow will receive the payouts in their PayNow-NRIC-linked bank account.<br><br>
 <b>6. What is GovCash?</b><br>GovCash is a payment mode that allows Singapore citizens to receive their payouts from Government agencies more quickly and conveniently. Singaporeans can withdraw their Government payouts in cash from over 500 OCBC ATMs located across Singapore. <br><br>
