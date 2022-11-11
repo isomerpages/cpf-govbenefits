@@ -20,7 +20,7 @@ sections:
         - title: GOVCASH
           description: ""
           url: /govcash/
-        - title: COST OF LIVING (COL) SPECIAL PAYMENT
+        - title: COST-OF-LIVING (COL) SPECIAL PAYMENT
           description: ""
           url: /costofliving-special-payment/
         - title: SMS ADVISORY
