@@ -22,7 +22,7 @@ You do not need to have an OCBC bank account to use this service. <br><br>
 <b>6. I require help with my Govcash withdrawal, where can I go?</b><br>Singaporeans who require assistance with their GovCash withdrawals can visit a NEW ATM located at selected OCBC branches  refer to OCBC website for latest list of NEW ATMs) during the branch operating hours, and OCBC Digital Ambassadors will be available to render assistance.<br><br>
 <b>7. Is there a specific time frame for me to withdraw/utilize my GovCash?</b><br>You can choose to withdraw/utilize your GovCash later and at your convenience. However, as the intent of the AP scheme is to cushion the impact of the planned GST increase for all Singaporeans, you are encouraged to withdraw/utilize your GovCash for your daily expenses.<br><br>
 <b>8. How do I know if the merchants allow me to make purchases using my GovCash?</b><br>You can only make purchases at merchants that accept PayNow/NETS QR code using the LifeSG app. You can look out for the PayNow/NETS logo on the SG QR label that is displayed by the merchants.<br><br>
-<b>8. How can I withdraw my GovCash if I cannot personally perform the ATM withdrawal?</b><br>
+<b>9. How can I withdraw my GovCash if I cannot personally perform the ATM withdrawal?</b><br>
 						
 <b>Option 1: Use LifeSG to transfer to PayNow-NRIC linked bank account</b><br>
 If you have an existing bank account, you can link your account to PayNow-NRIC with your bank. Thereafter, login to LifeSG mobile app (LifeSG) using your Singpass to transfer your GovCash to your PayNow-NRIC linked bank account. You will be able to receive future Government benefits more quickly into your PayNow-linked bank account.<br><br>
@@ -31,7 +31,7 @@ If you have an existing bank account, you can link your account to PayNow-NRIC w
 You can use LifeSG to scan participating merchant’s QR code for purchases or scan your friend/family’s QR code to transfer your GovCash to them.<br><br>
 
 <b>Option 3: Appoint a proxy to perform ATM withdrawal on your behalf</b><br>
-You can appoint a proxy or if you are no longer able to appoint a proxy due to medical condition, your official representative can act as your proxy to perform the ATM withdrawal on your behalf. To do so, the following conditions must be met:<br><br>
+You can appoint a proxy or if you are no longer able to appoint a proxy due to your medical condition, your official representative can act as your proxy to perform the ATM withdrawal on your behalf. To do so, the following conditions must be met:<br><br>
 
 The proxy must be:
 
