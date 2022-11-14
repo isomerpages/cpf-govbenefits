@@ -5,8 +5,7 @@ description: ""
 ---
 <h1>Assurance Package, Cost of Living Special Payment & GST Voucher - Cash (Seniors' Bonus)</h1>
 
-<br>Click <a href="/am-i-eligible/ap-cash/">here</a> to check how much you may receive.<br>Before contacting us, you may refer to our <a href="/faqs/ap-cash">FAQs</a> to find your answer. If you have any questions on your eligibility, or have experienced recent changes in your circumstances which you would like us to take into account, please contact us by 31 July 2023. 
-	
+<br>Click <a href="/am-i-eligible/ap-cash/">here</a> to check how much you may receive.<br>Before contacting us, you may refer to our <a href="/faqs/ap-cash">FAQs</a> to find your answer. 	
 <table>
 	<tr>
 		<th style="width:8%"> </th>
@@ -14,7 +13,7 @@ description: ""
 	</tr>
 	<tr>
 		<td><img src="/images/email_icon.png"></td>
-		<td><a href="https://www.govpayouts.gov.sg/cds/ap/login">Click here to submit an enquiry</a> if you would like to proceed. You will need to login with your Singpass. We aim to reply you within 5 working days. </td>
+		<td><a href="https://www.govpayouts.gov.sg/cds/ap/login">Click here to submit an enquiry</a> if you would like to proceed. You will need to login with your Singpass. All enquiries should reach us by 31 July 2023. We aim to reply you within 5 working days. </td>
 	</tr>
 	<tr>
 		<td><img src="/images/call_icon.png"></td>
