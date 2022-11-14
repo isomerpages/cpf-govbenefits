@@ -9,7 +9,7 @@ description: ""
 <br><br>
 <b>2. Where can I spend my CDC Vouchers at?</b>
 <br><br>The CDC Vouchers can be spent at participating heartland merchants and hawkers, and supermarkets. More details will be announced by CDCs subsequently.<br><br>
-<b>3. How do I/my household apply for the CSC Vouchers?</b>
+<b>3. How do I/my household apply for the CDC Vouchers?</b>
 <br><br>All Singaporean households are automatically eligible for the scheme, and will receive a notification letter on how to claim their CDC Vouchers. Each Singaporean household is eligible for one set of vouchers.
 <br><br>
 <b>4. What will I/my household need to claim the CDC Vouchers?</b>
