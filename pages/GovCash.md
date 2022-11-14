@@ -52,7 +52,7 @@ c)	Beneficiary’s GovCash Payment Reference Number (PRN) which is indicated in 
 d) 	Proxy’s original NRIC<br><br>
 
 Proxy’s Action:<br>
-Bring the required documents and visit a <a class="hyperlink" href="/files/New ATMs.pdf">NEW ATM</a> located at selected OCBC branches (refer to OCBC website for latest list of NEW ATMs) during the branch operating hours. OCBC Digital Ambassadors will be available to render assistance.<br><br>
+Bring the required documents and visit a NEW ATM located at selected OCBC branches (refer to OCBC website for latest list of NEW ATMs) during the branch operating hours. OCBC Digital Ambassadors will be available to render assistance.<br><br>
 **Receiving my payments via alternative mode**<br><br>
 <b>1. What should I do if I do not want to receive my payments via GovCash?</b><br>	If you do not wish to receive your AP Cash via GovCash, we would encourage you to register for PayNow-NRIC for your bank account with your preferred bank. You may contact your bank for specific details on how to register your NRIC on PayNow.<br><br>If you have linked your NRIC to PayNow, your future AP Cash (if any) will be automatically credited to your PayNow-NRIC-linked bank account. You may contact your bank to check if you are registered on PayNow-NRIC.<br><br>Alternatively, you can choose to receive your payments via crediting to your bank account. To do so, you may login to the <a href="https://www.govpayouts.gov.sg/cds/ap/login" class="hyperlink">e-services</a> using your Singpass, select “Payment Instruction” and update your POSB/DBS, OCBC or UOB bank account details.
 <br><br>
