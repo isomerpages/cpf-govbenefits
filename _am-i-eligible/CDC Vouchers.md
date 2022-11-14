@@ -7,7 +7,7 @@ description: ""
 
 The Government will partner the CDCs to distribute two rounds of vouchers under the Assurance Package to all Singaporean households, in 2023 and 2024 (i.e. $400 in total). <br><br>
 Separately, as part of the $1.5 billion support package announced in Oct 2022 to provide further cost of living relief, every Singaporean household will also receive additional $100 CDC Vouchers in 2023.<br><br>
-The CDC vouchers can be spent at participating heartland merchants and hawkers, and supermarkets.The CDCs will provide more details on the vouchers subsequently.<br><br>
+The CDC vouchers can be spent at participating heartland merchants and hawkers, and supermarkets. The CDCs will provide more details on the vouchers subsequently.<br><br>
 
 <table>
 <thead>
