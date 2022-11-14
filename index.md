@@ -13,7 +13,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/web3.jpg
+      background: /images/web4.jpeg
       button: Login to e-services
       url: https://www.govpayouts.gov.sg/cds/ap/login
       key_highlights:
