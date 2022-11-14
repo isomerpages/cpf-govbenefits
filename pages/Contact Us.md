@@ -46,3 +46,16 @@ description: ""
 		<td><b>SP Services Ltd</b><br>2 Kallang Sector<br>Singapore 349277</td>
 	</tr>
 </table>
+<h1>CDC Vouchers</h1>
+
+<table>
+	<tr>
+		<th style="width:8%"> </th>
+		<th style="width:92%"> </th>
+	</tr>
+	<tr>
+		<td><img src="/images/call_icon.png"></td>
+		<td>For enquiries, please call the PA Contact Centre at 6225 5322 or fill in a <a href="https://www.pa.gov.sg/feedback" class="hyperlink">feedback form</a>.</td>
+	</tr>
+	
+</table>
