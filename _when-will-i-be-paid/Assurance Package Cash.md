@@ -9,7 +9,7 @@ Starting from 2022, we will no longer be issuing cheques. You are encouraged to 
 <table>
 	<thead>  
 		<tr>
-     <th style="text-align:center; vertical-align:middle; width:70%;">What you need to do to receive your 2023 AP Cash (if eligible)</th>
+     <th style="text-align:center; vertical-align:middle; width:70%;">What you need to do to receive your AP Cash in 2022 (if eligible)</th>
 		<th style="text-align:center; vertical-align:middle; width:30%;">Payment Date <br></th>
   </tr>
 </thead>
