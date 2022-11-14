@@ -27,4 +27,4 @@ The CDC vouchers can be spent at participating heartland merchants and hawkers, 
 	<td><b>$500</b></td></tr>
 	<tr></tr>
 </tbody>
-</table>$300 CDC Vouchers in 2023 comprises : (a) $200 CDC Vouchers from the Assurance Package; and (b) $100 CDC Vouchers from $1.5 billion package announced in Oct 2022.
+</table>*$300 CDC Vouchers in 2023 comprises: (a) $200 CDC Vouchers from the Assurance Package; and (b) $100 CDC Vouchers from $1.5 billion package announced in Oct 2022.
