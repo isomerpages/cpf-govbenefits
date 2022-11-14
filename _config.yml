@@ -1,40 +1,51 @@
-title: Title
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
-
-# Site colors
+title: Assurance Package Scheme
+url: https://govbenefits.gov.sg
+favicon: /images/ap_logo1.png
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  primary-color: "#ab8d55"
+  secondary-color: "#9b9b9b"
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: "#9b9b9b"
     - title: media-color-two
-      color: '#744d9f'
+      color: "#8b572a"
     - title: media-color-three
-      color: '#00838f'
+      color: "#d3ad6e"
     - title: media-color-four
-      color: '#00838f'
+      color: "#dfd0b7"
     - title: media-color-five
-      color: '#00838f'
+      color: "#e2995b"
+description: >-
+  At Budget 2020, the Government announced a $6 billion Assurance Package (AP)
+  for GST to cushion the impact of the planned GST increase for all
+  Singaporeans. The AP was enhanced to $6.6 billion at Budget 2022.
 
-description: An Isomer site of the Singapore Government
 
-##################################################################################################################
-# Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
-##################################################################################################################
+  The AP comprises cash payouts for all adult Singaporeans, additional cash for lower-income seniors, additional GST Voucher – U-Save, MediSave top-ups for children and seniors, and Community Development Council (CDC) Vouchers for Singaporean households. In addition, the Government will provide a top up to the Citizens’ Consultative Committee (CCC) ComCare Fund and grants to self-help groups.
 permalink: none
 baseurl: ""
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-include: [_redirects]
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
 defaults:
   - scope:
       path: ""
     values:
-      layout: "page"
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
@@ -44,5 +55,10 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://cpf-assurancepackage-staging.netlify.app
-prod: https://cpf-assurancepackage-prod.netlify.app
+staging: https://cpf-govbenefits-staging.netlify.app
+prod: https://cpf-govbenefits-prod.netlify.app
+shareicon: /images/ap_logo1.png
+is_government: true
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""

@@ -1,0 +1,9 @@
+collections:
+  am-i-eligible:
+    output: true
+    order:
+      - Assurance Package Cash.md
+      - Assurance Package MediSave.md
+      - GSTV – Cash (Seniors' Bonus).md
+      - Additional GSTV – U–Save.md
+      - CDC Vouchers.md

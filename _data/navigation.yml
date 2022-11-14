@@ -1,13 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/ap_logo1.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: Home
+    url: https://govbenefits/gov.sg
+  - title: About Assurance Package
+    url: /about-assurancepackage
+  - title: Am I eligible?
+    collection: am-i-eligible
+  - title: When will I be paid?
+    collection: when-will-i-be-paid
+  - title: FAQs
+    collection: faqs
+  - title: Login
+    url: https://www.govpayouts.gov.sg/cds/ap/login
