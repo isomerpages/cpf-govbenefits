@@ -39,7 +39,7 @@ You are eligible for the COL Special Payment, if:
 </tr>
 <tr>
 <td style="text-align:center; vertical-align:middle"> AP Cash <br></td>
-<td style="text-align:center; vertical-align:middle" colspan="2">$200</td>
+<td style="text-align:center; vertical-align:middle">$200</td><td style="text-align:center; vertical-align:middle">$200</td>
 <td style="text-align:center; vertical-align:middle">$150</td>
 <td style="text-align:center; vertical-align:middle">$100</td>
 <td style="text-align:center; vertical-align:middle">$100</td>
