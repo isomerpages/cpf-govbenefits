@@ -5,7 +5,7 @@ description: ""
 ---
 <h1>Assurance Package, Cost of Living Special Payment & GST Voucher - Cash (Seniors' Bonus)</h1>
 
-<br>Click <a href="/am-i-eligible/ap-cash/">here</a> to check how much you may receive.<br>Before contacting us, you may refer to our <a href="/faqs/ap-cash">FAQs</a> to find your answer.
+<br>Click <a href="/am-i-eligible/ap-cash/">here</a> to check how much you may receive.<br>Before contacting us, you may refer to our <a href="/faqs/ap-cash">FAQs</a> to find your answer. If you have any questions on your eligibility, or have experienced recent changes in your circumstances which you would like us to take into account, please contact us by 31 July 2023. 
 	
 <table>
 	<tr>
