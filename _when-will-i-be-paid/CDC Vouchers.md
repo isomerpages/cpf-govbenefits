@@ -6,4 +6,4 @@ description: ""
 ### Community Development Council (CDC) Vouchers ###
 
 
- The CDCs will provide more details on the vouchers subsequently.
+The 2023 CDC Vouchers will be disbursed in January 2023. Details of the 2024 CDC Vouchers will be announced subsequently by the CDCs.
