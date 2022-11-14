@@ -80,4 +80,4 @@ Eligible HDB households will receive additional GST Voucher (GSTV) – U-Save re
 					<u>Notes</u><br>
 					1. Households whose members own more than one property are not eligible for GSTV – U-Save.<br>
 					2. Eligible households will receive their regular GSTV  – U-Save over four quarters in April, July, October, and January.<br>
-<br><br>For more information or enquiries on the GSTV – U-Save,  please fill in this <a href="https://eforms.spgroup.com.sg/contactus/contactus.aspx" class="hyperlink">feedback form</a> or call 6671 7117 (Mon-Fri: 8.30am–5.30pm).
+<br><br>More information on the GST Voucher scheme can be found <a class="hyperlink" href="https://www.gstvoucher.gov.sg/am-i-eligible/u-save/">here.</a> Alternatively you may fill in this <a href="https://eforms.spgroup.com.sg/contactus/contactus.aspx" class="hyperlink">feedback form</a> or contact SP services at 6671 7117 (Mon-Fri: 830am-530pm).
