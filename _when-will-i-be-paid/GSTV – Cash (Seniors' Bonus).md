@@ -7,7 +7,7 @@ description: ""
 
 
 If you are eligible for the GSTV – Cash (Seniors’ Bonus), you will receive the payments in February each year, from 2023 to 2025.   <br><br>
-Starting from 2022, we will no longer be issuing cheques. You are encouraged to link your NRIC to PayNow to receive your payouts earlier. If you do not have a PayNow-NRIC-linked bank account but have provided your bank account number to the Government previously, you will receive your payouts via bank transfer. If you do not have a bank account, the payouts will be credited to you via <a href="https://www.govbenefits.gov.sg/govcash" class="hyperlink">GovCash.</a>
+Starting from 2022, we will no longer be issuing cheques. You are encouraged to link your NRIC to PayNow to receive your benefits earlier. If you do not have a PayNow-NRIC-linked bank account but have provided your bank account number to the Government previously, you will receive your benefits via bank transfer. If you do not have a bank account, the benefits will be credited to you via <a href="https://www.govbenefits.gov.sg/govcash" class="hyperlink">GovCash.</a>
 
 <table>
 	<thead>  
