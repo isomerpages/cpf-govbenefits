@@ -4,7 +4,7 @@ permalink: /am-i-eligible/ap-cash/
 description: ""
 ---
 ### Assurance Package (AP) Cash ###
-<font style="font-size:17px"> Every Singaporean aged 21 years and above will receive cash payment of $700 to $1,600, depending on his/her income and property ownership. The payment will be disbursed over five years, from 2022 to 2026. 
+<font style="font-size:17px"> Every Singaporean aged 21 years and above will receive cash benefits of $700 to $1,600, depending on his/her income and property ownership. The payment will be disbursed over five years, from 2022 to 2026. 
 <br><br>
 To receive the <b>AP Cash</b> , you must fulfill the following criteria:<br><br>
 i. You must be a Singapore citizen, residing in Singapore;<br>
