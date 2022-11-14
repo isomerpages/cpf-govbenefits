@@ -17,12 +17,12 @@ sections:
       button: Login to e-services
       url: https://www.govpayouts.gov.sg/cds/ap/login
       key_highlights:
-        - title: GOVCASH
-          description: ""
-          url: /govcash/
         - title: COST-OF-LIVING (COL) SPECIAL PAYMENT
           description: ""
           url: /costofliving-special-payment/
+        - title: GOVCASH
+          description: ""
+          url: /govcash/
         - title: SMS ADVISORY
           description: ""
           url: /sms-advisory/
