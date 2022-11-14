@@ -3,7 +3,6 @@ title: Contact Us
 permalink: /contact-us/
 description: ""
 ---
-
 <h1>Assurance Package, Cost of Living Special Payment & GST Voucher - Cash (Seniors' Bonus)</h1>
 
 <br>Click <a href="/am-i-eligible/ap-cash/">here</a> to check how much you may receive.<br>Before contacting us, you may refer to our <a href="/faqs/ap-cash">FAQs</a> to find your answer.
@@ -36,7 +35,7 @@ description: ""
 	</tr>
 	<tr>
 		<td><img src="/images/email_icon.png"></td>
-		<td><a href="mailto:customersupport@spgroup.com.sg">customersupport@spgroup.com.sg</a></td>
+		<td>For enquiries, please fill in this <a href="https://eforms.spgroup.com.sg/contactus/contactus.aspx" class="hyperlink">feedback form</a>.</td>
 	</tr>
 	<tr>
 		<td><img src="/images/call_icon.png"></td>
