@@ -18,7 +18,7 @@ The CDC vouchers can be spent at participating heartland merchants and hawkers, 
 <tbody>
   <tr>
     <td><b>2023</b></td>
-    <td>$200*</td>
+    <td>$300*</td>
   </tr>
   <tr>
     <td><b>2024</b></td>
