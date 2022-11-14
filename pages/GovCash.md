@@ -4,21 +4,21 @@ permalink: /govcash/
 description: ""
 ---
 #### General information on GovCash
-<br><b>1. What is GovCash?</b><br>GovCash is a payment mode that allows Singapore citizens to receive their payments from Government agencies more quickly and conveniently. Singaporeans can withdraw their Government payments in cash from over 500 OCBC ATMS located across Singapore. <br><br>
-Previously, cheque recipients would have to deposit the cheques or encash them over the bank counters. GovCash allows them to receive their payments at the OCBC ATM immediately at any time of the day. They are no longer restricted by the bank's operating hours. Singaporeans who prefer to seek assistance with their GovCash withdrawals can visit the ATMs located within OCBC's branches during operating hours, where OCBC Digital Ambassadors will be present to guide them. In addition, GovCash also allows recipients to use the scan-and-pay function and PayNow transfer option through the LifeSG mobile app.<br><br>
+<br><b>1. What is GovCash?</b><br>GovCash is a payment mode that allows Singapore citizens to receive their benefits from Government agencies more quickly and conveniently. Singaporeans can withdraw their Government benefits in cash from over 500 OCBC ATMS located across Singapore. <br><br>
+Previously, cheque recipients would have to deposit the cheques or encash them over the bank counters. GovCash allows them to receive their benefits at the OCBC ATM immediately at any time of the day. They are no longer restricted by the bank's operating hours. Singaporeans who prefer to seek assistance with their GovCash withdrawals can visit the ATMs located within OCBC's branches during operating hours, where OCBC Digital Ambassadors will be present to guide them. In addition, GovCash also allows recipients to use the scan-and-pay function and PayNow transfer option through the LifeSG mobile app.<br><br>
 <b>2. Is GovCash safe?</b><br><br>GovCash is as secure as receiving payments via cheque. It adopts the Singpass facial verification technology to authenticate users, including a liveness-detection capability that blocks the use of photographs, videos or masks during the verification process. Users are also required to key in their unique 8-digit Payment Reference Number (PRN) during the withdrawal of the Government payment at the OCBC ATMs. <br><br>
 **Withdrawal via GovCash**<br><br>
-<b>1. How do I receive my cash payment via GovCash?</b><br>You can withdraw your cash payment at OCBC ATMs islandwide. You just need to enter:<br><br>
+<b>1. How do I receive my cash benefit via GovCash?</b><br>You can withdraw your cash payment at OCBC ATMs islandwide. You just need to enter:<br><br>
 						a) Your unique 8-digit Payment Reference Number (PRN)<br>
 						b) Your NRIC number; and<br>
 						c)	passing the facial verification<br><br>
 You do not need to have an OCBC bank account to use this service. <br><br>
 						You will receive the PRN via a letter and your Singpass app (if any) or SMS after AP cash has been made. You can also log into the <a href="https://www.govpayouts.gov.sg/cds/ap/login" class="hyperlink">e-services</a> with your Singpass to view your PRN by selecting “GovCash PRN” that is found at the menu on the left. This will only be available after the payment has been made.<br><br>
-						You can also transfer your payments to your PayNow-NRIC-linked bank account or make payments to merchants by scanning their PayNow or NETS QR code using the LifeSG app. The LifeSG app can be downloaded from the Apple App store or Google Play Store. <br><br>
+						You can also transfer your benefits to your PayNow-NRIC-linked bank account or make payments to merchants by scanning their PayNow or NETS QR code using the LifeSG app. The LifeSG app can be downloaded from the Apple App store or Google Play Store. <br><br>
 						Click <a class="hyperlink" href="/files/GovCash Booklet.pdf">here </a>for the step-by-step guide.
 <br><br>
 <b>3. I lost my letter containing the Payment Reference Number, can someone else take my money?</b><br><br>It is not possible to withdraw the money with just the Payment Reference Number as GovCash uses the Singpass facial verification technology to authenticate users during the withdrawal of the Government payment from OCBC ATMs. The facial verification technology incorporates a liveness-detection capability that blocks the use of photographs, videos or masks during the verification process. <br><br>
-						This security feature prevents any fraudulent withdrawal of the Government payment by third party using photographs or videos belonging to the beneficiary and ensuring only the eligible Singaporean can perform the withdrawal of his or her Government payment.
+						This security feature prevents any fraudulent withdrawal of the Government benefit by third party using photographs or videos belonging to the beneficiary and ensuring only the eligible Singaporean can perform the withdrawal of his or her Government payment.
 <br><br>
 <b>4. Can you re-send my Payment Reference Number to me?</b><br>You can log into the <a href="https://www.govpayouts.gov.sg/cds/ap/login" class="hyperlink">e-services</a> with your Singpass to view your PRN by selecting “GovCash PRN” that is found at the menu on the left. This will only be available after the payment has been made through GovCash.<br><br>
 <b>5. What should I do if my facial recognition at the ATM with GovCash functions is unsuccessful?</b><br>Should the ATM be unable to verify your identity via Singpass Face Verification, please try again or request assistance from OCBC’s Digital Ambassadors at the OCBC Branches.<br><br>
@@ -28,7 +28,7 @@ You do not need to have an OCBC bank account to use this service. <br><br>
 <b>8. How can I withdraw my GovCash if I cannot personally perform the ATM withdrawal?</b><br>
 						
 <b>Option 1: Use LifeSG to transfer to PayNow-NRIC linked bank account</b><br>
-If you have an existing bank account, you can link your account to PayNow-NRIC with your bank. Thereafter, login to LifeSG mobile app (LifeSG) using your Singpass to transfer your GovCash to your PayNow-NRIC linked bank account. You will be able to receive future Government payments more quickly into your PayNow-linked bank account.<br><br>
+If you have an existing bank account, you can link your account to PayNow-NRIC with your bank. Thereafter, login to LifeSG mobile app (LifeSG) using your Singpass to transfer your GovCash to your PayNow-NRIC linked bank account. You will be able to receive future Government benefits more quickly into your PayNow-linked bank account.<br><br>
 
 <b>Option 2: Use LifeSG  for Scan & Pay</b><br>
 You can use LifeSG to scan participating merchant’s QR code for purchases or scan your friend/family’s QR code to transfer your GovCash to them.<br><br>
