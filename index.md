@@ -10,20 +10,24 @@ description: >-
   The AP comprises cash payouts for all adult Singaporeans, additional cash for lower-income seniors, additional GST Voucher – U-Save, MediSave top-ups for children and seniors, and Community Development Council (CDC) Vouchers for Singaporean households. In addition, the Government will provide a top up to the Citizens’ Consultative Committee (CCC) ComCare Fund and grants to self-help groups.
 image: /images/ap_logo1.png
 permalink: /
-notification: ""
+notification: "Due to high traffic volume, you may experience some slowness in
+  the website. We apologise for the inconvenience caused. "
 sections:
   - hero:
       background: /images/web5.jpeg
       button: Login to e-services
       url: https://www.govpayouts.gov.sg/cds/ap/login
       key_highlights:
+        - title: Am I eligible?
+          description: ""
+          url: /am-i-eligible/ap-cash/
+        - title: When will I be Paid?
+          description: ""
+          url: /when-will-i-be-paid/ap-cash/
         - title: COST-OF-LIVING (COL) SPECIAL PAYMENT
           description: ""
           url: /costofliving-special-payment/
-        - title: GOVCASH
+        - title: FAQs
           description: ""
-          url: /govcash/
-        - title: SMS ADVISORY
-          description: ""
-          url: /sms-advisory/
+          url: /faqs/ap-cash/
 ---

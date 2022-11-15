@@ -3,6 +3,7 @@ title: About Assurance Package
 permalink: /about-assurancepackage/
 description: ""
 ---
+
 # Overview 
 The Assurance Package (AP) for GST will cushion the impact of the GST rate increase for all Singaporeans. 
 

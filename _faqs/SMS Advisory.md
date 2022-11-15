@@ -3,6 +3,7 @@ title: SMS Advisory
 permalink: /sms-advisory/
 description: ""
 ---
+
 # How can I tell if the AP SMS I received is authentic?
 With the recent rise in scam and phishing attempts, it is important to verify that the message received is genuinely sent by an official source.<br><br>
 	<img src="/images/SMS1.jpg" style="width: 30%; height: 30%;"><br>*This is only an example of an Assurance Package (AP) SMS. The actual SMS received may be different.<br><br>Here are some tips on how you can protect yourself against phishing SMSes purporting to be sent from AP:<br>

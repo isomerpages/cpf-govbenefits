@@ -3,7 +3,7 @@ links:
   - title: Home
     url: https://www.govbenefits.gov.sg
   - title: About Assurance Package
-    url: /about-assurancepackage
+    collection: about-assurance-package
   - title: Am I eligible?
     collection: am-i-eligible
   - title: When will I be paid?

@@ -1,0 +1,5 @@
+collections:
+  about-assurance-package:
+    output: true
+    order:
+      - About Assurance Package.md
