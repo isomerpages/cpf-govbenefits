@@ -18,7 +18,7 @@ sections:
       url: https://www.govpayouts.gov.sg/cds/ap/login
       key_highlights:
         - title: Am I eligible?
-          description: ""
+          description: for Assurance Package
           url: /am-i-eligible/ap-cash/
         - title: When will I be Paid?
           description: ""
