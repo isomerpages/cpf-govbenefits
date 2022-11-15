@@ -15,7 +15,7 @@ notification: Due to high traffic, you may experience issues with Singpass log
   again at a later time. Thank you.
 sections:
   - hero:
-      background: /images/web5.jpeg
+      background: /images/web6.jpeg
       button: Login to e-services
       url: https://www.govpayouts.gov.sg/cds/ap/login
       key_highlights:
@@ -31,4 +31,6 @@ sections:
         - title: FAQs
           description: ""
           url: /faqs/ap-cash/
+      subtitle: " "
+      title: Delivering Support to Singaporeans
 ---
