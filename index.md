@@ -11,7 +11,7 @@ description: >-
 image: /images/ap_logo1.png
 permalink: /
 notification: Due to high traffic, you may experience issues with Singpass log
-  in to the e-services. We apologise for the inconvenienced caused. Please try
+  in to the e-services. We apologise for the inconvenience caused. Please try
   again at a later time. Thank you.
 sections:
   - hero:
