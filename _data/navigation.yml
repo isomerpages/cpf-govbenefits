@@ -10,9 +10,5 @@ links:
     collection: when-will-i-be-paid
   - title: FAQs
     collection: faqs
-  - title: GovCash
-    url: /govcash
-  - title: SMS ADVISORY
-    url: /sms-advisory
   - title: Login
     url: https://www.govpayouts.gov.sg/cds/ap/login
