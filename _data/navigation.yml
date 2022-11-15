@@ -3,12 +3,16 @@ links:
   - title: Home
     url: https://www.govbenefits.gov.sg
   - title: About Assurance Package
-    url: /about-assurancepackage
+    collection: about-assurance-package
   - title: Am I eligible?
     collection: am-i-eligible
   - title: When will I be paid?
     collection: when-will-i-be-paid
   - title: FAQs
     collection: faqs
+  - title: GovCash
+    url: /govcash
+  - title: SMS ADVISORY
+    url: /sms-advisory
   - title: Login
     url: https://www.govpayouts.gov.sg/cds/ap/login
