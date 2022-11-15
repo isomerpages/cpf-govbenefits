@@ -2,7 +2,7 @@ collections:
   faqs:
     output: true
     order:
-      - SMS Advisory.md
       - Assurance Package Cash, MediSave and GSTV – Cash (Seniors' Bonus).md
       - Additional GSTV – U–Save.md
       - CDC Vouchers.md
+      - SMS Advisory.md
