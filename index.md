@@ -10,9 +10,7 @@ description: >-
   The AP comprises cash payouts for all adult Singaporeans, additional cash for lower-income seniors, additional GST Voucher – U-Save, MediSave top-ups for children and seniors, and Community Development Council (CDC) Vouchers for Singaporean households. In addition, the Government will provide a top up to the Citizens’ Consultative Committee (CCC) ComCare Fund and grants to self-help groups.
 image: /images/ap_logo1.png
 permalink: /
-notification: Due to high traffic, you may experience issues with Singpass log
-  in to the e-services. We apologise for the inconvenience caused. Please try
-  again at a later time. Thank you.
+notification: ""
 sections:
   - hero:
       background: /images/web6.jpeg
