@@ -2,4 +2,5 @@ collections:
   about-assurance-package:
     output: true
     order:
+      - Media Release.md
       - About Assurance Package.md
