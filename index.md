@@ -26,4 +26,7 @@ sections:
         - title: SMS ADVISORY
           description: ""
           url: /sms-advisory/
+        - title: FAQs
+          description: Key Highlight description
+          url: ""
 ---
