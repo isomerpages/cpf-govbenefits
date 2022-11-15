@@ -1,0 +1,4 @@
+collections:
+  about-assurance-package:
+    output: true
+    order: []
