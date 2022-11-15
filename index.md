@@ -27,6 +27,6 @@ sections:
           description: ""
           url: /sms-advisory/
         - title: FAQs
-          description: Key Highlight description
-          url: ""
+          description: ""
+          url: /faqs/ap-cash/
 ---
