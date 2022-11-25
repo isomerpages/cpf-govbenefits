@@ -45,7 +45,7 @@ You are eligible for the COL Special Payment, if:
 <td style="text-align:center; vertical-align:middle">$100</td>
 	</tr><tr></tr>
 	</tbody></table>
-<br><br>
+<br>
 <hr>
 ### Frequently Asked Questions (FAQs)<br>
 
