@@ -71,7 +71,7 @@ You can only make purchases at merchants that accept PayNow/NETS QR code using t
     </div>
   <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">Receiving my payments via alternate mode</label>
+    <label for="accordion3">Receiving my payments via alternative mode</label>
     <div>
       <ol>
         <li class="Numbering" style="font-size:17px"><details><summary><b>What should I do if I do not want to receive my payments via GovCash?</b></summary><br>>If you do not wish to receive your AP Cash via GovCash, we would encourage you to register for PayNow-NRIC-linked bank account with your preferred bank. You may contact your bank for specific details on how to register your NRIC on PayNow.<br><br>If you have linked your NRIC to PayNow, your future AP Cash (if any) will be automatically credited to your PayNow-NRIC-linked bank account. You may contact your bank to check if you are registered on PayNow-NRIC.<br><br>Alternatively, you can choose to receive your payments via crediting to your bank account. To do so, you may login to the <a href="https://www.govpayouts.gov.sg/cds/ap/login" class="hyperlink">e-services</a> using your Singpass, select “Payment Instruction” and update your POSB/DBS, OCBC or UOB bank account details.
