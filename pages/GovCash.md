@@ -80,3 +80,6 @@ You can only make purchases at merchants that accept PayNow/NETS QR code using t
 				</ol>
     </div>
   </li>
+
+	Test AP video
+	[Assurance Package for GST - YouTube](https://www.youtube.com/watch?v=2unh9UrVyGQ)
