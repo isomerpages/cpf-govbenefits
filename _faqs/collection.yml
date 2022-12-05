@@ -2,6 +2,7 @@ collections:
   faqs:
     output: true
     order:
+      - GovCash(Dec).md
       - Assurance Package Cash, MediSave and GSTV – Cash (Seniors' Bonus).md
       - Additional GSTV – U–Save.md
       - CDC Vouchers.md
