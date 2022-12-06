@@ -3,7 +3,7 @@ title: GovCash
 permalink: /govcash/
 description: ""
 ---
-#### Generic info on GovCash to inform public that there is no need to rush to OCBC to withdraw their GovCash
+#### Important Note: As the bank branches may be more crowded in the first 3 weeks following payment, you may consider using the LifeSG app to transfer your benefits to a PayNow bank account. Through the app, you can also pay for your purchases at participating merchants using the scan and pay QR code. Alternatively, you can still withdraw your benefits at any OCBC ATM at a later date.
 <br>
 <ul class="jekyllcodex_accordion">
   <li>
@@ -17,7 +17,7 @@ Previously, cheque recipients would have to deposit the cheques or encash them o
 Click <a class="hyperlink" href="/files/GC insert AP.pdf">here </a>for the step-by-step guide. <br><br>
 					<br><br>
 </details></li>
-<li class="Numbering" style="font-size:17px"><details><summary><b>Is GovCash safe?</b></summary><br>GovCash is as secure as receiving payments via cheque. It adopts the Singpass facial verification technology to authenticate users, including a liveness-detection capability that blocks the use of photographs, videos or masks during the verification process. Users are also required to key in their unique 8-digit Payment Reference Number (PRN) during the withdrawal of the Government payout at the OCBC ATMs. <br></details></li>    
+<li class="Numbering" style="font-size:17px"><details><summary><b>Is GovCash safe?</b></summary><br>GovCash is as secure as receiving payments via cheque. It adopts the Singpass facial verification technology to authenticate users, including a liveness-detection capability that blocks the use of photographs, videos or masks during the verification process. Users are also required to key in their unique 8-digit Payment Reference Number (PRN) during the withdrawal of the Government payout at the OCBC ATMs. <br></details></li>   <li class="Numbering" style="font-size:17px"><details><summary><b>How do I check my GovCash balance?</b></summary><br>To check your GovCash balance, please visit any OCBC ATMs with your 8-digit Payment Reference Number (PRN). Upon successful authentication, you will be able to view your GovCash balance. Alternatively, you may login to the LifeSG mobile app using your SingPass to view your GovCash balance and transaction history. You may refer to the <a class="hyperlink" href="/files/GC insert AP.pdf">step-by-step guide </a>for detailed instructions. <br></details></li>     
 			</ol>
     </div>
 	</li>  
