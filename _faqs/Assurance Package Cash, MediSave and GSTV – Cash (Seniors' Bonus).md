@@ -15,22 +15,17 @@ If you do not have the Singpass app, an SMS will be sent to your Singpass-regist
 For AP MediSave, individuals aged 16 years old and below who may not have their own Singpass account will be notified via letters sent to their parent’s/guardian’s residential address. 
 <br><br>
 </details></li>
-<li class="Numbering" style="font-size:17px"><details><summary><b>How do I update my mobile number to receive SMS for AP Cash, GSTV – Cash (Seniors’ Bonus) and/or AP MediSave?</b></summary><br>To update your mobile number to receive SMS for AP Cash, GSTV – Cash (Seniors’ Bonus) and/or AP MediSave, please log in to your Singpass account at the <a class="hyperlink" href="https://www.singpass.gov.sg/"> Singpass website</a>.<br><br>For AP MediSave, eligible children without SingPass will be notified via letters sent to their parent's/guardian's residential address. <br></details></li> 
+<li class="Numbering" style="font-size:17px"><details><summary><b>How do I update my mobile number to receive SMS for AP Cash, GSTV – Cash (Seniors’ Bonus) and/or AP MediSave?</b></summary><br>To update your mobile number to receive SMS for AP Cash, GSTV – Cash (Seniors’ Bonus) and/or AP MediSave, please log in to your Singpass account at the <a class="hyperlink" href="https://www.singpass.gov.sg/"> Singpass website</a>.<br><br>For AP MediSave, eligible children without SingPass will be notified via letters sent to their parent's/guardian's residential address. <br><br></details></li> 
 				 <li class="Numbering" style="font-size:17px"><details><summary><b>How do I download and set up my Singpass mobile app ?</b></summary><br>You can download the Singpass app at the <a class="hyperlink" href="https://www.singpass.gov.sg/"> Singpass website</a>.<br></details></li> 
 			</ol>
     </div>
 	</li>  
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Withdrawal via GovCash</label>
+    <label for="accordion2">Sign-Up</label>
     <div>
        <ol>
-				  <li class="Numbering" style="font-size:17px"><details><summary><b>How do I receive my cash benefit via GovCash?</b></summary><br>You can transfer your benefits to your PayNow-NRIC-linked bank account or make payments to merchants by scanning their PayNow or NETS QR code using the LifeSG app.<br><br> The LifeSG app can be downloaded from the Apple App store or Google Play Store. <br><Br>Alternatively, you can withdraw your cash payout at OCBC ATMs islandwide. You just need to enter:<br><br>
-						a) Your unique 8-digit Payment Reference Number (PRN)<br>
-						b) Your NRIC number; and<br>
-						c)	pass the facial verification<br><br>
-You do not need to have an OCBC bank account to use this service. <br><br>
-						You will receive the PRN via a letter and your Singpass app (if any) or SMS after AP Cash has been paid. You can also log into the <a href="https://www.govpayouts.gov.sg/cds/ap/login" class="hyperlink">e-services</a> with your Singpass to view your PRN by selecting “GovCash PRN” that is found at the menu on the left. This will only be available after the payment has been made.<br><br> You may refer to the <a class="hyperlink" href="/files/GC insert AP.pdf">step-by-step guide </a>for detailed instructions on ways you can utilise your GovCash benefits.  <br><br>
+				  <li class="Numbering" style="font-size:17px"><details><summary><b>Do I need to sign up for AP Cash, GSTV – Cash (Seniors’ Bonus) and/or AP MediSave?</b></summary><br>You will automatically receive your AP Cash, GSTV – Cash (Seniors’ Bonus) and/or AP MediSave if you are eligible. No action is required on your part. <br><br>
 </details></li>
 				  <li class="Numbering" style="font-size:17px"><details><summary><b>I lost my letter containing the Payment Reference Number (PRN), can someone else take my money?</b></summary><br>It is not possible to withdraw the money with just the Payment Reference Number as GovCash uses the Singpass Face Verification technology to authenticate users during the withdrawal of the Government benefits from OCBC ATMs. The Face Verification technology incorporates a liveness-detection capability that blocks the use of photographs, videos or masks during the verification process. <br><br>
 						This security feature prevents any fraudulent withdrawal of the Government benefit by third party using photographs or videos belonging to the beneficiary and ensuring only the eligible Singaporean can perform the withdrawal of his or her Government benefit.
