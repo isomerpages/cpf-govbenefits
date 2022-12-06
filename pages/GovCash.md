@@ -31,7 +31,7 @@ Click <a class="hyperlink" href="/files/GC insert AP.pdf">here </a>for the step-
 						b) Your NRIC number; and<br>
 						c)	pass the facial verification<br><br>
 You do not need to have an OCBC bank account to use this service. <br><br>
-						You will receive the PRN via a letter and your Singpass app (if any) or SMS after AP Cash has been paid. You can also log into the <a href="https://www.govpayouts.gov.sg/cds/ap/login" class="hyperlink">e-services</a> with your Singpass to view your PRN by selecting “GovCash PRN” that is found at the menu on the left. This will only be available after the payment has been made.<br><br>
+						You will receive the PRN via a letter and your Singpass app (if any) or SMS after AP Cash has been paid. You can also log into the <a href="https://www.govpayouts.gov.sg/cds/ap/login" class="hyperlink">e-services</a> with your Singpass to view your PRN by selecting “GovCash PRN” that is found at the menu on the left. This will only be available after the payment has been made.<br><br> You may refer to the <a class="hyperlink" href="/files/GC insert AP.pdf">step-by-step guide </a>for detailed instructions on ways you can utilise your GovCash benefits.  <br><br>
 </details></li>
 				  <li class="Numbering" style="font-size:17px"><details><summary><b>I lost my letter containing the Payment Reference Number (PRN), can someone else take my money?</b></summary><br>It is not possible to withdraw the money with just the Payment Reference Number as GovCash uses the Singpass Face Verification technology to authenticate users during the withdrawal of the Government benefits from OCBC ATMs. The Face Verification technology incorporates a liveness-detection capability that blocks the use of photographs, videos or masks during the verification process. <br><br>
 						This security feature prevents any fraudulent withdrawal of the Government benefit by third party using photographs or videos belonging to the beneficiary and ensuring only the eligible Singaporean can perform the withdrawal of his or her Government benefit.
@@ -67,6 +67,10 @@ Proxy’s Action:<br>
 Bring the required documents and visit a NEW ATM located at selected OCBC branches (refer to OCBC website for latest list of NEW ATMs) during the branch operating hours. OCBC Digital Ambassadors will be available to render assistance.<br><br>
 You can only make purchases at merchants that accept PayNow/NETS QR code using the LifeSG app. You can look out for the PayNow/NETS logo on the SG QR label that is displayed by the merchants.<br><br>
 </details></li>
+				  <li class="Numbering" style="font-size:17px"><details><summary><b>If my GovCash balance is insufficient to make payments to merchants, can I top-up using my own funds?</b></summary><br>Topping up your GovCash balance in the LifeSG mobile app is not available. For purchases of amounts above your GovCash balance, please pay the difference using other payment modes that the merchants accept (e.g. cash, debit/credit cards).<br><br>
+</details></li> 
+				 <li class="Numbering" style="font-size:17px"><details><summary><b>Can I cancel my payment after I have confirmed the payment on the LifeSG mobile app?</b></summary><br>No, your GovCash balance will be deducted upon successful payment.<br><br>
+</details></li> 
       </ol>
     </div>
   <li>
