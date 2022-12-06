@@ -3,7 +3,7 @@ title: GovCash
 permalink: /govcash/
 description: ""
 ---
-<img src="/images/exclamation mark.png" style="width: 3%; height: 3%">#### Important Note: As the bank branches may be more crowded in the first 3 weeks following payment, you may consider using the LifeSG app to transfer your benefits to a PayNow bank account. Through the app, you can also pay for your purchases at participating merchants using the scan and pay QR code. Alternatively, you can still withdraw your benefits at any OCBC ATM at a later date.
+<img src="/images/exclamation mark.png" style="width: 3%; height: 3%">Important Note: As the bank branches may be more crowded in the first 3 weeks following payment, you may consider using the LifeSG app to transfer your benefits to a PayNow bank account. Through the app, you can also pay for your purchases at participating merchants using the scan and pay QR code. Alternatively, you can still withdraw your benefits at any OCBC ATM at a later date.
 <br>
 <ul class="jekyllcodex_accordion">
   <li>
@@ -45,8 +45,6 @@ You do not need to have an OCBC bank account to use this service. <br><br>
 </details></li>
 			<li class="Numbering" style="font-size:17px"><details><summary><b>Is there a specific time frame for me to withdraw/utilize my GovCash?</b></summary><br>You can choose to withdraw/utilize your GovCash later and at your convenience. However, as the intent of the AP scheme is to cushion the impact of the planned GST increase for all Singaporeans, you are encouraged to withdraw/utilize your GovCash for daily expenses.<br><br>
 </details></li>
-				 <li class="Numbering" style="font-size:17px"><details><summary><b>How do I know if the merchants allow me make purchases using my GovCash?</b></summary><br>You can only make purchases at merchants that accept PayNow/NETS QR code using the LifeSG app. You can look out for the PayNow/NETS logo on the SG QR label that is displayed by the merchants.<br><br>
-</details></li> 
 				 <li class="Numbering" style="font-size:17px"><details><summary><b>How can I withdraw my GovCash if I cannot personally perform the ATM withdrawal?</b></summary><br><b>Option 1: Use LifeSG to transfer to PayNow-NRIC linked bank account</b><br>
 If you have an existing bank account, you can link your account to PayNow-NRIC with your bank. Thereafter, login to LifeSG mobile app (LifeSG) using your Singpass to transfer your GovCash to your PayNow-NRIC linked bank account. You will be able to receive future Government benefits more quickly into your PayNow-linked bank account.<br><br>
 <b>Option 2: Use LifeSG  for Scan & Pay</b><br>
@@ -67,7 +65,8 @@ Proxy’s Action:<br>
 Bring the required documents and visit a NEW ATM located at selected OCBC branches (refer to OCBC website for latest list of NEW ATMs) during the branch operating hours. OCBC Digital Ambassadors will be available to render assistance.<br><br>
 You can only make purchases at merchants that accept PayNow/NETS QR code using the LifeSG app. You can look out for the PayNow/NETS logo on the SG QR label that is displayed by the merchants.<br><br>
 </details></li>
-				  <li class="Numbering" style="font-size:17px"><details><summary><b>If my GovCash balance is insufficient to make payments to merchants, can I top-up using my own funds?</b></summary><br>Topping up your GovCash balance in the LifeSG mobile app is not available. For purchases of amounts above your GovCash balance, please pay the difference using other payment modes that the merchants accept (e.g. cash, debit/credit cards).<br><br>
+				  <li class="Numbering" style="font-size:17px"><details><summary><b>How do I know if the merchants allow me make purchases using my GovCash?</b></summary><br>You can only make purchases at merchants that accept PayNow/NETS QR code using the LifeSG app. You can look out for the PayNow/NETS logo on the SG QR label that is displayed by the merchants.<br><br>
+</details></li>  <li class="Numbering" style="font-size:17px"><details><summary><b>If my GovCash balance is insufficient to make payments to merchants, can I top-up using my own funds?</b></summary><br>Topping up your GovCash balance in the LifeSG mobile app is not available. For purchases of amounts above your GovCash balance, please pay the difference using other payment modes that the merchants accept (e.g. cash, debit/credit cards).<br><br>
 </details></li> 
 				 <li class="Numbering" style="font-size:17px"><details><summary><b>Can I cancel my payment after I have confirmed the payment on the LifeSG mobile app?</b></summary><br>No, your GovCash balance will be deducted upon successful payment.<br><br>
 </details></li> 
