@@ -31,6 +31,14 @@ For AP MediSave, individuals aged 16 years old and below who may not have their 
     </div>
   <li>
     <input type="checkbox" id="accordion3">
+    <label for="accordion2">Sign-Up</label>
+    <div>
+       <ol>
+				  <li class="Numbering" style="font-size:17px"><details><summary><b>Do I need to sign up for AP Cash, GSTV – Cash (Seniors’ Bonus) and/or AP MediSave?</b></summary><br>You will automatically receive your AP Cash, GSTV – Cash (Seniors’ Bonus) and/or AP MediSave if you are eligible. No action is required on your part. <br><br>
+</details></li>
+      </ol>
+    </div><li>
+    <input type="checkbox" id="accordion4">
     <label for="accordion3">Receiving my payments via alternative mode</label>
     <div>
       <ol>
