@@ -54,7 +54,7 @@ You can appoint a proxy or if you are no longer able to appoint a proxy due to y
 The proxy must be:
 <ul style="list-style-type:disc;">
 	<li style="padding-bottom: 2px; font-size:19px"> Aged 21 years and above;</li>
-	<li style="padding-bottom: 2px; font-size:19px">Is a next-of-kin or caregiver or appointed donee under the Lasting Power of Attorney (LPA) of the beneficiary)</li>
+	<li style="padding-bottom: 2px; font-size:19px">Is a next-of-kin or caregiver or appointed donee under the Lasting Power of Attorney (LPA) of the beneficiary</li>
 	</ul>
 Required Documents:<br>
 a) 	Memo or medical report signed-off by a medical doctor, which certifies the beneficiary’s medical condition that disallows him/her to personally perform the ATM withdrawal<br><br>
