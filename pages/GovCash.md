@@ -3,8 +3,8 @@ title: GovCash
 permalink: /govcash/
 description: ""
 ---
-<html><img src="/images/ecm1.png" style="width:6%; height:8%" align="left" ><br>As the bank branches may be more crowded in the first 3 weeks following payment, you may consider using the LifeSG app to transfer your benefits to a PayNow bank account. Through the app, you can also pay for your purchases at participating merchants using the scan and pay QR code. Alternatively, you can still withdraw your benefits at any OCBC ATM at a later date.
-<br>
+#### !Important Note: As the bank branches may be more crowded in the first 3 weeks following payment, you may consider using the LifeSG app to transfer your benefits to a PayNow bank account. Through the app, you can also pay for your purchases at participating merchants using the scan and pay QR code. Alternatively, you can still withdraw your benefits at any OCBC ATM at a later date.
+
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
