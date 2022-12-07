@@ -15,5 +15,13 @@ description: ""
 <li class="Numbering" style="font-size:17px"><details><summary><b>Can unused GSTV – U-Save benefits be encashed?</b></summary><br>No. The GSTV – U-Save rebates is only meant to directly offset a household’s utilities expense and not other expenses. Any unused GSTV – U-Save rebate will be rolled over to help offset your household’s utilities bills for the following months.<br><br></details></li> 
 				 <li class="Numbering" style="font-size:17px"><details><summary><b>I have other queries on GSTV – U-Save. Who can I ask?</b></summary>More information on the GST Voucher scheme can be found <a class="hyperlink" href="https://www.gstvoucher.gov.sg/am-i-eligible/u-save/">here.</a> Alternatively you may fill in this <a href="https://eforms.spgroup.com.sg/contactus/contactus.aspx" class="hyperlink">feedback form</a> or contact SP services at 6671 7117 (Mon-Fri: 830am-530pm).<br></details></li> 
 			</ol>
+    </div>  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Other Enquiries</label>
+    <div>
+       <ol>
+				  <li class="Numbering" style="font-size:17px"><details><summary><b>Do I need to sign up for AP Cash, GSTV – Cash (Seniors’ Bonus) and/or AP MediSave?</b></summary><br>You will automatically receive your AP Cash, GSTV – Cash (Seniors’ Bonus) and/or AP MediSave if you are eligible. No action is required on your part. <br><br>
+</details></li>
+      </ol>
     </div>
-	</li>  
+	</li>
