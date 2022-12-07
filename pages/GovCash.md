@@ -17,7 +17,7 @@ Previously, cheque recipients would have to deposit the cheques or encash them o
 Click <a class="hyperlink" href="/files/GC insert AP.pdf">here </a>for the step-by-step guide. <br><br>
 					<br><br>
 </details></li>
-<li class="Numbering" style="font-size:17px"><details><summary><b>Is GovCash safe?</b></summary><br>GovCash is as secure as receiving payments via cheque. It adopts the Singpass facial verification technology to authenticate users, including a liveness-detection capability that blocks the use of photographs, videos or masks during the verification process. Users are also required to key in their unique 8-digit Payment Reference Number (PRN) during the withdrawal of the Government payout at the OCBC ATMs. <br></details></li> 
+<li class="Numbering" style="font-size:17px"><details><summary><b>Is GovCash safe?</b></summary><br>GovCash is as secure as receiving payments via cheque. It adopts the Singpass Face Verification technology to authenticate users, including a liveness-detection capability that blocks the use of photographs, videos or masks during the verification process. Users are also required to key in their unique 8-digit Payment Reference Number (PRN) during the withdrawal of the Government payout at the OCBC ATMs. <br></details></li> 
 			</ol>
     </div>
 	</li>  
