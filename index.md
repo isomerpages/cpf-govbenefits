@@ -20,18 +20,18 @@ sections:
       button: Login to e-services
       url: https://www.govpayouts.gov.sg/cds/ap/login
       key_highlights:
-        - title: ABOUT COST-OF-LIVING (COL) SPECIAL PAYMENT
+        - title: Am I eligible?
           description: ""
-          url: /costofliving-special-payment/
-        - title: FAQs
-          description: ""
-          url: /faqs/ap-cash/
+          url: am-i-eligible/ap-cash/
         - title: When will I be Paid?
           description: ""
           url: /when-will-i-be-paid/ap-cash/
         - title: GovCash
           description: ""
           url: /govcash
+        - title: FAQs
+          description: ""
+          url: /faqs/ap-cash/
       subtitle: " "
       title: Delivering Support to Singaporeans
 ---
