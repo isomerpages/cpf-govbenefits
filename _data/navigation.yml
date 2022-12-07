@@ -8,9 +8,9 @@ links:
     collection: am-i-eligible
   - title: When will I be paid?
     collection: when-will-i-be-paid
-  - title: Cost-Of-Living Special Payment
-    url: /costofliving-special-payment/
   - title: FAQs
     collection: faqs
+  - title: Cost-Of-Living Special Payment
+    url: /costofliving-special-payment/
   - title: Login
     url: https://www.govpayouts.gov.sg/cds/ap/login
