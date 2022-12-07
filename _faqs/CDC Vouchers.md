@@ -22,7 +22,8 @@ description: ""
     <label for="accordion2">Other Enquiries</label>
     <div>
        <ol>
-				   <li class="Numbering" style="font-size:17px"><details><summary><b>I have other queries on GSTV – U-Save. Who can I ask?</b></summary>More information on the GST Voucher scheme can be found <a class="hyperlink" href="https://www.gstvoucher.gov.sg/am-i-eligible/u-save/">here.</a> Alternatively you may fill in this <a href="https://eforms.spgroup.com.sg/contactus/contactus.aspx" class="hyperlink">feedback form</a> or contact SP services at 6671 7117 (Mon-Fri: 830am-530pm).<br></details></li>
+				   <li class="Numbering" style="font-size:17px"><details><summary><b>Why is the Government giving out these vouchers?</b></summary>As part of the Assurance Package for GST, all Singaporean households will receive two tranches of CDC Vouchers worth $200 each in 2023 and 2024 to further cushion the impact of the GST rate increase for all Singaporeans. All Singaporean households will receive an additional $100 CDC Vouchers in 2023 from the $1.5 billion support package announced in Oct 2022.<br></details></li>
+				 <li class="Numbering" style="font-size:17px"><details><summary><b>I do not have a mobile phone or digital device. What should I do?</b></summary>Please kindly seek help from your family members for assistance to claim the vouchers after you have received the notification letter. <br><br> If you are unable to seek help, you can approach the nearest Community Centres/Clubs for assistance to print the voucher. Please bring along your notification letter, your Identification Card (IC) and ensure you have a valid Singpass account.<br><br></details></li>
       </ol>
     </div>
 	</li>
