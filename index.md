@@ -23,15 +23,15 @@ sections:
         - title: ABOUT COST-OF-LIVING (COL) SPECIAL PAYMENT
           description: ""
           url: /costofliving-special-payment/
-        - title: Am I eligible?
-          description: ""
-          url: /am-i-eligible/ap-cash/
-        - title: When will I be Paid?
-          description: ""
-          url: /when-will-i-be-paid/ap-cash/
         - title: FAQs
           description: ""
           url: /faqs/ap-cash/
+        - title: When will I be Paid?
+          description: ""
+          url: /when-will-i-be-paid/ap-cash/
+        - title: GovCash
+          description: ""
+          url: /govcash
       subtitle: " "
       title: Delivering Support to Singaporeans
 ---
