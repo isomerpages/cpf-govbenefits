@@ -26,12 +26,12 @@ sections:
         - title: When will I be Paid?
           description: ""
           url: /when-will-i-be-paid/ap-cash/
-        - title: GovCash
-          description: ""
-          url: /govcash
         - title: FAQs
           description: ""
           url: /faqs/ap-cash/
+        - title: GovCash
+          description: ""
+          url: /govcash
       subtitle: " "
       title: Delivering Support to Singaporeans
 ---
