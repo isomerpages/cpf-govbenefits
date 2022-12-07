@@ -74,7 +74,7 @@ For enquiries related to withdrawal of AP Cash and/or GSTV – Cash (Seniors’ 
 </details></li>
 				<li class="Numbering" style="font-size:17px"><details><summary><b>I am residing overseas, am I eligible to receive the AP Cash, MediSave and/or GSTV – Cash (Seniors' Bonus)?</b></summary><br>The AP benefits and/or GSTV – Cash (Seniors' Bonus) are meant to provide relief to Singaporeans to address their concerns on the cost-of-living in Singapore and to cushion the impact of the planned GST rate increase for Singaporeans residing in Singapore. Therefore, you are not eligible for these benefits if you are residing overseas.<br><br>
 </details></li>
-				<li class="Numbering" style="font-size:17px"><details><summary><b>If the beneficiary passes away before the payment of the AP Cash and/or GSTV – Cash (Seniors’ Bonus) is made , will he/she still qualify?</b></summary><br>No. The AP Cash and/or GSTV – Cash (Seniors' Bonus) is only paid out to Singapore citizens who are alive..<br>
+				<li class="Numbering" style="font-size:17px"><details><summary><b>If the beneficiary passes away before the payment of the AP Cash and/or GSTV – Cash (Seniors’ Bonus) is made , will he/she still qualify?</b></summary><br>No. The AP Cash and/or GSTV – Cash (Seniors' Bonus) is only paid out to Singapore citizens who are alive.<br>
 </details></li>
 				</ol>
     </div>
