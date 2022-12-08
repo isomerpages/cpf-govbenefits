@@ -22,13 +22,13 @@ sections:
       key_highlights:
         - title: Am I eligible?
           description: ""
-          url: /am-i-eligible/ap-cash/
+          url: am-i-eligible/ap-cash/
         - title: When will I be Paid?
           description: ""
           url: /when-will-i-be-paid/ap-cash/
-        - title: COST-OF-LIVING (COL) SPECIAL PAYMENT
+        - title: GovCash
           description: ""
-          url: /costofliving-special-payment/
+          url: /govcash
         - title: FAQs
           description: ""
           url: /faqs/ap-cash/
