@@ -22,7 +22,7 @@ You are eligible for the COL Special Payment, if:
 <th style="text-align:center; vertical-align:top" rowspan="3"><br><br> Own more than one property</th>
 </tr>
 <tr>
-<th style="text-align:center; vertical-align:middle" colspan="1"> AI &lt; $22,000</th>
+<th style="text-align:center; vertical-align:middle" colspan="1"> AI ≤ $22,000</th>
 <th style="text-align:center; vertical-align:middle" colspan="1">$22,000 &lt; AI ≤ $34,000</th>
 <th style="text-align:center; vertical-align:middle" colspan="1">$34,000 &lt; AI ≤ $100,000</th>
 <th style="text-align:center; vertical-align:middle" colspan="1"> AI &gt; $100,000</th>
