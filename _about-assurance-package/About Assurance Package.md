@@ -3,11 +3,10 @@ title: About Assurance Package
 permalink: /about-assurancepackage/
 description: ""
 ---
-
 # Overview 
 The Assurance Package (AP) for GST will cushion the impact of the GST rate increase for all Singaporeans. 
 
-The AP comprises cash benefits for all adult Singaporeans, additional cash for lower-income seniors, additional GST Voucher – U-Save, MediSave top-ups for children and seniors, and Community Development Council (CDC) Vouchers for Singaporean households. In addition, the Government will provide a top up to the Citizens’ Consultative Committee (CCC) ComCare Fund and grants to self-help groups.   
+The AP comprises cash benefits for all adult Singaporeans, additional cash for lower-income seniors, additional GST Voucher – U-Save, MediSave grant for children and seniors, and Community Development Council (CDC) Vouchers for Singaporean households. In addition, the Government will provide a top up to the Citizens’ Consultative Committee (CCC) ComCare Fund and grants to self-help groups.   
 
 The Government will top up the AP by $1.4 billion to reach around $8 billion, up from the $6.6 billion announced at Budget 2022. This ensures that even with the current inflation situation, the AP will offset additional GST expenses for majority of Singaporean households for at least five years, with around ten years offset for lower-income households. The details of this enhancement will be announced at Budget 2023, and the enhancements will be applied to AP benefits thereafter.
 
