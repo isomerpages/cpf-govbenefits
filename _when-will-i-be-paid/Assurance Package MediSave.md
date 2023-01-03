@@ -4,7 +4,7 @@ permalink: /when-will-i-be-paid/ap-medisave/
 description: ""
 ---
 ### Assurance Package MediSave ###
-<font style="font-size:17px">If you are eligible for the AP MediSave, you will receive the top-up to your CPF MediSave account in February each year, from 2023 to 2025.  <br><br>
+<font style="font-size:17px">If you are eligible for the AP MediSave, you will receive it in your CPF MediSave account in February each year, from 2023 to 2025.  <br><br>
 
 <table>
 	<thead>  
