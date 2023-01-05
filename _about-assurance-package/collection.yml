@@ -2,5 +2,6 @@ collections:
   about-assurance-package:
     output: true
     order:
+      - Assurance Package Brochure.md
       - About Assurance Package.md
       - Press Release.md
