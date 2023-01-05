@@ -13,4 +13,4 @@ The Government will top up the AP by $1.4 billion to reach around $8 billion, up
 The AP is on top of the permanent GST Voucher (GSTV) scheme introduced by the Government in Budget 2012 to help lower- and middle-income Singaporean households defray their GST expenses, i.e. what they pay in GST. For more details on the GSTV scheme, please visit the <a class="hyperlink" href="https://www.gstvoucher.gov.sg"> GSTV website</a>.
 
 <b>
-<a class="hyperlink" href="/files/apbrochure.pdf">Assurance Package Brochure</a></b>
+<a class="hyperlink" href="/files/ap-brochure.pdf">Assurance Package Brochure</a></b>
