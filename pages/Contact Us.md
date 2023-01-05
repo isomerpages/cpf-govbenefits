@@ -53,8 +53,11 @@ description: ""
 		<th style="width:92%"> </th>
 	</tr>
 	<tr>
+		<td><img src="/images/email_icon.png"></td>
+		<td>For enquiries, please fill in a <a href="https://www.pa.gov.sg/feedback" class="hyperlink">feedback form</a>.</td>
+	</tr><tr>
 		<td><img src="/images/call_icon.png"></td>
-		<td>For enquiries, please call the PA Contact Centre at 6225 5322 or fill in a <a href="https://www.pa.gov.sg/feedback" class="hyperlink">feedback form</a>.</td>
+		<td>6225 5322<br>Operating Hours:<br><b>Mondays to Sundays:</b><br>8.00am to 6.00pm. <br><b>Eves of Christmas,  New Year and Chinese New Year:</b><br>8.00am to 1.00pm</td>
 	</tr>
 	
 </table>
