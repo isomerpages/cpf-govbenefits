@@ -15,7 +15,7 @@ description: ""
 <li class="Numbering" style="font-size:17px"><details><summary><b>What will I/my household need to claim the CDC Vouchers?</b></summary><br>You will require a valid Singpass account and smartphone to log in and claim the vouchers. Singpass is needed to verify your identity and prevent fraudulent claims on behalf of your household. Please refer to the step-by-step infographics on how to claim your household’s 2023 CDC Vouchers or the notification letter. Any one member of your household can claim the vouchers.<br><br>
 	</details></li> 
 				 <li class="Numbering" style="font-size:17px"><details>
-		<summary><b>Where can I spend my CDC Vouchers at?</b></summary><br>The CDC Vouchers can be spent at participating heartland merchants and hawkers, and supermarkets. More details will be announced by CDCs subsequently.<br><br>
+		<summary><b>Where can I spend my CDC Vouchers at?</b></summary><br>The CDC Vouchers can be spent at participating heartland merchants and hawkers, and supermarkets. You can visit <a href="https://www.go.gov.sg/cdcvouchers" class="hyperlink">go.gov.sg/cdcvouchers</a> to find out where to spend your CDC Vouchers. You can identify participating heartland merchants and hawkers with the teal-coloured “CDC Voucher” decal, while you can identify participating supermarkets with the yellow-coloured “CDC Supermarket Voucher” decal.<br><br>
 </details></li>
 			</ol>
     </div>  <li>
