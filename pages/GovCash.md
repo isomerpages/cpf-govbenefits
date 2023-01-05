@@ -17,7 +17,7 @@ Previously, cheque recipients would have to deposit the cheques or encash them o
 Click <a class="hyperlink" href="/files/GC insert AP.pdf">here </a>for the step-by-step guide. <br><br>
 					<br><br>
 </details></li>
-<li class="Numbering" style="font-size:17px"><details><summary><b>Is GovCash safe?</b></summary><br>GovCash is as secure as receiving payments via cheque. It adopts the Singpass Face Verification technology to authenticate users, including a liveness-detection capability that blocks the use of photographs, videos or masks during the verification process. Users are also required to key in their unique 8-digit Payment Reference Number (PRN) during the withdrawal of the Government payout at the OCBC ATMs. <br></details></li> 
+<li class="Numbering" style="font-size:17px"><details><summary><b>Is GovCash safe?</b></summary><br>GovCash is as secure as receiving payments via cheque. It adopts the Singpass Face Verification technology to authenticate users, including a liveness-detection capability that blocks the use of photographs, videos or masks during the verification process. Users are also required to key in their unique 8-digit Payment Reference Number (PRN) during the withdrawal of the Government benefits at the OCBC ATMs. <br></details></li> 
 			</ol>
     </div>
 	</li>  
@@ -26,7 +26,7 @@ Click <a class="hyperlink" href="/files/GC insert AP.pdf">here </a>for the step-
     <label for="accordion2">Withdrawal via GovCash</label>
     <div>
        <ol>
-				  <li class="Numbering" style="font-size:17px"><details><summary><b>How do I receive my cash benefit via GovCash?</b></summary><br>You can transfer your benefits to your PayNow-NRIC-linked bank account or make payments to merchants by scanning their PayNow or NETS QR code using the LifeSG app.<br><br> The LifeSG app can be downloaded from the Apple App store or Google Play Store. <br><Br>Alternatively, you can withdraw your cash payout at OCBC ATMs islandwide. You just need to enter:<br><br>
+				  <li class="Numbering" style="font-size:17px"><details><summary><b>How do I receive my cash benefit via GovCash?</b></summary><br>You can transfer your benefits to your PayNow-NRIC-linked bank account or make payments to merchants by scanning their PayNow or NETS QR code using the LifeSG app.<br><br> The LifeSG app can be downloaded from the Apple App store or Google Play Store. <br><Br>Alternatively, you can withdraw your cash benefit at OCBC ATMs islandwide. You just need to enter:<br><br>
 						a) Your unique 8-digit Payment Reference Number (PRN)<br>
 						b) Your NRIC number; and<br>
 						c)	pass the facial verification<br><br>
