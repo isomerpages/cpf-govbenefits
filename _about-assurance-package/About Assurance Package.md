@@ -12,5 +12,5 @@ The Government will top up the AP by $1.4 billion to reach around $8 billion, up
 
 The AP is on top of the permanent GST Voucher (GSTV) scheme introduced by the Government in Budget 2012 to help lower- and middle-income Singaporean households defray their GST expenses, i.e. what they pay in GST. For more details on the GSTV scheme, please visit the <a class="hyperlink" href="https://www.gstvoucher.gov.sg"> GSTV website</a>.
 
-<b>Assurance Package Brochure</b><br>
-<a class="hyperlink" href="/files/2022_Nov.pdf">Up to 2.9 million adult Singaporeans will receive Assurance Package Cash and Cost-of-Living (COL) Special Payment in December 2022. (245KB)</a><br><br>
+<b>
+<a class="hyperlink" href="/files/apbrochure.pdf">Assurance Package Brochure</a></b>
