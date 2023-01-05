@@ -59,5 +59,5 @@ description: ""
 		<td><img src="/images/call_icon.png"></td>
 		<td>6225 5322<br>Operating Hours:<br><b>Mondays to Sundays:</b><br>8.00am to 6.00pm. <br><b>Eves of Christmas,  New Year and Chinese New Year:</b><br>8.00am to 1.00pm</td>
 	</tr>
-	
+	<tr></tr>
 </table>
