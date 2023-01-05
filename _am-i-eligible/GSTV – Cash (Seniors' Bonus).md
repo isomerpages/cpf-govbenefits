@@ -17,7 +17,7 @@ v. You must not own more than one property <br><br>
 	<table>
 <thead>
   <tr>
-   <th style="text-align:center; vertical-align:middle">2023 payout</th>
+   <th style="text-align:center; vertical-align:middle">2023 benefits</th>
 		<th colspan="2" style="text-align:center; vertical-align:middle"> Annual Value of Home as at 31 July 2022</th>
   </tr>
 </thead>
