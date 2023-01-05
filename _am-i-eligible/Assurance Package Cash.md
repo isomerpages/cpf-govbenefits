@@ -13,13 +13,13 @@ ii. You must be aged 21 and above in the reference year.<br><br>
 <thead>
   <tr>
 		<th style="text-align:center; vertical-align:top" rowspan="4"><br><br> Singaporeans aged 21 years and above in reference year</th>		
-		<th style="text-align:center; vertical-align:top" rowspan="4"><br><br> Payout Period</th></tr>
+		<th style="text-align:center; vertical-align:top" rowspan="4"><br><br> Payment Period</th></tr>
 		<tr>
 		<th style="text-align:center; vertical-align:middle" colspan="3"> Owns 0 to 1 property</th>
 					<th style="text-align:center; vertical-align:top" rowspan="4"><br><br> Owns >1 property</th>
 			  </tr>
 	<tr>
-		<th style="text-align:center; vertical-align:middle" colspan="3"> Assessable Income (AI) for Year of Assessment in Payout  Year</th>
+		<th style="text-align:center; vertical-align:middle" colspan="3"> Assessable Income (AI) for Year of Assessment in Payment Year</th>
   </tr>
 	<tr><th style="text-align:center; vertical-align:middle" colspan="1"> AI ≤ $34,000</th>
 <th style="text-align:center; vertical-align:middle" colspan="1">$34,000 &lt; AI ≤ $100,000</th>
