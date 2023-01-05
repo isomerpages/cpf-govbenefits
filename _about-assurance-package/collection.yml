@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - About Assurance Package.md
-      - Assurance Package Brochure.md
       - Press Release.md
